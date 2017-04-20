@@ -1,0 +1,141 @@
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:    <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl:    <http://www.w3.org/2002/07/owl#>
+PREFIX skos:   <http://www.w3.org/2004/02/skos/core#>
+PREFIX skosxl: <http://www.w3.org/2008/05/skos-xl#>
+PREFIX iso-thes: <http://purl.org/iso25964/skos-thes#>
+PREFIX gacs: <http://id.agrisemantics.org/gacs/>
+PREFIX agvoc: <http://id.agrisemantics.org/vocab#>
+PREFIX dc:      <http://purl.org/dc/elements/1.1/>
+PREFIX dct:     <http://purl.org/dc/terms/>
+
+CONSTRUCT {
+  # regular concepts
+  ?c a ?type .
+  ?c skos:inScheme ?cs .
+  ?c skos:topConceptOf ?topcs .
+  ?topcs skos:hasTopConcept ?c .
+  ?c skos:broader ?broader .
+  ?c skos:narrower ?narrower .
+  ?c skos:related ?related .
+  ?c agvoc:hasProduct ?product .
+  ?c agvoc:productOf ?productof .
+  ?c skos:prefLabel ?pref, ?scipref .
+  ?c skos:altLabel ?alt, ?scialt .
+  ?c skos:definition ?def .
+  ?def ?defprop ?defval .
+  ?c skos:scopeNote ?scopenote .
+  ?c skos:editorialNote ?ednote .
+  
+  # thematic groups
+  ?g ?gprop ?gval .
+
+  # concept scheme definition
+  ?gacscs ?csprop ?csval .
+
+  # property definitions
+  ?prop ?propprop ?propval .
+
+  # class definitions
+  ?class ?classprop ?classval .
+}
+WHERE {
+  # regular concepts
+  {
+    # type
+    ?c a skos:Concept .
+    ?c a ?type .
+
+    # concept scheme links
+    ?c skos:inScheme ?cs .
+    OPTIONAL {
+      { ?c skos:topConceptOf ?topcs }
+      UNION
+      { ?topcs skos:hasTopConcept ?c }
+    }
+
+    # hierarchy
+    OPTIONAL {
+      ?c skos:broader ?broader .
+    }
+    OPTIONAL {
+      ?c skos:narrower ?narrower .
+    }
+
+    # RTs
+    OPTIONAL {
+      ?c skos:related ?related
+    }
+
+    # custom relationships
+    OPTIONAL {
+      ?c agvoc:hasProduct ?product .
+    }
+    OPTIONAL {
+      ?c agvoc:productOf ?productof .
+    }
+
+    # English labels
+    OPTIONAL {
+      ?c skosxl:prefLabel/skosxl:literalForm ?pref .
+      FILTER(LANG(?pref)='en')
+    }
+    OPTIONAL {
+      ?c skosxl:altLabel/skosxl:literalForm ?alt .
+      FILTER(LANG(?alt)='en')
+    }
+
+    # Scientific labels
+    OPTIONAL {
+      ?c skosxl:prefLabel/skosxl:literalForm ?scipref .
+      FILTER(LANG(?scipref)='zxx')
+    }
+    OPTIONAL {
+      ?c skosxl:altLabel/skosxl:literalForm ?scialt .
+      FILTER(LANG(?scialt)='zxx')
+    }
+
+    # definitions
+    OPTIONAL {
+      ?c skos:definition ?def .
+      ?def ?defprop ?defval .
+      FILTER(!isLiteral(?defval) || LANG(?defval)='en' || LANG(?defval)='')
+    }
+    
+    # scope notes
+    OPTIONAL {
+      ?c skos:scopeNote ?scopenote .
+      FILTER(LANG(?scopenote)='en')
+    }
+
+    # editorial notes
+    OPTIONAL {
+      ?c skos:editorialNote ?ednote .
+      FILTER(LANG(?ednote)='en')
+    }
+  }
+  UNION
+  # thematic groups
+  {
+    ?g a iso-thes:ConceptGroup .
+    ?g ?gprop ?gval .
+  }
+  UNION
+  # concept scheme definition
+  {
+    ?gacscs a skos:ConceptScheme .
+    ?gacscs ?csprop ?csval .
+  }
+  UNION
+  # property definitions
+  {
+    ?prop a owl:ObjectProperty .
+    ?prop ?propprop ?propval .
+  }
+  UNION
+  # class definitions
+  {
+    ?class a owl:Class .
+    ?class ?classprop ?classval .
+  }
+}
