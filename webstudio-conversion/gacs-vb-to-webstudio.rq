@@ -11,7 +11,7 @@ PREFIX dct:     <http://purl.org/dc/terms/>
 
 CONSTRUCT {
   # regular concepts
-  ?c a ?type .
+  ?c a ?type, skos:Concept .
   ?c skos:inScheme ?cs .
   ?c skos:topConceptOf ?topcs .
   ?topcs skos:hasTopConcept ?c .
@@ -43,7 +43,7 @@ WHERE {
   # regular concepts
   {
     # type
-    ?c a skos:Concept .
+    ?c rdf:type/rdfs:subClassOf skos:Concept .
     ?c a ?type .
 
     # concept scheme links
