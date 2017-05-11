@@ -29,8 +29,7 @@ CONSTRUCT {
   ?c agvoc:productOf ?productof .
   ?c skos:prefLabel ?pref, ?scipref .
   ?c skos:altLabel ?alt, ?scialt .
-  ?c skos:definition ?def .
-  ?def ?defprop ?defval .
+  ?c skos:definition ?deflit .
   ?c skos:scopeNote ?scopenote .
   ?c skos:editorialNote ?ednote .
   
@@ -107,8 +106,12 @@ WHERE {
     # definitions
     OPTIONAL {
       ?c skos:definition ?def .
-      ?def ?defprop ?defval .
-      FILTER(!isLiteral(?defval) || LANG(?defval)='en' || LANG(?defval)='')
+      ?def rdf:value ?defval .
+      FILTER(LANG(?defval)='en' || LANG(?defval)='')
+      OPTIONAL {
+        ?def dct:source ?defsrc
+      }
+      BIND(IF(BOUND(?defsrc), CONCAT(?defval, ' -- ', STR(?defsrc)), ?defval) AS ?deflit)
     }
     
     # scope notes
