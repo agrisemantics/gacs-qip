@@ -40,6 +40,7 @@ CONSTRUCT {
 
   # concept scheme definition
   ?gacscs ?csprop ?csval .
+  ?gacscs rdfs:label "GACS Core"@en .
 
   # property definitions
   ?prop ?propprop ?propval .
@@ -134,6 +135,7 @@ WHERE {
   {
     ?gacscs a skos:ConceptScheme .
     ?gacscs ?csprop ?csval .
+    FILTER(?csprop != rdfs:label)
   }
   UNION
   # property definitions
