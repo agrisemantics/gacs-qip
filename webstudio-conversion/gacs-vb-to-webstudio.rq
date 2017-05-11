@@ -10,6 +10,13 @@ PREFIX dc:      <http://purl.org/dc/elements/1.1/>
 PREFIX dct:     <http://purl.org/dc/terms/>
 
 CONSTRUCT {
+  # memberOf relationship definition
+  agvoc:memberOf a owl:ObjectProperty ;
+    rdfs:domain skos:Concept ;
+    rdfs:range skos:Collection ;
+    owl:inverseOf skos:member ;
+    rdfs:label "member of collection"@en .
+
   # regular concepts
   ?c a ?type, skos:Concept .
   ?c skos:inScheme ?cs .
@@ -29,6 +36,7 @@ CONSTRUCT {
   
   # thematic groups
   ?g ?gprop ?gval .
+  ?gmember agvoc:memberOf ?g .
 
   # concept scheme definition
   ?gacscs ?csprop ?csval .
@@ -119,6 +127,7 @@ WHERE {
   {
     ?g a iso-thes:ConceptGroup .
     ?g ?gprop ?gval .
+    ?g skos:member ?gmember .
   }
   UNION
   # concept scheme definition
