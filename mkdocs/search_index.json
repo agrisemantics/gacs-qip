@@ -11,52 +11,37 @@
             "title": "Guidelines for GACS"
         },
         {
-            "location": "/definitions/",
-            "text": "Definitions\n\n\nGuidelines for definitions...",
-            "title": "Definitions"
+            "location": "/user_guide/",
+            "text": "Definitions\n\n\nGuidelines for definitions...\n\n\nLabels\n\n\nGuidelines for labels...",
+            "title": "User Guide"
         },
         {
-            "location": "/definitions/#definitions",
+            "location": "/user_guide/#definitions",
             "text": "Guidelines for definitions...",
             "title": "Definitions"
         },
         {
-            "location": "/labels/",
-            "text": "Labels\n\n\nGuidelines for labels...",
-            "title": "Labels"
-        },
-        {
-            "location": "/labels/#labels",
+            "location": "/user_guide/#labels",
             "text": "Guidelines for labels...",
             "title": "Labels"
         },
         {
-            "location": "/semantic_relations/",
-            "text": "Semantic relations\n\n\nResistendum, Laeli et Scipio, senectuti est, eiusque vitia diligentia compensanda sunt, pugnandum tamquam contra morbum sic contra senectutem; habenda ratio valetudinis, utendum exercitationibus modicis, tantum cibi et potionis adhibendum ut reficiantur vires, non opprimantur. Nec vero corpori solum subveniendum est, sed menti atque animo multo magis; nam haec quoque, nisi tamquam lumini oleum instilles, exstinguuntur senectute. Et corpora quidem exercitationum defatigatione ingravescunt, animi autem exercendo levantur.",
-            "title": "Semantic relations"
+            "location": "/semantic_structure/",
+            "text": "Semantic relations\n\n\nResistendum, Laeli et Scipio, senectuti est, eiusque vitia diligentia compensanda sunt, pugnandum tamquam contra morbum sic contra senectutem; habenda ratio valetudinis, utendum exercitationibus modicis, tantum cibi et potionis adhibendum ut reficiantur vires, non opprimantur. Nec vero corpori solum subveniendum est, sed menti atque animo multo magis; nam haec quoque, nisi tamquam lumini oleum instilles, exstinguuntur senectute. Et corpora quidem exercitationum defatigatione ingravescunt, animi autem exercendo levantur. \n\n\nSemantic types\n\n\nResistendum, Laeli et Scipio, senectuti est, eiusque vitia diligentia compensanda sunt, pugnandum tamquam contra morbum sic contra senectutem; habenda ratio valetudinis, utendum exercitationibus modicis, tantum cibi et potionis adhibendum ut reficiantur vires, non opprimantur. Nec vero corpori solum subveniendum est, sed menti atque animo multo magis; nam haec quoque, nisi tamquam lumini oleum instilles, exstinguuntur senectute. Et corpora quidem exercitationum defatigatione ingravescunt, animi autem exercendo levantur.\n\n\nThematic groups\n\n\nResistendum, Laeli et Scipio, senectuti est, eiusque vitia diligentia compensanda sunt, pugnandum tamquam contra morbum sic contra senectutem; habenda ratio valetudinis, utendum exercitationibus modicis, tantum cibi et potionis adhibendum ut reficiantur vires, non opprimantur. Nec vero corpori solum subveniendum est, sed menti atque animo multo magis; nam haec quoque, nisi tamquam lumini oleum instilles, exstinguuntur senectute. Et corpora quidem exercitationum defatigatione ingravescunt, animi autem exercendo levantur.",
+            "title": "Semantic Structure"
         },
         {
-            "location": "/semantic_relations/#semantic-relations",
+            "location": "/semantic_structure/#semantic-relations",
             "text": "Resistendum, Laeli et Scipio, senectuti est, eiusque vitia diligentia compensanda sunt, pugnandum tamquam contra morbum sic contra senectutem; habenda ratio valetudinis, utendum exercitationibus modicis, tantum cibi et potionis adhibendum ut reficiantur vires, non opprimantur. Nec vero corpori solum subveniendum est, sed menti atque animo multo magis; nam haec quoque, nisi tamquam lumini oleum instilles, exstinguuntur senectute. Et corpora quidem exercitationum defatigatione ingravescunt, animi autem exercendo levantur.",
             "title": "Semantic relations"
         },
         {
-            "location": "/semantic_types/",
-            "text": "Semantic types\n\n\nResistendum, Laeli et Scipio, senectuti est, eiusque vitia diligentia compensanda sunt, pugnandum tamquam contra morbum sic contra senectutem; habenda ratio valetudinis, utendum exercitationibus modicis, tantum cibi et potionis adhibendum ut reficiantur vires, non opprimantur. Nec vero corpori solum subveniendum est, sed menti atque animo multo magis; nam haec quoque, nisi tamquam lumini oleum instilles, exstinguuntur senectute. Et corpora quidem exercitationum defatigatione ingravescunt, animi autem exercendo levantur.",
-            "title": "Semantic types"
-        },
-        {
-            "location": "/semantic_types/#semantic-types",
+            "location": "/semantic_structure/#semantic-types",
             "text": "Resistendum, Laeli et Scipio, senectuti est, eiusque vitia diligentia compensanda sunt, pugnandum tamquam contra morbum sic contra senectutem; habenda ratio valetudinis, utendum exercitationibus modicis, tantum cibi et potionis adhibendum ut reficiantur vires, non opprimantur. Nec vero corpori solum subveniendum est, sed menti atque animo multo magis; nam haec quoque, nisi tamquam lumini oleum instilles, exstinguuntur senectute. Et corpora quidem exercitationum defatigatione ingravescunt, animi autem exercendo levantur.",
             "title": "Semantic types"
         },
         {
-            "location": "/thematic_groups/",
-            "text": "Thematic groups\n\n\nResistendum, Laeli et Scipio, senectuti est, eiusque vitia diligentia compensanda sunt, pugnandum tamquam contra morbum sic contra senectutem; habenda ratio valetudinis, utendum exercitationibus modicis, tantum cibi et potionis adhibendum ut reficiantur vires, non opprimantur. Nec vero corpori solum subveniendum est, sed menti atque animo multo magis; nam haec quoque, nisi tamquam lumini oleum instilles, exstinguuntur senectute. Et corpora quidem exercitationum defatigatione ingravescunt, animi autem exercendo levantur.",
-            "title": "Thematic groups"
-        },
-        {
-            "location": "/thematic_groups/#thematic-groups",
+            "location": "/semantic_structure/#thematic-groups",
             "text": "Resistendum, Laeli et Scipio, senectuti est, eiusque vitia diligentia compensanda sunt, pugnandum tamquam contra morbum sic contra senectutem; habenda ratio valetudinis, utendum exercitationibus modicis, tantum cibi et potionis adhibendum ut reficiantur vires, non opprimantur. Nec vero corpori solum subveniendum est, sed menti atque animo multo magis; nam haec quoque, nisi tamquam lumini oleum instilles, exstinguuntur senectute. Et corpora quidem exercitationum defatigatione ingravescunt, animi autem exercendo levantur.",
             "title": "Thematic groups"
         }

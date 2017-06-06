@@ -10,41 +10,19 @@
     
 
     
-        
     <url>
-     <loc>/definitions/</loc>
+     <loc>/user_guide/</loc>
      <lastmod>2017-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>/labels/</loc>
-     <lastmod>2017-06-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     
 
     
-        
     <url>
-     <loc>/semantic_relations/</loc>
+     <loc>/semantic_structure/</loc>
      <lastmod>2017-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>/semantic_types/</loc>
-     <lastmod>2017-06-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/thematic_groups/</loc>
-     <lastmod>2017-06-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     
 
 </urlset>
