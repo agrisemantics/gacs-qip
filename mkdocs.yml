@@ -4,3 +4,7 @@ pages:
 - User Guide: user_guide.md
 - Semantic Structure: semantic_structure.md
 theme: 'readthedocs'
+repo_url: https://github.com/agrisemantics/gacs-qip
+repo_name: 'Github'
+edit_uri: 'edit/master/docs/'
+site_description: 'Guidelines for GACS'
