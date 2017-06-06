@@ -1,0 +1,11 @@
+site_name: Guidelines for GACS
+pages:
+- Introduction: index.md
+- User Guide:
+    - Definitions: definitions.md
+    - Labels: labels.md
+- Semantic Structure:
+    - Semantic relations: semantic_relations.md
+    - Semantic types: semantic_types.md
+    - Thematic groups: thematic_groups.md
+theme: 'readthedocs'
