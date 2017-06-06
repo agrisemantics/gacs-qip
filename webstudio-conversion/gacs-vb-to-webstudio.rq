@@ -10,6 +10,13 @@ PREFIX dc:      <http://purl.org/dc/elements/1.1/>
 PREFIX dct:     <http://purl.org/dc/terms/>
 
 CONSTRUCT {
+  # memberOf relationship definition
+  agvoc:memberOf a owl:ObjectProperty ;
+    rdfs:domain skos:Concept ;
+    rdfs:range skos:Collection ;
+    owl:inverseOf skos:member ;
+    rdfs:label "member of collection"@en .
+
   # regular concepts
   ?c a ?type, skos:Concept .
   ?c skos:inScheme ?cs .
@@ -22,16 +29,17 @@ CONSTRUCT {
   ?c agvoc:productOf ?productof .
   ?c skos:prefLabel ?pref, ?scipref .
   ?c skos:altLabel ?alt, ?scialt .
-  ?c skos:definition ?def .
-  ?def ?defprop ?defval .
+  ?c skos:definition ?deflit .
   ?c skos:scopeNote ?scopenote .
   ?c skos:editorialNote ?ednote .
   
   # thematic groups
   ?g ?gprop ?gval .
+  ?gmember agvoc:memberOf ?g .
 
   # concept scheme definition
   ?gacscs ?csprop ?csval .
+  ?gacscs rdfs:label "GACS Core"@en .
 
   # property definitions
   ?prop ?propprop ?propval .
@@ -98,8 +106,12 @@ WHERE {
     # definitions
     OPTIONAL {
       ?c skos:definition ?def .
-      ?def ?defprop ?defval .
-      FILTER(!isLiteral(?defval) || LANG(?defval)='en' || LANG(?defval)='')
+      ?def rdf:value ?defval .
+      FILTER(LANG(?defval)='en' || LANG(?defval)='')
+      OPTIONAL {
+        ?def dct:source ?defsrc
+      }
+      BIND(IF(BOUND(?defsrc), CONCAT(?defval, ' -- ', STR(?defsrc)), ?defval) AS ?deflit)
     }
     
     # scope notes
@@ -119,12 +131,14 @@ WHERE {
   {
     ?g a iso-thes:ConceptGroup .
     ?g ?gprop ?gval .
+    ?g skos:member ?gmember .
   }
   UNION
   # concept scheme definition
   {
     ?gacscs a skos:ConceptScheme .
     ?gacscs ?csprop ?csval .
+    FILTER(?csprop != rdfs:label)
   }
   UNION
   # property definitions
