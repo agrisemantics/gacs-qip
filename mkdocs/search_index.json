@@ -122,13 +122,23 @@
         },
         {
             "location": "/docproperties/",
-            "text": "Documentation properties\n\n\nScope notes\n [ISO 25964, p8, scope note: \"note that defines or clarifies the\nsemantic boundiaries of a concept as it is used in the structured vocabulary\".\nGoes on to note: \"A term used to label a concept can have several meanings in\nnormal usage.  A scope note is used to restrict the concept to only one of\nthose meanings, and where necessary refers to other concepts that are included\nor excluded from the scope of the concept being clarified.\" [Scope Notes: when\nneeded.  Expunge scope notes from NAL, FAO and CAB since the reference to \"use\nother term\" is likely to only apply to that particular thesaurus.  The scope\nnote would need to apply to GACS structures and prefLabels.  Need to assure\nquality of scope notes pointing to prefLabels of GACS concepts.]\n\n\nHistory notes\n [History notes: What sort of information to record in a note.\nCan we assume that input date, modification date are coded in editorial\nplatform, so this information should not be in history note?]",
+            "text": "Documentation properties\n\n\nScope notes\n\n\n[ISO 25964, p8, scope note: \"note that defines or clarifies the\nsemantic boundiaries of a concept as it is used in the structured vocabulary\".\nGoes on to note: \"A term used to label a concept can have several meanings in\nnormal usage.  A scope note is used to restrict the concept to only one of\nthose meanings, and where necessary refers to other concepts that are included\nor excluded from the scope of the concept being clarified.\" [Scope Notes: when\nneeded.  Expunge scope notes from NAL, FAO and CAB since the reference to \"use\nother term\" is likely to only apply to that particular thesaurus.  The scope\nnote would need to apply to GACS structures and prefLabels.  Need to assure\nquality of scope notes pointing to prefLabels of GACS concepts.]\n\n\nHistory notes\n\n\n[History notes: What sort of information to record in a note.\nCan we assume that input date, modification date are coded in editorial\nplatform, so this information should not be in history note?]",
             "title": "Documentation Properties"
         },
         {
             "location": "/docproperties/#documentation-properties",
-            "text": "Scope notes  [ISO 25964, p8, scope note: \"note that defines or clarifies the\nsemantic boundiaries of a concept as it is used in the structured vocabulary\".\nGoes on to note: \"A term used to label a concept can have several meanings in\nnormal usage.  A scope note is used to restrict the concept to only one of\nthose meanings, and where necessary refers to other concepts that are included\nor excluded from the scope of the concept being clarified.\" [Scope Notes: when\nneeded.  Expunge scope notes from NAL, FAO and CAB since the reference to \"use\nother term\" is likely to only apply to that particular thesaurus.  The scope\nnote would need to apply to GACS structures and prefLabels.  Need to assure\nquality of scope notes pointing to prefLabels of GACS concepts.]  History notes  [History notes: What sort of information to record in a note.\nCan we assume that input date, modification date are coded in editorial\nplatform, so this information should not be in history note?]",
+            "text": "",
             "title": "Documentation properties"
+        },
+        {
+            "location": "/docproperties/#scope-notes",
+            "text": "[ISO 25964, p8, scope note: \"note that defines or clarifies the\nsemantic boundiaries of a concept as it is used in the structured vocabulary\".\nGoes on to note: \"A term used to label a concept can have several meanings in\nnormal usage.  A scope note is used to restrict the concept to only one of\nthose meanings, and where necessary refers to other concepts that are included\nor excluded from the scope of the concept being clarified.\" [Scope Notes: when\nneeded.  Expunge scope notes from NAL, FAO and CAB since the reference to \"use\nother term\" is likely to only apply to that particular thesaurus.  The scope\nnote would need to apply to GACS structures and prefLabels.  Need to assure\nquality of scope notes pointing to prefLabels of GACS concepts.]",
+            "title": "Scope notes"
+        },
+        {
+            "location": "/docproperties/#history-notes",
+            "text": "[History notes: What sort of information to record in a note.\nCan we assume that input date, modification date are coded in editorial\nplatform, so this information should not be in history note?]",
+            "title": "History notes"
         },
         {
             "location": "/glossary/",
