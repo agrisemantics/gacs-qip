@@ -3,24 +3,88 @@
 
     
     <url>
-     <loc>/</loc>
-     <lastmod>2017-06-06</lastmod>
+     <loc>/purpose/</loc>
+     <lastmod>2017-07-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/user_guide/</loc>
-     <lastmod>2017-06-06</lastmod>
+     <loc>/scope/</loc>
+     <lastmod>2017-07-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/semantic_structure/</loc>
-     <lastmod>2017-06-06</lastmod>
+     <loc>/labels/</loc>
+     <lastmod>2017-07-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/names/</loc>
+     <lastmod>2017-07-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/relations/</loc>
+     <lastmod>2017-07-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/semantic_types/</loc>
+     <lastmod>2017-07-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/thematic_groups/</loc>
+     <lastmod>2017-07-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/definitions/</loc>
+     <lastmod>2017-07-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/docproperties/</loc>
+     <lastmod>2017-07-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/glossary/</loc>
+     <lastmod>2017-07-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/sources/</loc>
+     <lastmod>2017-07-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
