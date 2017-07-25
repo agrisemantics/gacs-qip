@@ -5,7 +5,7 @@ repo_name: 'Github'
 edit_uri: 'edit/master/docs/'
 site_description: 'Guidelines for GACS'
 pages:
-- Purpose of GACS: purpose.md
+- Purpose of GACS: index.md
 - Scope: scope.md
 - Labels: labels.md
 - Scientific and Common Names: names.md
