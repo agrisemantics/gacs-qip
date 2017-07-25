@@ -1,6 +1,0 @@
-### Definitions
-
-Guidelines for definitions...
-### Labels
-
-Guidelines for labels...

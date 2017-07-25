@@ -1,10 +1,18 @@
 site_name: Guidelines for GACS
-pages:
-- Introduction: index.md
-- User Guide: user_guide.md
-- Semantic Structure: semantic_structure.md
 theme: 'readthedocs'
 repo_url: https://github.com/agrisemantics/gacs-qip
 repo_name: 'Github'
 edit_uri: 'edit/master/docs/'
 site_description: 'Guidelines for GACS'
+pages:
+- Purpose of GACS: purpose.md
+- Scope: scope.md
+- Labels: labels.md
+- Scientific and Common Names: names.md
+- Relations between Concepts: relations.md
+- Semantic Types: semantic_types.md
+- Thematic Groups: thematic_groups.md
+- Definitions: definitions.md
+- Documentation Properties: docproperties.md
+- Glossary: glossary.md
+- Sources Consulted: sources.md
