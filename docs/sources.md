@@ -1,4 +1,4 @@
-### Authorities used in GACS  
+### Taxonomic authorities  
 
 The list is divided by subject (using h3 for headings).  More than one
 authority per subject area may be listed.  List of authorities for this DRAFT
