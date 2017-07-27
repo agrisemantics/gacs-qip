@@ -1,0 +1,21 @@
+# Find pairs of concepts with BT/NT relationship where semantic type differs
+# To be run against GACS Core SKOS data
+
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+SELECT 
+	(STRAFTER(STR(?bc), '/gacs/') AS ?bid)
+	(STRAFTER(STR(?nc), '/gacs/') AS ?nid)
+	?blabel (STRAFTER(STR(?btype), '#') AS ?bt)
+	?nlabel (STRAFTER(STR(?ntype), '#') AS ?nt)
+WHERE {
+  ?nc skos:broader ?bc .
+  ?nc skos:prefLabel ?nlabel .
+  ?bc skos:prefLabel ?blabel .
+  FILTER(LANG(?nlabel)='en')
+  FILTER(LANG(?blabel)='en')
+  ?nc a ?ntype .
+  ?bc a ?btype .
+  FILTER (?ntype != skos:Concept)
+  FILTER (?btype != skos:Concept)
+  FILTER (?ntype != ?btype)
+} 
