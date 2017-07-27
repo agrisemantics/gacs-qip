@@ -19,3 +19,4 @@ WHERE {
   FILTER (?btype != skos:Concept)
   FILTER (?ntype != ?btype)
 } 
+ORDER BY LCASE(?blabel) LCASE(?nlabel)
