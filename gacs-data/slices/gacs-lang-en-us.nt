@@ -1,0 +1,747 @@
+<http://id.agrisemantics.org/gacs/C10069> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_2b4b7061> .
+<http://id.agrisemantics.org/gacs/C10163> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_e0ae5ff0> .
+<http://id.agrisemantics.org/gacs/C10251> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f352302b> .
+<http://id.agrisemantics.org/gacs/C10254> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_350bd8c1> .
+<http://id.agrisemantics.org/gacs/C10393> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_189b4a8b> .
+<http://id.agrisemantics.org/gacs/C10410> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_b88ec940> .
+<http://id.agrisemantics.org/gacs/C10593> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_d54779ec> .
+<http://id.agrisemantics.org/gacs/C10615> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_7447cc7c> .
+<http://id.agrisemantics.org/gacs/C10806> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_5ce14cf8> .
+<http://id.agrisemantics.org/gacs/C10878> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_b7c93698> .
+<http://id.agrisemantics.org/gacs/C10883> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_5ff3b83c> .
+<http://id.agrisemantics.org/gacs/C11026> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_cc1109a4> .
+<http://id.agrisemantics.org/gacs/C11038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_c852cb3f> .
+<http://id.agrisemantics.org/gacs/C11354> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_4c33208c> .
+<http://id.agrisemantics.org/gacs/C11421> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_4377ce21> .
+<http://id.agrisemantics.org/gacs/C11447> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_d7cf5d72> .
+<http://id.agrisemantics.org/gacs/C11531> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_42123b69> .
+<http://id.agrisemantics.org/gacs/C11586> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_7a0a92c6> .
+<http://id.agrisemantics.org/gacs/C11685> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_33ee85f5> .
+<http://id.agrisemantics.org/gacs/C11927> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_153547ec> .
+<http://id.agrisemantics.org/gacs/C12033> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_583db951> .
+<http://id.agrisemantics.org/gacs/C12107> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_b9fb4b32> .
+<http://id.agrisemantics.org/gacs/C12119> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_65148ffa> .
+<http://id.agrisemantics.org/gacs/C12127> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_30f95080> .
+<http://id.agrisemantics.org/gacs/C12237> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f69653af> .
+<http://id.agrisemantics.org/gacs/C12241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_dd9b6804> .
+<http://id.agrisemantics.org/gacs/C12308> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_7a87f745> .
+<http://id.agrisemantics.org/gacs/C12328> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_8963d147> .
+<http://id.agrisemantics.org/gacs/C1235> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_3f89644e> .
+<http://id.agrisemantics.org/gacs/C12366> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_7f089dba> .
+<http://id.agrisemantics.org/gacs/C12528> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_5f15e77e> .
+<http://id.agrisemantics.org/gacs/C12554> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_39222b5c> .
+<http://id.agrisemantics.org/gacs/C12567> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_1844afa1> .
+<http://id.agrisemantics.org/gacs/C12776> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_cb6ed4cc> .
+<http://id.agrisemantics.org/gacs/C12944> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_c2fa9c58> .
+<http://id.agrisemantics.org/gacs/C13095> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_28b2ae2c> .
+<http://id.agrisemantics.org/gacs/C13164> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_535879be> .
+<http://id.agrisemantics.org/gacs/C13463> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_c076740b> .
+<http://id.agrisemantics.org/gacs/C13679> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_2ff6ad40> .
+<http://id.agrisemantics.org/gacs/C13713> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_c52a076c> .
+<http://id.agrisemantics.org/gacs/C13773> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_de9a170c> .
+<http://id.agrisemantics.org/gacs/C13787> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_aa6bdde6> .
+<http://id.agrisemantics.org/gacs/C13997> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f600cd31> .
+<http://id.agrisemantics.org/gacs/C14129> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_9c16357c> .
+<http://id.agrisemantics.org/gacs/C14241> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_8d28150b> .
+<http://id.agrisemantics.org/gacs/C14275> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_61a5d608> .
+<http://id.agrisemantics.org/gacs/C1437> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_d9341d0b> .
+<http://id.agrisemantics.org/gacs/C14393> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_14115fb3> .
+<http://id.agrisemantics.org/gacs/C14409> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_6f05632f> .
+<http://id.agrisemantics.org/gacs/C14577> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f63de49f> .
+<http://id.agrisemantics.org/gacs/C14591> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_dbd40ae0> .
+<http://id.agrisemantics.org/gacs/C14629> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_4b264d3b> .
+<http://id.agrisemantics.org/gacs/C14677> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_2b477ba7> .
+<http://id.agrisemantics.org/gacs/C14683> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_4217057d> .
+<http://id.agrisemantics.org/gacs/C14784> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_b5dc85b2> .
+<http://id.agrisemantics.org/gacs/C14906> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_524eff44> .
+<http://id.agrisemantics.org/gacs/C15062> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_140696e6> .
+<http://id.agrisemantics.org/gacs/C15097> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_be281c8b> .
+<http://id.agrisemantics.org/gacs/C15335> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_b831b526> .
+<http://id.agrisemantics.org/gacs/C15345> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_38973c57> .
+<http://id.agrisemantics.org/gacs/C15899> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_55a526a6> .
+<http://id.agrisemantics.org/gacs/C15962> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f3d0263d> .
+<http://id.agrisemantics.org/gacs/C16086> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_689c19c3> .
+<http://id.agrisemantics.org/gacs/C16103> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_127b6a75> .
+<http://id.agrisemantics.org/gacs/C16180> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_b63047e4> .
+<http://id.agrisemantics.org/gacs/C16360> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_572cf4ae> .
+<http://id.agrisemantics.org/gacs/C16497> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_a02252a2> .
+<http://id.agrisemantics.org/gacs/C16749> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_159c7d23> .
+<http://id.agrisemantics.org/gacs/C16778> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_bd6e7bcf> .
+<http://id.agrisemantics.org/gacs/C16822> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_7433a143> .
+<http://id.agrisemantics.org/gacs/C16880> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_733c758c> .
+<http://id.agrisemantics.org/gacs/C16925> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_0145a826> .
+<http://id.agrisemantics.org/gacs/C17043> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_c6451890> .
+<http://id.agrisemantics.org/gacs/C17094> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_589ef060> .
+<http://id.agrisemantics.org/gacs/C17419> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_e6420f24> .
+<http://id.agrisemantics.org/gacs/C17563> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_9dc81efb> .
+<http://id.agrisemantics.org/gacs/C17565> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_04071d2b> .
+<http://id.agrisemantics.org/gacs/C1770> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_33f935b4> .
+<http://id.agrisemantics.org/gacs/C17899> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_7d198ddb> .
+<http://id.agrisemantics.org/gacs/C1793> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_1c63116d> .
+<http://id.agrisemantics.org/gacs/C17963> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_e62356ba> .
+<http://id.agrisemantics.org/gacs/C17969> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_377d64e7> .
+<http://id.agrisemantics.org/gacs/C17982> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_79b1e744> .
+<http://id.agrisemantics.org/gacs/C1800> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_c8ecdd9b> .
+<http://id.agrisemantics.org/gacs/C18078> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_3dea4295> .
+<http://id.agrisemantics.org/gacs/C18370> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_8f191750> .
+<http://id.agrisemantics.org/gacs/C19011> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_a9b6480c> .
+<http://id.agrisemantics.org/gacs/C19301> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_150e2c4c> .
+<http://id.agrisemantics.org/gacs/C19364> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_d9511d07> .
+<http://id.agrisemantics.org/gacs/C19428> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_d32bb304> .
+<http://id.agrisemantics.org/gacs/C19500> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_8df3b67b> .
+<http://id.agrisemantics.org/gacs/C19645> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_92d1676a> .
+<http://id.agrisemantics.org/gacs/C20072> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f9648b12> .
+<http://id.agrisemantics.org/gacs/C20167> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_2798235e> .
+<http://id.agrisemantics.org/gacs/C2037> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_58b8b5c3> .
+<http://id.agrisemantics.org/gacs/C2055> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_11674582> .
+<http://id.agrisemantics.org/gacs/C20841> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_2c5c3ea9> .
+<http://id.agrisemantics.org/gacs/C21130> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_6885c958> .
+<http://id.agrisemantics.org/gacs/C21273> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_ff5e11d5> .
+<http://id.agrisemantics.org/gacs/C21402> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_ed57fcfc> .
+<http://id.agrisemantics.org/gacs/C21572> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_a5f0cc15> .
+<http://id.agrisemantics.org/gacs/C21626> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_985273f9> .
+<http://id.agrisemantics.org/gacs/C21708> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_4a03ac84> .
+<http://id.agrisemantics.org/gacs/C21779> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_bbd510a5> .
+<http://id.agrisemantics.org/gacs/C21794> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_72cd3b48> .
+<http://id.agrisemantics.org/gacs/C22084> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_1dd454cd> .
+<http://id.agrisemantics.org/gacs/C22164> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_88012fed> .
+<http://id.agrisemantics.org/gacs/C22181> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_59f476f5> .
+<http://id.agrisemantics.org/gacs/C22208> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_46849be9> .
+<http://id.agrisemantics.org/gacs/C22646> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_51eeece2> .
+<http://id.agrisemantics.org/gacs/C22848> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_99bba55e> .
+<http://id.agrisemantics.org/gacs/C23001> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_44eb8ad6> .
+<http://id.agrisemantics.org/gacs/C23027> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_eca5b3e7> .
+<http://id.agrisemantics.org/gacs/C23325> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_38c45486> .
+<http://id.agrisemantics.org/gacs/C23339> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_49fc69db> .
+<http://id.agrisemantics.org/gacs/C23366> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_192d3e2f> .
+<http://id.agrisemantics.org/gacs/C23610> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_b7c47484> .
+<http://id.agrisemantics.org/gacs/C23864> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_e4602ed0> .
+<http://id.agrisemantics.org/gacs/C23872> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_60282478> .
+<http://id.agrisemantics.org/gacs/C23972> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_fd9ac3d9> .
+<http://id.agrisemantics.org/gacs/C23995> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_26fca2c7> .
+<http://id.agrisemantics.org/gacs/C24048> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_7687527b> .
+<http://id.agrisemantics.org/gacs/C24053> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_32bb6978> .
+<http://id.agrisemantics.org/gacs/C24072> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_365b18bb> .
+<http://id.agrisemantics.org/gacs/C24123> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_856d37f8> .
+<http://id.agrisemantics.org/gacs/C24176> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f6e1a4a7> .
+<http://id.agrisemantics.org/gacs/C24338> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_3d08b937> .
+<http://id.agrisemantics.org/gacs/C24408> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_1035297f> .
+<http://id.agrisemantics.org/gacs/C24416> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_e51e470f> .
+<http://id.agrisemantics.org/gacs/C24428> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_5a48a1c9> .
+<http://id.agrisemantics.org/gacs/C24547> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_c1dcac17> .
+<http://id.agrisemantics.org/gacs/C24828> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_de8e6f1c> .
+<http://id.agrisemantics.org/gacs/C24960> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_24859618> .
+<http://id.agrisemantics.org/gacs/C25340> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_bf5ac082> .
+<http://id.agrisemantics.org/gacs/C25368> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_ee9f62eb> .
+<http://id.agrisemantics.org/gacs/C25449> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_ff316b74> .
+<http://id.agrisemantics.org/gacs/C25496> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_b0ba77e5> .
+<http://id.agrisemantics.org/gacs/C25529> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_73ba2931> .
+<http://id.agrisemantics.org/gacs/C25629> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_46470da6> .
+<http://id.agrisemantics.org/gacs/C2588> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_dede3fe4> .
+<http://id.agrisemantics.org/gacs/C25981> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f3fe6abf> .
+<http://id.agrisemantics.org/gacs/C26036> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_4b191301> .
+<http://id.agrisemantics.org/gacs/C26351> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_020f143e> .
+<http://id.agrisemantics.org/gacs/C2697> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_e0aa993f> .
+<http://id.agrisemantics.org/gacs/C27038> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_ddd04d16> .
+<http://id.agrisemantics.org/gacs/C27136> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f9a1b4c4> .
+<http://id.agrisemantics.org/gacs/C27519> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_086c8a79> .
+<http://id.agrisemantics.org/gacs/C27575> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_733bc35c> .
+<http://id.agrisemantics.org/gacs/C27659> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_483467de> .
+<http://id.agrisemantics.org/gacs/C27665> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_74fc181e> .
+<http://id.agrisemantics.org/gacs/C27694> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_0e8d6057> .
+<http://id.agrisemantics.org/gacs/C27843> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_574d9293> .
+<http://id.agrisemantics.org/gacs/C28205> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f27a38e5> .
+<http://id.agrisemantics.org/gacs/C2822> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_77cc8e20> .
+<http://id.agrisemantics.org/gacs/C28405> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_78a17b6a> .
+<http://id.agrisemantics.org/gacs/C28421> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_88fd9667> .
+<http://id.agrisemantics.org/gacs/C28436> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_03cdfc91> .
+<http://id.agrisemantics.org/gacs/C2900> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_468e1f91> .
+<http://id.agrisemantics.org/gacs/C29119> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f2c7a3a2> .
+<http://id.agrisemantics.org/gacs/C29134> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_22d9f2a4> .
+<http://id.agrisemantics.org/gacs/C29366> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_2baa87db> .
+<http://id.agrisemantics.org/gacs/C29382> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_5740f6b0> .
+<http://id.agrisemantics.org/gacs/C29818> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_adc84ade> .
+<http://id.agrisemantics.org/gacs/C2991> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_8694ae79> .
+<http://id.agrisemantics.org/gacs/C3017> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_9f789186> .
+<http://id.agrisemantics.org/gacs/C30187> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_ce3291fa> .
+<http://id.agrisemantics.org/gacs/C30317> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_73a5641e> .
+<http://id.agrisemantics.org/gacs/C30396> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_4e857757> .
+<http://id.agrisemantics.org/gacs/C30422> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_dd4cec7a> .
+<http://id.agrisemantics.org/gacs/C3051> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_81a3c53a> .
+<http://id.agrisemantics.org/gacs/C30634> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_435246ab> .
+<http://id.agrisemantics.org/gacs/C30651> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_4e97fb6a> .
+<http://id.agrisemantics.org/gacs/C30662> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_1d3757fd> .
+<http://id.agrisemantics.org/gacs/C30741> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f826ef69> .
+<http://id.agrisemantics.org/gacs/C30936> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_ac2cac5f> .
+<http://id.agrisemantics.org/gacs/C31057> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_bf295f34> .
+<http://id.agrisemantics.org/gacs/C31323> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_0ff452b6> .
+<http://id.agrisemantics.org/gacs/C31330> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_c80ad20d> .
+<http://id.agrisemantics.org/gacs/C31467> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_783d4df0> .
+<http://id.agrisemantics.org/gacs/C31520> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_92d11a8f> .
+<http://id.agrisemantics.org/gacs/C31535> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f5100ddc> .
+<http://id.agrisemantics.org/gacs/C31541> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_262630e1> .
+<http://id.agrisemantics.org/gacs/C31675> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_6862194f> .
+<http://id.agrisemantics.org/gacs/C31685> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_633fccd4> .
+<http://id.agrisemantics.org/gacs/C3183> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_67d9ecbc> .
+<http://id.agrisemantics.org/gacs/C31857> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_5a24ca0a> .
+<http://id.agrisemantics.org/gacs/C31874> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_dfccc186> .
+<http://id.agrisemantics.org/gacs/C31888> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_0a230596> .
+<http://id.agrisemantics.org/gacs/C32110> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_b38298be> .
+<http://id.agrisemantics.org/gacs/C3293> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_be3c23a1> .
+<http://id.agrisemantics.org/gacs/C3619> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_6cd8bd3a> .
+<http://id.agrisemantics.org/gacs/C3663> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_35d91de8> .
+<http://id.agrisemantics.org/gacs/C3770> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_40db297c> .
+<http://id.agrisemantics.org/gacs/C4146> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_48b86e81> .
+<http://id.agrisemantics.org/gacs/C4186> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_8b65439a> .
+<http://id.agrisemantics.org/gacs/C4200> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_312e0043> .
+<http://id.agrisemantics.org/gacs/C4256> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_b4e2606d> .
+<http://id.agrisemantics.org/gacs/C4376> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f0624b74> .
+<http://id.agrisemantics.org/gacs/C4532> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_e2b4fb02> .
+<http://id.agrisemantics.org/gacs/C4629> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_e896ea48> .
+<http://id.agrisemantics.org/gacs/C462> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_54bfe180> .
+<http://id.agrisemantics.org/gacs/C4761> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_8b0aa71b> .
+<http://id.agrisemantics.org/gacs/C4833> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_85ed5e0d> .
+<http://id.agrisemantics.org/gacs/C4881> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_da34ce9f> .
+<http://id.agrisemantics.org/gacs/C4896> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_dec4f179> .
+<http://id.agrisemantics.org/gacs/C4928> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_f144c0e7> .
+<http://id.agrisemantics.org/gacs/C4935> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_c5d82f78> .
+<http://id.agrisemantics.org/gacs/C5244> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_d8e76b7e> .
+<http://id.agrisemantics.org/gacs/C5307> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_64771ecc> .
+<http://id.agrisemantics.org/gacs/C545> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_c84d12ab> .
+<http://id.agrisemantics.org/gacs/C5468> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_d2595bfc> .
+<http://id.agrisemantics.org/gacs/C5604> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_d057315d> .
+<http://id.agrisemantics.org/gacs/C5675> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_313c0f96> .
+<http://id.agrisemantics.org/gacs/C5943> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_92fd9743> .
+<http://id.agrisemantics.org/gacs/C596> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_bddabcd0> .
+<http://id.agrisemantics.org/gacs/C5978> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_91cefde5> .
+<http://id.agrisemantics.org/gacs/C6002> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_5e5e6b03> .
+<http://id.agrisemantics.org/gacs/C6026> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_14092092> .
+<http://id.agrisemantics.org/gacs/C6066> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_73174afb> .
+<http://id.agrisemantics.org/gacs/C6161> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_ee879bf6> .
+<http://id.agrisemantics.org/gacs/C6195> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_82316b60> .
+<http://id.agrisemantics.org/gacs/C6692> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_abe64cc8> .
+<http://id.agrisemantics.org/gacs/C6737> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_40642d62> .
+<http://id.agrisemantics.org/gacs/C6784> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_14f1ec85> .
+<http://id.agrisemantics.org/gacs/C6816> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_d7e092e7> .
+<http://id.agrisemantics.org/gacs/C6822> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_8c627d33> .
+<http://id.agrisemantics.org/gacs/C7140> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_202be5b9> .
+<http://id.agrisemantics.org/gacs/C7259> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_26c80140> .
+<http://id.agrisemantics.org/gacs/C7323> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_2ba0b2b3> .
+<http://id.agrisemantics.org/gacs/C746> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_416c500f> .
+<http://id.agrisemantics.org/gacs/C7483> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_9446d95f> .
+<http://id.agrisemantics.org/gacs/C753> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_27dca95e> .
+<http://id.agrisemantics.org/gacs/C7642> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_c11b1fc9> .
+<http://id.agrisemantics.org/gacs/C7756> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_8062311b> .
+<http://id.agrisemantics.org/gacs/C7874> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_84855cb6> .
+<http://id.agrisemantics.org/gacs/C7992> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_b3577fc1> .
+<http://id.agrisemantics.org/gacs/C8016> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_ffb6f426> .
+<http://id.agrisemantics.org/gacs/C8108> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_88764eed> .
+<http://id.agrisemantics.org/gacs/C8341> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_aa3ea491> .
+<http://id.agrisemantics.org/gacs/C8480> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_91c78866> .
+<http://id.agrisemantics.org/gacs/C8529> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_3b08e07b> .
+<http://id.agrisemantics.org/gacs/C8577> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_a3ccd56b> .
+<http://id.agrisemantics.org/gacs/C870> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_c1868d10> .
+<http://id.agrisemantics.org/gacs/C8879> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_d9f90720> .
+<http://id.agrisemantics.org/gacs/C9361> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_4b1accd8> .
+<http://id.agrisemantics.org/gacs/C9528> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_74a9e3de> .
+<http://id.agrisemantics.org/gacs/C9536> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_cf2085af> .
+<http://id.agrisemantics.org/gacs/C9710> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_96fcf7e5> .
+<http://id.agrisemantics.org/gacs/C9836> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://id.agrisemantics.org/gacs/xl_en-us_8b7ad512> .
+<http://id.agrisemantics.org/gacs/xl_en-us_0145a826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_0145a826> <http://www.w3.org/2008/05/skos-xl#literalForm> "paleoclimatology"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_020f143e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_020f143e> <http://www.w3.org/2008/05/skos-xl#literalForm> "dengue hemorrhagic fever"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_03cdfc91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_03cdfc91> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemoglobin A1"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_04071d2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_04071d2b> <http://www.w3.org/2008/05/skos-xl#literalForm> "soy milk"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_086c8a79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_086c8a79> <http://www.w3.org/2008/05/skos-xl#literalForm> "color varieties"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_0a230596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_0a230596> <http://www.w3.org/2008/05/skos-xl#literalForm> "training centers"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_0e8d6057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_0e8d6057> <http://www.w3.org/2008/05/skos-xl#literalForm> "dikes"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_0ff452b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_0ff452b6> <http://www.w3.org/2008/05/skos-xl#literalForm> "fiber optics"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_1035297f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_1035297f> <http://www.w3.org/2008/05/skos-xl#literalForm> "agonistic behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_11674582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_11674582> <http://www.w3.org/2008/05/skos-xl#literalForm> "feeding behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_127b6a75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_127b6a75> <http://www.w3.org/2008/05/skos-xl#literalForm> "viremia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_140696e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_140696e6> <http://www.w3.org/2008/05/skos-xl#literalForm> "labor requirements"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_14092092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_14092092> <http://www.w3.org/2008/05/skos-xl#literalForm> "breeding programs"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_14115fb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_14115fb3> <http://www.w3.org/2008/05/skos-xl#literalForm> "goiter"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_14f1ec85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_14f1ec85> <http://www.w3.org/2008/05/skos-xl#literalForm> "lumber"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_150e2c4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_150e2c4c> <http://www.w3.org/2008/05/skos-xl#literalForm> "tularemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_153547ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_153547ec> <http://www.w3.org/2008/05/skos-xl#literalForm> "analogs"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_159c7d23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_159c7d23> <http://www.w3.org/2008/05/skos-xl#literalForm> "soybean flour"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_1844afa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_1844afa1> <http://www.w3.org/2008/05/skos-xl#literalForm> "overstory"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_189b4a8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_189b4a8b> <http://www.w3.org/2008/05/skos-xl#literalForm> "labor productivity"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_192d3e2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_192d3e2f> <http://www.w3.org/2008/05/skos-xl#literalForm> "hypolipemic properties"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_1c63116d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_1c63116d> <http://www.w3.org/2008/05/skos-xl#literalForm> "diarrhea"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_1d3757fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_1d3757fd> <http://www.w3.org/2008/05/skos-xl#literalForm> "defense"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_1dd454cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_1dd454cd> <http://www.w3.org/2008/05/skos-xl#literalForm> "cadasters"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_202be5b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_202be5b9> <http://www.w3.org/2008/05/skos-xl#literalForm> "cecum"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_22d9f2a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_22d9f2a4> <http://www.w3.org/2008/05/skos-xl#literalForm> "skilled labor"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_24859618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_24859618> <http://www.w3.org/2008/05/skos-xl#literalForm> "synthetic fibers"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_262630e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_262630e1> <http://www.w3.org/2008/05/skos-xl#literalForm> "fecal flora"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_26c80140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_26c80140> <http://www.w3.org/2008/05/skos-xl#literalForm> "risk behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_26fca2c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_26fca2c7> <http://www.w3.org/2008/05/skos-xl#literalForm> "migrant labor"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_2798235e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_2798235e> <http://www.w3.org/2008/05/skos-xl#literalForm> "skeletomuscular system"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_27dca95e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_27dca95e> <http://www.w3.org/2008/05/skos-xl#literalForm> "etiology"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_28b2ae2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_28b2ae2c> <http://www.w3.org/2008/05/skos-xl#literalForm> "muscle fibers"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_2b477ba7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_2b477ba7> <http://www.w3.org/2008/05/skos-xl#literalForm> "female labor"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_2b4b7061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_2b4b7061> <http://www.w3.org/2008/05/skos-xl#literalForm> "anesthetics"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_2ba0b2b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_2ba0b2b3> <http://www.w3.org/2008/05/skos-xl#literalForm> "fiber quality"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_2baa87db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_2baa87db> <http://www.w3.org/2008/05/skos-xl#literalForm> "labor costs"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_2c5c3ea9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_2c5c3ea9> <http://www.w3.org/2008/05/skos-xl#literalForm> "youth programs"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_2ff6ad40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_2ff6ad40> <http://www.w3.org/2008/05/skos-xl#literalForm> "counseling"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_30f95080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_30f95080> <http://www.w3.org/2008/05/skos-xl#literalForm> "trademarks"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_312e0043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_312e0043> <http://www.w3.org/2008/05/skos-xl#literalForm> "understory"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_313c0f96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_313c0f96> <http://www.w3.org/2008/05/skos-xl#literalForm> "plowing"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_32bb6978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_32bb6978> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemolytic anemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_33ee85f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_33ee85f5> <http://www.w3.org/2008/05/skos-xl#literalForm> "paleoecology"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_33f935b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_33f935b4> <http://www.w3.org/2008/05/skos-xl#literalForm> "odors"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_350bd8c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_350bd8c1> <http://www.w3.org/2008/05/skos-xl#literalForm> "tumors"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_35d91de8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_35d91de8> <http://www.w3.org/2008/05/skos-xl#literalForm> "educational programs"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_365b18bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_365b18bb> <http://www.w3.org/2008/05/skos-xl#literalForm> "soluble fiber"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_377d64e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_377d64e7> <http://www.w3.org/2008/05/skos-xl#literalForm> "sickle cell anemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_38973c57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_38973c57> <http://www.w3.org/2008/05/skos-xl#literalForm> "maternal behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_38c45486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_38c45486> <http://www.w3.org/2008/05/skos-xl#literalForm> "odor abatement"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_39222b5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_39222b5c> <http://www.w3.org/2008/05/skos-xl#literalForm> "zucchini"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_3b08e07b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_3b08e07b> <http://www.w3.org/2008/05/skos-xl#literalForm> "water vapor"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_3d08b937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_3d08b937> <http://www.w3.org/2008/05/skos-xl#literalForm> "hematophagous arthropods"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_3dea4295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_3dea4295> <http://www.w3.org/2008/05/skos-xl#literalForm> "behavior disorders"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_3f89644e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_3f89644e> <http://www.w3.org/2008/05/skos-xl#literalForm> "alfalfa"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_40642d62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_40642d62> <http://www.w3.org/2008/05/skos-xl#literalForm> "leukemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_40db297c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_40db297c> <http://www.w3.org/2008/05/skos-xl#literalForm> "estrus"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_416c500f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_416c500f> <http://www.w3.org/2008/05/skos-xl#literalForm> "soybeans"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_42123b69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_42123b69> <http://www.w3.org/2008/05/skos-xl#literalForm> "hypoglycemic properties"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_4217057d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_4217057d> <http://www.w3.org/2008/05/skos-xl#literalForm> "less favored areas"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_435246ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_435246ab> <http://www.w3.org/2008/05/skos-xl#literalForm> "labor relations"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_4377ce21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_4377ce21> <http://www.w3.org/2008/05/skos-xl#literalForm> "hyperlipemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_44eb8ad6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_44eb8ad6> <http://www.w3.org/2008/05/skos-xl#literalForm> "group behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_46470da6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_46470da6> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemostasis"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_46849be9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_46849be9> <http://www.w3.org/2008/05/skos-xl#literalForm> "peanut oil"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_468e1f91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_468e1f91> <http://www.w3.org/2008/05/skos-xl#literalForm> "fiber plants"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_483467de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_483467de> <http://www.w3.org/2008/05/skos-xl#literalForm> "nucleoside analogs"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_48b86e81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_48b86e81> <http://www.w3.org/2008/05/skos-xl#literalForm> "fall"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_49fc69db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_49fc69db> <http://www.w3.org/2008/05/skos-xl#literalForm> "hematuria"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_4a03ac84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_4a03ac84> <http://www.w3.org/2008/05/skos-xl#literalForm> "potato chips"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_4b191301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_4b191301> <http://www.w3.org/2008/05/skos-xl#literalForm> "neighborhoods"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_4b1accd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_4b1accd8> <http://www.w3.org/2008/05/skos-xl#literalForm> "economic behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_4b264d3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_4b264d3b> <http://www.w3.org/2008/05/skos-xl#literalForm> "plows"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_4c33208c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_4c33208c> <http://www.w3.org/2008/05/skos-xl#literalForm> "hyperglycemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_4e857757> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_4e857757> <http://www.w3.org/2008/05/skos-xl#literalForm> "center pivot irrigation"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_4e97fb6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_4e97fb6a> <http://www.w3.org/2008/05/skos-xl#literalForm> "diestrus"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_51eeece2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_51eeece2> <http://www.w3.org/2008/05/skos-xl#literalForm> "uremia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_524eff44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_524eff44> <http://www.w3.org/2008/05/skos-xl#literalForm> "beets"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_535879be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_535879be> <http://www.w3.org/2008/05/skos-xl#literalForm> "fecal egg count"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_54bfe180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_54bfe180> <http://www.w3.org/2008/05/skos-xl#literalForm> "color"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_55a526a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_55a526a6> <http://www.w3.org/2008/05/skos-xl#literalForm> "fecal coliforms"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_572cf4ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_572cf4ae> <http://www.w3.org/2008/05/skos-xl#literalForm> "tires"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_5740f6b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_5740f6b0> <http://www.w3.org/2008/05/skos-xl#literalForm> "paleozoology"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_574d9293> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_574d9293> <http://www.w3.org/2008/05/skos-xl#literalForm> "leghemoglobin"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_583db951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_583db951> <http://www.w3.org/2008/05/skos-xl#literalForm> "iron deficiency anemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_589ef060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_589ef060> <http://www.w3.org/2008/05/skos-xl#literalForm> "plant estrogens"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_58b8b5c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_58b8b5c3> <http://www.w3.org/2008/05/skos-xl#literalForm> "fiber"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_59f476f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_59f476f5> <http://www.w3.org/2008/05/skos-xl#literalForm> "fecal examination"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_5a24ca0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_5a24ca0a> <http://www.w3.org/2008/05/skos-xl#literalForm> "medium density fiberboards"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_5a48a1c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_5a48a1c9> <http://www.w3.org/2008/05/skos-xl#literalForm> "alfalfa meal"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_5ce14cf8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_5ce14cf8> <http://www.w3.org/2008/05/skos-xl#literalForm> "host-seeking behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_5e5e6b03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_5e5e6b03> <http://www.w3.org/2008/05/skos-xl#literalForm> "eggplants"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_5f15e77e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_5f15e77e> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemocytes"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_5ff3b83c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_5ff3b83c> <http://www.w3.org/2008/05/skos-xl#literalForm> "ladybugs"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_60282478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_60282478> <http://www.w3.org/2008/05/skos-xl#literalForm> "hematopoiesis"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_61a5d608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_61a5d608> <http://www.w3.org/2008/05/skos-xl#literalForm> "fiberboards"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_633fccd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_633fccd4> <http://www.w3.org/2008/05/skos-xl#literalForm> "catalogs"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_64771ecc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_64771ecc> <http://www.w3.org/2008/05/skos-xl#literalForm> "prescribed burning"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_65148ffa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_65148ffa> <http://www.w3.org/2008/05/skos-xl#literalForm> "reproductive behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_67d9ecbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_67d9ecbc> <http://www.w3.org/2008/05/skos-xl#literalForm> "aluminum"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_6862194f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_6862194f> <http://www.w3.org/2008/05/skos-xl#literalForm> "hilling"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_6885c958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_6885c958> <http://www.w3.org/2008/05/skos-xl#literalForm> "movies"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_689c19c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_689c19c3> <http://www.w3.org/2008/05/skos-xl#literalForm> "glycemic index"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_6cd8bd3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_6cd8bd3a> <http://www.w3.org/2008/05/skos-xl#literalForm> "consumer behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_6f05632f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_6f05632f> <http://www.w3.org/2008/05/skos-xl#literalForm> "anestrus"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_72cd3b48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_72cd3b48> <http://www.w3.org/2008/05/skos-xl#literalForm> "health programs"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_73174afb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_73174afb> <http://www.w3.org/2008/05/skos-xl#literalForm> "fiber content"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_733bc35c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_733bc35c> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemophilia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_733c758c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_733c758c> <http://www.w3.org/2008/05/skos-xl#literalForm> "dyspnea"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_73a5641e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_73a5641e> <http://www.w3.org/2008/05/skos-xl#literalForm> "deep plowing"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_73ba2931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_73ba2931> <http://www.w3.org/2008/05/skos-xl#literalForm> "food service"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_7433a143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_7433a143> <http://www.w3.org/2008/05/skos-xl#literalForm> "labor market"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_7447cc7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_7447cc7c> <http://www.w3.org/2008/05/skos-xl#literalForm> "molting"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_74a9e3de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_74a9e3de> <http://www.w3.org/2008/05/skos-xl#literalForm> "soybean products"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_74fc181e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_74fc181e> <http://www.w3.org/2008/05/skos-xl#literalForm> "thalassemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_7687527b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_7687527b> <http://www.w3.org/2008/05/skos-xl#literalForm> "textile fibers"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_77cc8e20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_77cc8e20> <http://www.w3.org/2008/05/skos-xl#literalForm> "labor"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_783d4df0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_783d4df0> <http://www.w3.org/2008/05/skos-xl#literalForm> "aminolevulinic acid"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_78a17b6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_78a17b6a> <http://www.w3.org/2008/05/skos-xl#literalForm> "labor allocation"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_79b1e744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_79b1e744> <http://www.w3.org/2008/05/skos-xl#literalForm> "estrogenic properties"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_7a0a92c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_7a0a92c6> <http://www.w3.org/2008/05/skos-xl#literalForm> "vapor pressure"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_7a87f745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_7a87f745> <http://www.w3.org/2008/05/skos-xl#literalForm> "health behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_7d198ddb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_7d198ddb> <http://www.w3.org/2008/05/skos-xl#literalForm> "cultural behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_7f089dba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_7f089dba> <http://www.w3.org/2008/05/skos-xl#literalForm> "hematophagy"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_8062311b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_8062311b> <http://www.w3.org/2008/05/skos-xl#literalForm> "dryers"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_81a3c53a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_81a3c53a> <http://www.w3.org/2008/05/skos-xl#literalForm> "defense mechanisms"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_82316b60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_82316b60> <http://www.w3.org/2008/05/skos-xl#literalForm> "aggressive behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_84855cb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_84855cb6> <http://www.w3.org/2008/05/skos-xl#literalForm> "esophagus"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_856d37f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_856d37f8> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemagglutination inhibition test"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_85ed5e0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_85ed5e0d> <http://www.w3.org/2008/05/skos-xl#literalForm> "soybean oil"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_8694ae79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_8694ae79> <http://www.w3.org/2008/05/skos-xl#literalForm> "mating behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_88012fed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_88012fed> <http://www.w3.org/2008/05/skos-xl#literalForm> "alfalfa silage"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_88764eed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_88764eed> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemolysis"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_88fd9667> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_88fd9667> <http://www.w3.org/2008/05/skos-xl#literalForm> "hypercalcemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_8963d147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_8963d147> <http://www.w3.org/2008/05/skos-xl#literalForm> "paleontology"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_8b0aa71b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_8b0aa71b> <http://www.w3.org/2008/05/skos-xl#literalForm> "paleobotany"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_8b65439a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_8b65439a> <http://www.w3.org/2008/05/skos-xl#literalForm> "estrous cycle"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_8b7ad512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_8b7ad512> <http://www.w3.org/2008/05/skos-xl#literalForm> "human feces"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_8c627d33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_8c627d33> <http://www.w3.org/2008/05/skos-xl#literalForm> "infant formulas"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_8d28150b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_8d28150b> <http://www.w3.org/2008/05/skos-xl#literalForm> "roosters"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_8df3b67b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_8df3b67b> <http://www.w3.org/2008/05/skos-xl#literalForm> "enterohemorrhagic Escherichia coli"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_8f191750> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_8f191750> <http://www.w3.org/2008/05/skos-xl#literalForm> "milking parlors"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_91c78866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_91c78866> <http://www.w3.org/2008/05/skos-xl#literalForm> "amebiasis"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_91cefde5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_91cefde5> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemorrhage"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_92d11a8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_92d11a8f> <http://www.w3.org/2008/05/skos-xl#literalForm> "phytohemagglutinins"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_92d1676a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_92d1676a> <http://www.w3.org/2008/05/skos-xl#literalForm> "harbors"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_92fd9743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_92fd9743> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemolymph"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_9446d95f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_9446d95f> <http://www.w3.org/2008/05/skos-xl#literalForm> "yogurt"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_96fcf7e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_96fcf7e5> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemagglutination"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_985273f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_985273f9> <http://www.w3.org/2008/05/skos-xl#literalForm> "toxemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_99bba55e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_99bba55e> <http://www.w3.org/2008/05/skos-xl#literalForm> "attachment behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_9c16357c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_9c16357c> <http://www.w3.org/2008/05/skos-xl#literalForm> "development programs"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_9dc81efb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_9dc81efb> <http://www.w3.org/2008/05/skos-xl#literalForm> "hired labor"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_9f789186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_9f789186> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemoglobin"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_a02252a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_a02252a2> <http://www.w3.org/2008/05/skos-xl#literalForm> "behavior problems"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_a3ccd56b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_a3ccd56b> <http://www.w3.org/2008/05/skos-xl#literalForm> "clearcutting"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_a5f0cc15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_a5f0cc15> <http://www.w3.org/2008/05/skos-xl#literalForm> "esophageal diseases"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_a9b6480c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_a9b6480c> <http://www.w3.org/2008/05/skos-xl#literalForm> "hypoglycemic agents"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_aa3ea491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_aa3ea491> <http://www.w3.org/2008/05/skos-xl#literalForm> "crude fiber"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_aa6bdde6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_aa6bdde6> <http://www.w3.org/2008/05/skos-xl#literalForm> "alfalfa hay"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_abe64cc8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_abe64cc8> <http://www.w3.org/2008/05/skos-xl#literalForm> "molds"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_ac2cac5f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_ac2cac5f> <http://www.w3.org/2008/05/skos-xl#literalForm> "endotoxemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_adc84ade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_adc84ade> <http://www.w3.org/2008/05/skos-xl#literalForm> "labor mobility"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_b0ba77e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_b0ba77e5> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemorrhagic fevers"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_b3577fc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_b3577fc1> <http://www.w3.org/2008/05/skos-xl#literalForm> "social behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_b38298be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_b38298be> <http://www.w3.org/2008/05/skos-xl#literalForm> "equine infectious anemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_b4e2606d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_b4e2606d> <http://www.w3.org/2008/05/skos-xl#literalForm> "estrogens"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_b5dc85b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_b5dc85b2> <http://www.w3.org/2008/05/skos-xl#literalForm> "plateaus"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_b63047e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_b63047e4> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemagglutination tests"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_b7c47484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_b7c47484> <http://www.w3.org/2008/05/skos-xl#literalForm> "defecation"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_b7c93698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_b7c93698> <http://www.w3.org/2008/05/skos-xl#literalForm> "molting hormones"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_b831b526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_b831b526> <http://www.w3.org/2008/05/skos-xl#literalForm> "celiac syndrome"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_b88ec940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_b88ec940> <http://www.w3.org/2008/05/skos-xl#literalForm> "behavior modification"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_b9fb4b32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_b9fb4b32> <http://www.w3.org/2008/05/skos-xl#literalForm> "gonorrhea"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_bbd510a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_bbd510a5> <http://www.w3.org/2008/05/skos-xl#literalForm> "animal fibers"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_bd6e7bcf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_bd6e7bcf> <http://www.w3.org/2008/05/skos-xl#literalForm> "chimeras"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_bddabcd0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_bddabcd0> <http://www.w3.org/2008/05/skos-xl#literalForm> "draft animals"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_be281c8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_be281c8b> <http://www.w3.org/2008/05/skos-xl#literalForm> "quality labeling"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_be3c23a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_be3c23a1> <http://www.w3.org/2008/05/skos-xl#literalForm> "hematology"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_bf295f34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_bf295f34> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemorrhagic septicemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_bf5ac082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_bf5ac082> <http://www.w3.org/2008/05/skos-xl#literalForm> "esophageal cancer"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_c076740b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_c076740b> <http://www.w3.org/2008/05/skos-xl#literalForm> "orthopedics"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_c11b1fc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_c11b1fc9> <http://www.w3.org/2008/05/skos-xl#literalForm> "human behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_c1868d10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_c1868d10> <http://www.w3.org/2008/05/skos-xl#literalForm> "animal behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_c1dcac17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_c1dcac17> <http://www.w3.org/2008/05/skos-xl#literalForm> "family labor"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_c2fa9c58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_c2fa9c58> <http://www.w3.org/2008/05/skos-xl#literalForm> "ischemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_c52a076c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_c52a076c> <http://www.w3.org/2008/05/skos-xl#literalForm> "heme"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_c5d82f78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_c5d82f78> <http://www.w3.org/2008/05/skos-xl#literalForm> "vigor"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_c6451890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_c6451890> <http://www.w3.org/2008/05/skos-xl#literalForm> "hematophagous insects"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_c80ad20d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_c80ad20d> <http://www.w3.org/2008/05/skos-xl#literalForm> "flavor enhancers"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_c84d12ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_c84d12ab> <http://www.w3.org/2008/05/skos-xl#literalForm> "behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_c852cb3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_c852cb3f> <http://www.w3.org/2008/05/skos-xl#literalForm> "biocenosis"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_c8ecdd9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_c8ecdd9b> <http://www.w3.org/2008/05/skos-xl#literalForm> "flavor"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_cb6ed4cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_cb6ed4cc> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemodialysis"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_cc1109a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_cc1109a4> <http://www.w3.org/2008/05/skos-xl#literalForm> "plant fibers"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_ce3291fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_ce3291fa> <http://www.w3.org/2008/05/skos-xl#literalForm> "molding"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_cf2085af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_cf2085af> <http://www.w3.org/2008/05/skos-xl#literalForm> "septicemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_d057315d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_d057315d> <http://www.w3.org/2008/05/skos-xl#literalForm> "soy protein"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_d2595bfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_d2595bfc> <http://www.w3.org/2008/05/skos-xl#literalForm> "fibers"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_d32bb304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_d32bb304> <http://www.w3.org/2008/05/skos-xl#literalForm> "fire behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_d54779ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_d54779ec> <http://www.w3.org/2008/05/skos-xl#literalForm> "hypercholesterolemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_d7cf5d72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_d7cf5d72> <http://www.w3.org/2008/05/skos-xl#literalForm> "labeling"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_d7e092e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_d7e092e7> <http://www.w3.org/2008/05/skos-xl#literalForm> "nutrition programs"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_d8e76b7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_d8e76b7e> <http://www.w3.org/2008/05/skos-xl#literalForm> "soybean oilmeal"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_d9341d0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_d9341d0b> <http://www.w3.org/2008/05/skos-xl#literalForm> "feces"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_d9511d07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_d9511d07> <http://www.w3.org/2008/05/skos-xl#literalForm> "immunization programs"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_d9f90720> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_d9f90720> <http://www.w3.org/2008/05/skos-xl#literalForm> "bacteremia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_da34ce9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_da34ce9f> <http://www.w3.org/2008/05/skos-xl#literalForm> "flavor compounds"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_dbd40ae0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_dbd40ae0> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemagglutinins"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_dd4cec7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_dd4cec7a> <http://www.w3.org/2008/05/skos-xl#literalForm> "vacations"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_dd9b6804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_dd9b6804> <http://www.w3.org/2008/05/skos-xl#literalForm> "cesium"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_ddd04d16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_ddd04d16> <http://www.w3.org/2008/05/skos-xl#literalForm> "hypomagnesemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_de8e6f1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_de8e6f1c> <http://www.w3.org/2008/05/skos-xl#literalForm> "aluminum oxide"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_de9a170c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_de9a170c> <http://www.w3.org/2008/05/skos-xl#literalForm> "abnormal behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_dec4f179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_dec4f179> <http://www.w3.org/2008/05/skos-xl#literalForm> "food service industry"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_dede3fe4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_dede3fe4> <http://www.w3.org/2008/05/skos-xl#literalForm> "anemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_dfccc186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_dfccc186> <http://www.w3.org/2008/05/skos-xl#literalForm> "aluminum hydroxide"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_e0aa993f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_e0aa993f> <http://www.w3.org/2008/05/skos-xl#literalForm> "pork"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_e0ae5ff0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_e0ae5ff0> <http://www.w3.org/2008/05/skos-xl#literalForm> "health centers"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_e2b4fb02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_e2b4fb02> <http://www.w3.org/2008/05/skos-xl#literalForm> "sexual behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_e4602ed0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_e4602ed0> <http://www.w3.org/2008/05/skos-xl#literalForm> "vapor"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_e51e470f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_e51e470f> <http://www.w3.org/2008/05/skos-xl#literalForm> "rutabagas"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_e62356ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_e62356ba> <http://www.w3.org/2008/05/skos-xl#literalForm> "estrogen receptors"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_e6420f24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_e6420f24> <http://www.w3.org/2008/05/skos-xl#literalForm> "licenses"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_e896ea48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_e896ea48> <http://www.w3.org/2008/05/skos-xl#literalForm> "anesthesia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_eca5b3e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_eca5b3e7> <http://www.w3.org/2008/05/skos-xl#literalForm> "peanut oilmeal"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_ed57fcfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_ed57fcfc> <http://www.w3.org/2008/05/skos-xl#literalForm> "searching behavior"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_ee879bf6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_ee879bf6> <http://www.w3.org/2008/05/skos-xl#literalForm> "edema"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_ee9f62eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_ee9f62eb> <http://www.w3.org/2008/05/skos-xl#literalForm> "French fries"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f0624b74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f0624b74> <http://www.w3.org/2008/05/skos-xl#literalForm> "tumor necrosis factor"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f144c0e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f144c0e7> <http://www.w3.org/2008/05/skos-xl#literalForm> "control programs"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f27a38e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f27a38e5> <http://www.w3.org/2008/05/skos-xl#literalForm> "injectable anesthetics"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f2c7a3a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f2c7a3a2> <http://www.w3.org/2008/05/skos-xl#literalForm> "flavoring"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f352302b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f352302b> <http://www.w3.org/2008/05/skos-xl#literalForm> "behavior change"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f3d0263d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f3d0263d> <http://www.w3.org/2008/05/skos-xl#literalForm> "myocardial ischemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f3fe6abf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f3fe6abf> <http://www.w3.org/2008/05/skos-xl#literalForm> "labeling controls"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f5100ddc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f5100ddc> <http://www.w3.org/2008/05/skos-xl#literalForm> "paleosols"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f600cd31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f600cd31> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemodynamics"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f63de49f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f63de49f> <http://www.w3.org/2008/05/skos-xl#literalForm> "food colorants"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f69653af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f69653af> <http://www.w3.org/2008/05/skos-xl#literalForm> "flavorings"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f6e1a4a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f6e1a4a7> <http://www.w3.org/2008/05/skos-xl#literalForm> "parasitemia"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f826ef69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f826ef69> <http://www.w3.org/2008/05/skos-xl#literalForm> "soy sauce"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f9648b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f9648b12> <http://www.w3.org/2008/05/skos-xl#literalForm> "hemolysins"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_f9a1b4c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_f9a1b4c4> <http://www.w3.org/2008/05/skos-xl#literalForm> "division of labor"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_fd9ac3d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_fd9ac3d9> <http://www.w3.org/2008/05/skos-xl#literalForm> "licorice"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_ff316b74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_ff316b74> <http://www.w3.org/2008/05/skos-xl#literalForm> "soybean husks"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_ff5e11d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_ff5e11d5> <http://www.w3.org/2008/05/skos-xl#literalForm> "cellulosic fibers"@en-us .
+<http://id.agrisemantics.org/gacs/xl_en-us_ffb6f426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/gacs/xl_en-us_ffb6f426> <http://www.w3.org/2008/05/skos-xl#literalForm> "hematocrit"@en-us .
