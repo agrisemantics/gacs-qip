@@ -1,0 +1,36 @@
+<http://id.agrisemantics.org/gacs-core> <http://www.w3.org/2000/01/rdf-schema#label> "GACS Alpha"@en .
+<http://id.agrisemantics.org/vocab#Chemical> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://id.agrisemantics.org/vocab#Chemical> <http://www.w3.org/2000/01/rdf-schema#label> "Chemical"@en .
+<http://id.agrisemantics.org/vocab#Chemical> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://id.agrisemantics.org/vocab#Definition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://id.agrisemantics.org/vocab#Definition> <http://www.w3.org/2000/01/rdf-schema#label> "Concept definition"@en .
+<http://id.agrisemantics.org/vocab#Geographical> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://id.agrisemantics.org/vocab#Geographical> <http://www.w3.org/2000/01/rdf-schema#label> "Geographical"@en .
+<http://id.agrisemantics.org/vocab#Geographical> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://id.agrisemantics.org/vocab#hasProduct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://id.agrisemantics.org/vocab#hasProduct> <http://www.w3.org/2000/01/rdf-schema#domain> <http://id.agrisemantics.org/vocab#Organism> .
+<http://id.agrisemantics.org/vocab#hasProduct> <http://www.w3.org/2000/01/rdf-schema#label> "has product"@en .
+<http://id.agrisemantics.org/vocab#hasProduct> <http://www.w3.org/2000/01/rdf-schema#range> <http://id.agrisemantics.org/vocab#Product> .
+<http://id.agrisemantics.org/vocab#hasProduct> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2004/02/skos/core#related> .
+<http://id.agrisemantics.org/vocab#hasProduct> <http://www.w3.org/2002/07/owl#inverseOf> <http://id.agrisemantics.org/vocab#productOf> .
+<http://id.agrisemantics.org/vocab#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<http://id.agrisemantics.org/vocab#> <http://www.w3.org/2000/01/rdf-schema#label> "Agrisemantics Vocabulary" .
+<http://id.agrisemantics.org/vocab#> <http://www.w3.org/2002/07/owl#versionInfo> "Beta 1.6" .
+<http://id.agrisemantics.org/vocab#Organism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://id.agrisemantics.org/vocab#Organism> <http://www.w3.org/2000/01/rdf-schema#label> "Organism"@en .
+<http://id.agrisemantics.org/vocab#Organism> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://id.agrisemantics.org/vocab#Product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://id.agrisemantics.org/vocab#Product> <http://www.w3.org/2000/01/rdf-schema#label> "Product"@en .
+<http://id.agrisemantics.org/vocab#Product> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://id.agrisemantics.org/vocab#productOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://id.agrisemantics.org/vocab#productOf> <http://www.w3.org/2000/01/rdf-schema#domain> <http://id.agrisemantics.org/vocab#Product> .
+<http://id.agrisemantics.org/vocab#productOf> <http://www.w3.org/2000/01/rdf-schema#label> "is product of"@en .
+<http://id.agrisemantics.org/vocab#productOf> <http://www.w3.org/2000/01/rdf-schema#range> <http://id.agrisemantics.org/vocab#Organism> .
+<http://id.agrisemantics.org/vocab#productOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2004/02/skos/core#related> .
+<http://id.agrisemantics.org/vocab#productOf> <http://www.w3.org/2002/07/owl#inverseOf> <http://id.agrisemantics.org/vocab#hasProduct> .
+<http://id.agrisemantics.org/vocab#ScientificName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://id.agrisemantics.org/vocab#ScientificName> <http://www.w3.org/2000/01/rdf-schema#label> "Scientific name"@en .
+<http://id.agrisemantics.org/vocab#ScientificName> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://id.agrisemantics.org/vocab#Topic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://id.agrisemantics.org/vocab#Topic> <http://www.w3.org/2000/01/rdf-schema#label> "Topic"@en .
+<http://id.agrisemantics.org/vocab#Topic> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2004/02/skos/core#Concept> .

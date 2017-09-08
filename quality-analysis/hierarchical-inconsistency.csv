@@ -1,0 +1,1280 @@
+bid,nid,blabel,bt,nlabel,nt
+C28533,C1335,absorbents,Chemical,starch,Product
+C7450,C12765,additives,Product,emulsifiers,Chemical
+C7450,C2116,additives,Product,feed additives,Chemical
+C7450,C1963,additives,Product,food additives,Chemical
+C7450,C14376,additives,Product,natural additives,Chemical
+C7450,C26405,additives,Product,semen diluent additives,Topic
+C7450,C17447,additives,Product,silage additives,Topic
+C7450,C12751,additives,Product,stabilizers,Chemical
+C10307,C9171,adsorbents,Chemical,activated sludge,Topic
+C10307,C9656,adsorbents,Chemical,charcoal,Product
+C8493,C4844,aerial parts,Topic,foliage,Product
+C4836,C20049,aflatoxins,Chemical,aflatoxin B1,Topic
+C1708,C8753,agents,Topic,adjuvants,Chemical
+C1708,C20735,agents,Topic,anticoagulants,Chemical
+C1708,C1026,agents,Topic,antioxidants,Chemical
+C1708,C8148,agents,Topic,catalysts,Chemical
+C1708,C10242,agents,Topic,chelating agents,Chemical
+C1708,C13233,agents,Topic,cryoprotectants,Chemical
+C1708,C27097,agents,Topic,desiccants,Chemical
+C1708,C21781,agents,Topic,detoxicants,Chemical
+C1708,C15981,agents,Topic,enzyme activators,Chemical
+C1708,C6015,agents,Topic,surfactants,Chemical
+C2302,C7039,agricultural wastes,Topic,slurries,Product
+C31430,C30060,agroindustrial byproducts,Product,cotton gin trash,Topic
+C4913,C6273,air pollutants,Chemical,greenhouse gases,Topic
+C28372,C28794,allomones,Chemical,defensive secretions,Topic
+C7422,C6645,amino acid composition,Topic,free amino acids,Chemical
+C24937,C30279,aminopeptidase,Topic,leucyl aminopeptidase,Chemical
+C6730,C792,anaerobiosis,Topic,fermentation,Product
+C10069,C29421,anaesthetics,Chemical,general anesthetics,Topic
+C13555,C19886,ancillary equipment,Topic,poles,Product
+C2301,C12515,animal anatomy,Topic,cocoons,Product
+C171,C14853,animal breeding,Topic,dams (mothers),Organism
+C24159,C6157,animal communities,Topic,herds,Organism
+C11716,C29503,animal fats and oils,Product,animal oils,Topic
+C11267,C11264,animal genetic resources,Topic,native livestock,Organism
+C3982,C10640,animal housing,Topic,litter for animals,Product
+C29503,C31957,animal oils,Topic,butter oil,Product
+C29503,C5184,animal oils,Topic,fish oils,Product
+C10185,C1424,animal organs,Topic,brain,Product
+C10185,C1775,animal organs,Topic,heart,Product
+C10185,C1583,animal organs,Topic,kidneys,Product
+C10185,C521,animal organs,Topic,liver,Product
+C10185,C2567,animal organs,Topic,spleen,Product
+C12558,C6111,animal pathogens,Topic,animal pathogenic bacteria,Organism
+C12558,C25389,animal pathogens,Topic,animal pathogenic fungi,Organism
+C12558,C2201,animal pathogens,Topic,entomopathogens,Organism
+C12558,C8510,animal pathogens,Topic,keratinophilic fungi,Organism
+C5059,C6157,animal population,Topic,herds,Organism
+C1108,C6157,animal production,Topic,herds,Organism
+C1108,C11102,animal production,Topic,litters (young animals),Organism
+C1797,C27212,animal products,Product,frozen semen,Topic
+C3075,C5429,animal proteins,Product,blood proteins,Chemical
+C3075,C12068,animal proteins,Product,blood source protein,Topic
+C3075,C30471,animal proteins,Product,excretory secretory products,Chemical
+C3075,C11274,animal proteins,Product,gelatin,Chemical
+C3075,C3143,animal proteins,Product,interferons,Chemical
+C3075,C22347,animal proteins,Product,keratin,Chemical
+C3075,C4607,animal proteins,Product,milk proteins,Chemical
+C3075,C19347,animal proteins,Product,ovalbumin,Chemical
+C3075,C14148,animal proteins,Product,ubiquitin,Chemical
+C1056,C11102,animal reproduction,Topic,litters (young animals),Organism
+C15734,C25755,animal wastes,Topic,dead animals,Product
+C32,C25755,animals,Organism,dead animals,Product
+C6216,C6791,anions,Chemical,sulfate,Product
+C7920,C1236,anthers,Topic,pollen,Product
+C1028,C14810,antibodies,Chemical,antitoxins,Topic
+C1028,C23141,antibodies,Chemical,autoantibodies,Topic
+C1028,C29735,antibodies,Chemical,maternal antibodies,Topic
+C1028,C2919,antibodies,Chemical,monoclonal antibodies,Topic
+C1028,C9866,antibodies,Chemical,neutralizing antibodies,Topic
+C1028,C16194,antibodies,Chemical,polyclonal antibodies,Topic
+C920,C12891,antigens,Chemical,bacterial antigens,Topic
+C920,C8324,antigens,Chemical,epitopes,Topic
+C920,C20961,antigens,Chemical,recombinant antigens,Topic
+C920,C12818,antigens,Chemical,surface antigens,Topic
+C920,C18173,antigens,Chemical,toxoids,Topic
+C920,C9318,antigens,Chemical,viral antigens,Topic
+C27973,C30909,antitranspirants,Chemical,wax coatings,Topic
+C8939,C10522,aquatic communities,Topic,benthos,Organism
+C8939,C21052,aquatic communities,Topic,periphyton,Organism
+C8939,C10187,aquatic communities,Topic,seston,Organism
+C7598,C19389,ash (inorganic matter),Product,fly ash,Topic
+C20157,C18818,Asians,Topic,Chinese people,Product
+C8461,C7572,attractants,Chemical,baits,Topic
+C1820,C1814,Avena,Organism,oats,Product
+C12891,C7367,bacterial antigens,Topic,tuberculin,Chemical
+C10271,C22566,bacterial insecticides,Topic,Bacillus sphaericus,Organism
+C10271,C24560,bacterial insecticides,Topic,Bacillus thuringiensis serovar. israelensis,Organism
+C10271,C20399,bacterial insecticides,Topic,Bacillus thuringiensis serovar. kurstaki,Organism
+C6654,C8649,bacterial toxins,Chemical,endotoxins,Topic
+C6654,C10786,bacterial toxins,Chemical,enterotoxins,Topic
+C6654,C31149,bacterial toxins,Chemical,Shiga toxin,Topic
+C8386,C4493,beverage crops,Organism,cocoa,Product
+C8386,C2627,beverage crops,Organism,coffee,Product
+C8386,C11525,beverage crops,Organism,hops,Product
+C8386,C2945,beverage crops,Organism,tea,Product
+C1299,C1401,binding proteins,Chemical,receptors,Topic
+C24541,C28112,biochemical compounds,Chemical,elicitors,Topic
+C24541,C2274,biochemical compounds,Chemical,phytopharmaceuticals,Product
+C4035,C5278,bioenergy,Topic,fuelwood,Product
+C4388,C1575,biofuels,Product,ethanol,Chemical
+C4388,C4821,biofuels,Product,methanol,Chemical
+C8515,C3030,biogas,Product,methane,Chemical
+C3642,C3286,biogeography,Topic,provenance,Product
+C3642,C25644,biogeography,Topic,sympatric species,Organism
+C840,C6320,biological control agents,Organism,microbial pesticides,Topic
+C3772,C2766,biological resources,Topic,endangered species,Organism
+C3772,C4531,biological resources,Topic,fauna,Organism
+C3772,C1866,biological resources,Topic,flora,Organism
+C3772,C2220,biological resources,Topic,indigenous organisms,Organism
+C3772,C1856,biological resources,Topic,introduced species,Organism
+C3772,C18729,biological resources,Topic,pioneer species,Organism
+C3772,C13906,biological resources,Topic,protected species,Organism
+C3772,C1247,biological resources,Topic,wildlife,Organism
+C812,C23,biology,Topic,organisms,Organism
+C13393,C840,biopesticides,Topic,biological control agents,Organism
+C13393,C17690,biopesticides,Topic,botanical pesticides,Chemical
+C2654,C4531,biota,Topic,fauna,Organism
+C2654,C1866,biota,Topic,flora,Organism
+C7551,C8223,biotypes,Topic,ecotypes,Organism
+C809,C11740,blood,Product,blood cells,Topic
+C809,C18399,blood,Product,blood gases,Chemical
+C809,C1017,blood,Product,blood plasma,Topic
+C1256,C18399,blood chemistry,Topic,blood gases,Chemical
+C1256,C2109,blood chemistry,Topic,blood lipids,Chemical
+C1256,C5429,blood chemistry,Topic,blood proteins,Chemical
+C1256,C2115,blood chemistry,Topic,blood sugar,Chemical
+C9505,C809,body fluids,Topic,blood,Product
+C9505,C410,body fluids,Topic,milk,Product
+C9505,C2951,body fluids,Topic,semen,Product
+C25656,C18394,Brachyspiraceae,Organism,reproduction control,Topic
+C1424,C28350,brain,Product,brain stem,Topic
+C1424,C21315,brain,Product,cerebellum,Topic
+C1424,C24636,brain,Product,cerebral cortex,Topic
+C1424,C18846,brain,Product,hippocampus,Topic
+C1424,C10658,brain,Product,hypothalamus,Topic
+C1533,C9961,breeding,Topic,breeding stock,Organism
+C5050,C15322,brewing,Topic,wort,Product
+C27863,C27860,buffalo breeds,Topic,Murrah,Organism
+C17671,C28576,calcium fertilizers,Topic,calcium ammonium nitrate,Chemical
+C17671,C7797,calcium fertilizers,Topic,calcium chloride,Chemical
+C17671,C28670,calcium fertilizers,Topic,calcium cyanamide,Chemical
+C17671,C23686,calcium fertilizers,Topic,calcium nitrate,Chemical
+C17671,C24608,calcium fertilizers,Topic,calcium phosphates,Chemical
+C17671,C10720,calcium fertilizers,Topic,gypsum,Chemical
+C336,C9656,carbon,Chemical,charcoal,Product
+C3142,C8968,carcass composition,Product,dressing percentage,Topic
+C3142,C12210,carcass composition,Product,fat thickness,Topic
+C3142,C21564,carcass composition,Product,lean meat,Topic
+C3128,C19716,carcasses,Product,beef carcasses,Topic
+C3128,C24639,carcasses,Product,chicken carcasses,Topic
+C3128,C23541,carcasses,Product,pig carcasses,Topic
+C7728,C4836,carcinogens,Topic,aflatoxins,Chemical
+C7728,C21038,carcinogens,Topic,asbestos,Chemical
+C7728,C13740,carcinogens,Topic,benzene,Chemical
+C7728,C24391,carcinogens,Topic,benzopyrene,Chemical
+C7728,C26185,carcinogens,Topic,patulin,Chemical
+C6695,C809,cardiovascular system,Topic,blood,Product
+C6695,C1775,cardiovascular system,Topic,heart,Product
+C2954,C26019,casein,Product,alpha-s1-casein,Chemical
+C2954,C17180,casein,Product,beta-casein,Chemical
+C2954,C19880,casein,Product,kappa-casein,Chemical
+C15190,C23005,catch composition,Topic,bycatch,Organism
+C3116,C13365,cattle breeds,Topic,Aberdeen-Angus,Organism
+C3116,C22199,cattle breeds,Topic,American Brown Swiss,Organism
+C3116,C19994,cattle breeds,Topic,Ayrshire (cattle breed),Organism
+C3116,C21776,cattle breeds,Topic,Charolais,Organism
+C3116,C16116,cattle breeds,Topic,Hereford (cattle breed),Organism
+C3116,C3984,cattle breeds,Topic,Holstein-Friesian,Organism
+C3116,C19530,cattle breeds,Topic,Jersey (cattle breed),Organism
+C3116,C29069,cattle breeds,Topic,Limousin (cattle breed),Organism
+C3116,C27383,cattle breeds,Topic,Nelore,Organism
+C3116,C26345,cattle breeds,Topic,Sahiwal,Organism
+C3116,C25967,cattle breeds,Topic,Shorthorn,Organism
+C3116,C14291,cattle breeds,Topic,Simmental,Organism
+C1839,C17961,cellulose,Chemical,carboxymethylcellulose,Product
+C29824,C21273,cellulosic materials,Product,cellulosic fibers,Topic
+C5570,C1424,central nervous system,Topic,brain,Product
+C1478,C3286,characteristics,Topic,provenance,Product
+C1478,C9212,characteristics,Topic,spread,Product
+C9656,C25251,charcoal,Product,biochar,Topic
+C215,C2996,chemical composition,Topic,fat,Product
+C215,C19392,chemical composition,Topic,inorganic phosphorus,Chemical
+C215,C2609,chemical composition,Topic,protein,Product
+C215,C1697,chemical composition,Topic,trace elements,Chemical
+C29686,C23129,chemical compounds,Chemical,radicals,Topic
+C135,C1527,chemical constituents of plants,Topic,essential oils,Product
+C135,C2274,chemical constituents of plants,Topic,phytopharmaceuticals,Product
+C135,C6720,chemical constituents of plants,Topic,plant pigments,Chemical
+C6308,C6920,chemical inhibitors,Chemical,growth inhibitors,Topic
+C333,C17769,chemical structure,Topic,sulfhydryl groups,Chemical
+C2789,C31701,chemical substances,Chemical,distillates,Topic
+C2789,C1841,chemical substances,Chemical,residues,Product
+C1403,C6600,chromosomes,Topic,chromatin,Chemical
+C16640,C14765,chymosin,Chemical,rennet,Product
+C4892,C28679,citrus fruits,Product,citranges,Organism
+C4892,C24182,citrus fruits,Product,rough lemons,Topic
+C5459,C16120,clay,Product,bentonite,Topic
+C8402,C24878,clay minerals,Topic,illite,Chemical
+C8402,C24026,clay minerals,Topic,kaolin,Chemical
+C8402,C16661,clay minerals,Topic,kaolinite,Chemical
+C8402,C17270,clay minerals,Topic,montmorillonite,Chemical
+C8402,C27608,clay minerals,Topic,smectites,Chemical
+C8402,C16475,clay minerals,Topic,vermiculite,Chemical
+C14967,C2172,climatic seasons,Topic,winter,Product
+C6990,C9151,climatic zones,Topic,Sahel,Geographical
+C8347,C10346,colloids,Chemical,aerosols,Topic
+C8347,C5580,colloids,Chemical,emulsions,Topic
+C8347,C3525,colloids,Chemical,gels,Topic
+C8347,C15759,colloids,Chemical,hydrocolloids,Topic
+C8347,C15210,colloids,Chemical,micelles,Topic
+C7499,C19758,colostrum,Product,cow colostrum,Topic
+C17635,C2752,common markets,Topic,European Union,Geographical
+C28271,C30362,components,Topic,shingles (roofing),Product
+C4745,C25982,concentrates,Product,emulsifiable concentrates,Topic
+C11947,C19222,construction materials,Topic,cement,Product
+C11947,C10350,construction materials,Topic,composite wood products,Product
+C11947,C13126,construction materials,Topic,concrete,Product
+C11947,C19810,construction materials,Topic,mud,Product
+C11947,C30362,construction materials,Topic,shingles (roofing),Product
+C11947,C30430,construction materials,Topic,thatch,Product
+C11947,C5435,construction materials,Topic,timbers,Product
+C5058,C28272,container grown plants,Organism,potted flowering plants,Product
+C5058,C25179,container grown plants,Organism,potted foliage plants,Product
+C1556,C249,contamination,Topic,food contamination,Product
+C17717,C23336,contraceptives,Topic,oral contraceptives,Chemical
+C3561,C10111,cooking,Product,baking,Topic
+C3561,C13000,cooking,Product,frying,Topic
+C3561,C31506,cooking,Product,grilling,Topic
+C3561,C16674,cooking,Product,microwave cooking,Topic
+C3561,C11664,cooking,Product,roasting,Topic
+C16909,C20596,countries,Topic,Arab countries,Geographical
+C16909,C10630,countries,Topic,developed countries,Geographical
+C16909,C1784,countries,Topic,developing countries,Geographical
+C16909,C18700,countries,Topic,European Union countries,Geographical
+C3990,C26436,crop residues,Topic,grape seeds,Product
+C3990,C11004,crop residues,Topic,husks,Product
+C3990,C2219,crop residues,Topic,straw,Product
+C422,C16835,crops,Organism,intercrops,Product
+C9275,C18853,cucurbit vegetables,Product,Cucurbita maxima,Organism
+C9275,C21736,cucurbit vegetables,Product,Cucurbita moschata,Organism
+C9275,C28250,cucurbit vegetables,Product,Lagenaria siceraria,Organism
+C2774,C9275,Cucurbitaceae,Organism,cucurbit vegetables,Product
+C7584,C25618,culinary herbs,Organism,basil,Product
+C7584,C32299,culinary herbs,Organism,chamomile,Product
+C7584,C29630,culinary herbs,Organism,dill,Product
+C7584,C21110,culinary herbs,Organism,fennel,Product
+C7584,C19169,culinary herbs,Organism,fenugreek,Product
+C7584,C7202,culinary herbs,Organism,garlic,Product
+C7584,C32353,culinary herbs,Organism,horseradish,Product
+C7584,C23972,culinary herbs,Organism,liquorice,Product
+C7584,C24042,culinary herbs,Organism,oregano,Product
+C7584,C19412,culinary herbs,Organism,parsley,Product
+C7584,C19143,culinary herbs,Organism,rosemary,Product
+C7584,C24218,culinary herbs,Organism,sage,Product
+C7584,C27723,culinary herbs,Organism,thyme,Product
+C90,C3889,cultural methods,Topic,pruning,Product
+C3125,C17459,cytokines,Topic,chemokines,Chemical
+C3125,C24326,cytokines,Topic,colony stimulating factor,Chemical
+C3125,C3143,cytokines,Topic,interferons,Chemical
+C3125,C7541,cytokines,Topic,interleukins,Chemical
+C26916,C22199,dairy breeds,Topic,American Brown Swiss,Organism
+C26916,C19994,dairy breeds,Topic,Ayrshire (cattle breed),Organism
+C26916,C3984,dairy breeds,Topic,Holstein-Friesian,Organism
+C26916,C19530,dairy breeds,Topic,Jersey (cattle breed),Organism
+C12456,C20715,dead wood,Product,coarse woody debris,Topic
+C12456,C25910,dead wood,Product,dead trees,Organism
+C9263,C16391,Decapoda,Organism,prawns,Product
+C15454,C18131,defects,Topic,wood defects,Product
+C3847,C4134,density,Product,bulk density,Topic
+C3847,C11727,density,Product,wood density,Topic
+C4326,C26228,deserts,Topic,sahara desert,Geographical
+C609,C16515,developmental stages,Topic,mature plants,Organism
+C609,C17856,developmental stages,Topic,saplings,Organism
+C609,C300,developmental stages,Topic,seedlings,Organism
+C609,C26901,developmental stages,Topic,sporophytes,Organism
+C222,C2037,diet,Topic,dietary fibres,Product
+C222,C21287,diet,Topic,meals (menu),Product
+C2037,C24072,dietary fibres,Product,soluble fiber,Topic
+C2556,C3075,dietary protein,Topic,animal proteins,Product
+C2556,C738,dietary protein,Topic,plant proteins,Product
+C1314,C5925,digestibility,Topic,in vitro digestibility,Product
+C18864,C6357,digestive enzymes,Topic,alpha-amylase,Chemical
+C18864,C16640,digestive enzymes,Topic,chymosin,Chemical
+C18864,C16863,digestive enzymes,Topic,chymotrypsin,Chemical
+C18864,C14871,digestive enzymes,Topic,pepsin,Chemical
+C18864,C4104,digestive enzymes,Topic,triacylglycerol lipase,Chemical
+C18864,C8283,digestive enzymes,Topic,trypsin,Chemical
+C4850,C521,digestive system,Topic,liver,Product
+C27063,C23079,dipeptides,Chemical,aspartame,Product
+C1568,C4929,disease vectors,Organism,insect vectors,Topic
+C11602,C8347,dispersions,Topic,colloids,Chemical
+C31701,C20240,distillates,Topic,creosote,Chemical
+C318,C4053,DNA,Chemical,transposons,Topic
+C6282,C5157,DNA probes,Topic,DNA primers,Chemical
+C14511,C26652,DNA-binding domains,Chemical,zinc finger motif,Topic
+C11412,C20088,dog breeds,Topic,Beagle,Organism
+C11412,C26871,dog breeds,Topic,German Shepherd,Organism
+C11412,C30474,dog breeds,Topic,Greyhound,Organism
+C11412,C28320,dog breeds,Topic,Labrador Retriever,Organism
+C1746,C11358,dosage,Topic,lethal dose,Chemical
+C11203,C2049,drainage water,Topic,runoff,Product
+C2299,C30258,drugs,Chemical,biopharmaceuticals,Topic
+C2299,C7256,drugs,Chemical,drug combinations,Topic
+C2299,C2492,drugs,Chemical,herbal medicines,Product
+C2299,C26967,drugs,Chemical,hormone supplements,Topic
+C2299,C18458,drugs,Chemical,new drugs,Product
+C2299,C18173,drugs,Chemical,toxoids,Topic
+C2299,C962,drugs,Chemical,vaccines,Topic
+C2299,C7560,drugs,Chemical,veterinary products,Topic
+C2261,C25883,drying,Product,drying methods,Topic
+C7224,C26571,dyes,Product,azo dyes,Chemical
+C7224,C17669,dyes,Product,curcumin,Chemical
+C7224,C22262,dyes,Product,ferrous sulfate,Chemical
+C7224,C14229,dyes,Product,fluorescent dyes,Chemical
+C7224,C25130,dyes,Product,gentian violet,Chemical
+C7224,C19577,dyes,Product,mercuric chloride,Chemical
+C7224,C16700,dyes,Product,methylene blue,Chemical
+C24817,C3185,earth,Geographical,atmosphere,Topic
+C14699,C6168,ectosymbiosis,Topic,ectomycorrhizae,Organism
+C4823,C16962,edible fungi,Product,Coriolus versicolor,Organism
+C4823,C21066,edible fungi,Product,Lentinula edodes,Organism
+C4823,C17245,edible fungi,Product,Pleurotus ostreatus,Organism
+C4823,C27501,edible fungi,Product,Schizophyllum commune,Organism
+C4826,C4823,edible species,Organism,edible fungi,Product
+C5859,C10340,effluents,Product,industrial effluents,Topic
+C5859,C15705,effluents,Product,sewage effluent,Topic
+C17965,C8574,egg characters,Topic,egg yolk,Product
+C22486,C11226,egg products,Product,egg albumen,Chemical
+C1895,C11226,eggs,Product,egg albumen,Chemical
+C1895,C22536,eggs,Product,fish eggs,Topic
+C14716,C5996,endocrine glands,Topic,pituitary gland,Product
+C1546,C4248,energy resources,Topic,fuels,Product
+C1080,C3344,environmental sciences,Topic,wastes,Product
+C11713,C14765,enzyme preparations,Topic,rennet,Product
+C341,C14157,enzymes,Chemical,immobilized enzymes,Topic
+C341,C1986,enzymes,Chemical,isoenzymes,Topic
+C29493,C15981,enzymology,Topic,enzyme activators,Chemical
+C29493,C21882,enzymology,Topic,enzyme precursors,Chemical
+C155,C8385,epidemiology,Topic,disease reservoirs,Organism
+C155,C1568,epidemiology,Topic,disease vectors,Organism
+C4807,C31042,esterases,Chemical,lipases,Topic
+C2752,C5062,European Union,Geographical,CAP,Topic
+C2090,C28064,extracts,Product,ether extracts,Topic
+C2090,C16706,extracts,Product,extractives,Topic
+C2090,C30370,extracts,Product,tissue extracts,Topic
+C2090,C16215,extracts,Product,yeast extracts,Topic
+C3826,C24848,fats,Product,acylglycerols,Chemical
+C3826,C22850,fats,Product,saturated fats,Chemical
+C2892,C948,feed quality,Topic,nutritive value,Product
+C2892,C7689,feed quality,Topic,palatability,Product
+C2364,C4560,feed supplements,Topic,vitamin supplements,Chemical
+C615,C16577,feeds,Product,browse,Topic
+C615,C2364,feeds,Product,feed supplements,Topic
+C615,C1292,feeds,Product,fodder legumes,Organism
+C615,C3623,feeds,Product,food plants,Organism
+C12105,C26195,feedstocks,Product,crude oil,Chemical
+C347,C4073,female animals,Organism,mothers,Topic
+C353,C21944,females,Organism,daughters,Topic
+C353,C4340,females,Organism,girls,Topic
+C353,C23163,females,Organism,virgin females,Topic
+C353,C503,females,Organism,women,Topic
+C792,C8356,fermentation,Product,alcoholic fermentation,Topic
+C792,C18573,fermentation,Product,batch fermentation,Topic
+C792,C17497,fermentation,Product,lactic fermentation,Topic
+C792,C21673,fermentation,Product,malolactic fermentation,Topic
+C792,C19090,fermentation,Product,methane fermentation,Topic
+C792,C17388,fermentation,Product,solid state fermentation,Topic
+C792,C31383,fermentation,Product,submerged fermentation,Topic
+C25247,C14091,film,Topic,edible films,Product
+C2986,C11976,fish (product),Product,catfish,Organism
+C2986,C11478,fish (product),Product,farmed fish,Organism
+C1420,C23005,fisheries,Topic,bycatch,Organism
+C12237,C22492,flavourings,Chemical,condiments,Product
+C12237,C11525,flavourings,Chemical,hops,Product
+C12237,C23972,flavourings,Chemical,liquorice,Product
+C12237,C14413,flavourings,Chemical,sauces,Product
+C12237,C29263,flavourings,Chemical,smokes,Topic
+C12237,C9994,flavourings,Chemical,spices,Product
+C912,C19552,flowers,Product,androecium,Topic
+C912,C15003,flowers,Product,calyx,Topic
+C912,C7128,flowers,Product,corolla,Topic
+C912,C27987,flowers,Product,female flowers,Topic
+C912,C30528,flowers,Product,florets,Topic
+C912,C24891,flowers,Product,flower primordia,Topic
+C912,C9024,flowers,Product,gynoecium,Topic
+C912,C29754,flowers,Product,male flowers,Topic
+C912,C22017,flowers,Product,nectaries,Topic
+C1307,C4980,fluidized bed processing,Product,postharvest treatment,Topic
+C1307,C15961,fluidized bed processing,Product,preplanting treatment,Topic
+C1307,C10409,fluidized bed processing,Product,pretreatment,Topic
+C15364,C6682,fluids,Topic,gases,Product
+C254,C17159,fodder plants,Organism,mangolds,Product
+C1963,C19945,food additives,Chemical,bakery additives,Topic
+C1963,C11713,food additives,Chemical,enzyme preparations,Topic
+C1963,C23356,food additives,Chemical,modified starches,Product
+C1963,C12367,food additives,Chemical,sweeteners,Product
+C9834,C3561,food preparation,Topic,cooking,Product
+C871,C2261,food preservation,Topic,drying,Product
+C8691,C23495,food preservatives,Chemical,brines,Topic
+C8691,C18883,food preservatives,Chemical,vinegar,Product
+C285,C3561,food processing,Topic,cooking,Product
+C285,C20739,food processing,Topic,malting,Product
+C285,C4231,food processing,Topic,winemaking,Product
+C7778,C12090,food products,Topic,plant-based foods,Product
+C267,C18534,food quality,Topic,drip loss,Product
+C267,C249,food quality,Topic,food contamination,Product
+C267,C14082,food quality,Topic,food matrix,Product
+C267,C18009,food quality,Topic,food nutrient losses,Product
+C267,C2982,food quality,Topic,food processing quality,Product
+C267,C23538,food quality,Topic,food surfaces,Product
+C267,C3540,food quality,Topic,fruit quality,Product
+C267,C16086,food quality,Topic,glycaemic index,Product
+C267,C21051,food quality,Topic,juice quality,Product
+C267,C16602,food quality,Topic,juiciness,Product
+C267,C3108,food quality,Topic,meat quality,Product
+C267,C5879,food quality,Topic,milk quality,Product
+C267,C948,food quality,Topic,nutritive value,Product
+C267,C7689,food quality,Topic,palatability,Product
+C267,C13848,food quality,Topic,wine quality,Product
+C1146,C249,food safety,Topic,food contamination,Product
+C1414,C1963,food science,Topic,food additives,Chemical
+C540,C7778,foods,Product,food products,Topic
+C540,C1512,foods,Product,food supplements,Topic
+C540,C24981,foods,Product,military rations,Topic
+C1481,C7635,forage,Product,forage grasses,Organism
+C1481,C15150,forage,Product,forage quality,Topic
+C1481,C23444,forage,Product,green fodders,Topic
+C1481,C5651,forage,Product,herbage,Topic
+C31785,C2116,forage and feed science,Topic,feed additives,Chemical
+C31785,C1481,forage and feed science,Topic,forage,Product
+C15150,C948,forage quality,Topic,nutritive value,Product
+C15150,C7689,forage quality,Topic,palatability,Product
+C3927,C22749,forest litter,Topic,slash,Product
+C4244,C9628,formulations,Topic,pellets,Product
+C24543,C9508,fossil fuels,Topic,coal,Product
+C24543,C18814,fossil fuels,Topic,natural gas,Chemical
+C24543,C7404,fossil fuels,Topic,petroleum,Product
+C557,C2471,fruit crops,Organism,small fruits,Product
+C557,C2393,fruit crops,Organism,temperate fruits,Product
+C557,C4889,fruit crops,Organism,tree fruits,Product
+C557,C5204,fruit crops,Organism,tropical fruits,Product
+C389,C13913,fruits,Product,bolls,Topic
+C389,C10896,fruits,Product,pericarp,Topic
+C389,C5370,fruits,Product,pods,Topic
+C4248,C13740,fuels,Product,benzene,Chemical
+C4248,C26195,fuels,Product,crude oil,Chemical
+C4248,C24543,fuels,Product,fossil fuels,Topic
+C4248,C4772,fuels,Product,peat,Topic
+C16980,C30000,fumonisins,Chemical,fumonisin B1,Topic
+C138,C4751,fungal diseases,Topic,mildews,Organism
+C12893,C10345,fungal insecticides,Topic,Beauveria bassiana,Organism
+C12893,C28972,fungal insecticides,Topic,Lecanicillium lecanii,Organism
+C12893,C13546,fungal insecticides,Topic,Metarhizium anisopliae,Organism
+C95,C4823,fungi,Organism,edible fungi,Product
+C13480,C1236,gametes,Topic,pollen,Product
+C6682,C3624,gases,Product,air,Topic
+C6682,C6273,gases,Product,greenhouse gases,Topic
+C6682,C14670,gases,Product,vapors,Topic
+C6682,C23864,gases,Product,vapour,Topic
+C6682,C14680,gases,Product,waste gases,Topic
+C19478,C22256,gastric juices,Topic,gastric acid,Chemical
+C3525,C11274,gels,Topic,gelatin,Chemical
+C11644,C353,gender,Topic,females,Organism
+C11644,C999,gender,Topic,males,Organism
+C2202,C2140,genetic engineering,Topic,transgenics,Organism
+C4652,C9646,geographical regions,Topic,Amazonia,Geographical
+C4652,C17605,geographical regions,Topic,Andean region,Geographical
+C4652,C27352,geographical regions,Topic,Himalayan region,Geographical
+C4652,C13807,geographical regions,Topic,Mediterranean region,Geographical
+C4652,C13246,geographical regions,Topic,Middle East,Geographical
+C10942,C1335,glucans,Chemical,starch,Product
+C8227,C12861,gluten,Product,wheat gluten,Chemical
+C1825,C8117,grain,Product,cereal grains,Topic
+C2031,C326,grain crops,Organism,cereals,Product
+C2031,C1709,grain crops,Organism,grain legumes,Product
+C2031,C10067,grain crops,Organism,pseudocereals,Product
+C1709,C20917,grain legumes,Product,Canavalia ensiformis,Organism
+C1709,C19808,grain legumes,Product,Lablab purpureus,Organism
+C1709,C19906,grain legumes,Product,Lathyrus sativus,Organism
+C1709,C27865,grain legumes,Product,Phaseolus acutifolius,Organism
+C1709,C21943,grain legumes,Product,Psophocarpus tetragonolobus,Organism
+C1709,C20395,grain legumes,Product,Vigna angularis,Organism
+C1709,C29146,grain legumes,Product,vigna subterranea,Organism
+C9129,C8397,granules,Topic,starch granules,Chemical
+C767,C3787,grasses,Organism,feed grasses,Product
+C15476,C28324,green leafy vegetables,Product,Amaranthus caudatus,Organism
+C15476,C28078,green leafy vegetables,Product,amaranthus cruentus,Organism
+C15476,C31638,green leafy vegetables,Product,Amaranthus hybridus,Organism
+C15476,C16319,green leafy vegetables,Product,Amaranthus retroflexus,Organism
+C15476,C26683,green leafy vegetables,Product,Brassica carinata,Organism
+C15476,C10588,green leafy vegetables,Product,Brassica chinensis,Organism
+C15476,C25084,green leafy vegetables,Product,Corchorus capsularis,Organism
+C15476,C26896,green leafy vegetables,Product,Corchorus olitorius,Organism
+C15476,C29545,green leafy vegetables,Product,Eruca vesicaria,Organism
+C5518,C9174,growth habit,Topic,annuals,Organism
+C5518,C5997,growth habit,Topic,perennials,Organism
+C6920,C2280,growth inhibitors,Topic,abscisic acid,Chemical
+C6920,C8024,growth inhibitors,Topic,carbaryl,Chemical
+C6920,C17651,growth inhibitors,Topic,chlorpropham,Chemical
+C6920,C6789,growth inhibitors,Topic,jasmonic acid,Chemical
+C6920,C19619,growth inhibitors,Topic,maleic hydrazide,Chemical
+C6920,C29977,growth inhibitors,Topic,mepiquat,Chemical
+C6920,C10636,growth inhibitors,Topic,paclobutrazol,Chemical
+C6920,C19510,growth inhibitors,Topic,thidiazuron,Chemical
+C11858,C17545,growth promoters,Topic,anabolic steroids,Chemical
+C11858,C28709,growth promoters,Topic,bacitracin,Chemical
+C11858,C19676,growth promoters,Topic,diethylstilbestrol,Chemical
+C11858,C28950,growth promoters,Topic,lasalocid,Chemical
+C11858,C13476,growth promoters,Topic,monensin,Chemical
+C11858,C25792,growth promoters,Topic,salinomycin,Chemical
+C11858,C27645,growth promoters,Topic,zeranol,Chemical
+C1379,C11858,growth regulators,Chemical,growth promoters,Topic
+C12635,C10673,growth retardants,Topic,chlormequat,Chemical
+C12635,C20693,growth retardants,Topic,daminozide,Chemical
+C12635,C10636,growth retardants,Topic,paclobutrazol,Chemical
+C12635,C29073,growth retardants,Topic,uniconazole,Chemical
+C6551,C19256,gum plants,Organism,guar,Product
+C14014,C14358,gums,Product,carrageenan,Chemical
+C14014,C18120,gums,Product,dextran,Chemical
+C14014,C18334,gums,Product,dextrins,Chemical
+C14014,C17247,gums,Product,guar gum,Chemical
+C14014,C21183,gums,Product,gum arabic,Chemical
+C14014,C10284,gums,Product,xylan,Chemical
+C1775,C25965,heart,Product,heart valves,Topic
+C1775,C31445,heart,Product,heart ventricles,Topic
+C1775,C11693,heart,Product,myocardium,Topic
+C1161,C3561,heat treatment,Topic,cooking,Product
+C24746,C19089,helminth insecticides,Topic,Steinernema carpocapsae,Organism
+C203,C13715,helminths,Organism,helminth ova,Topic
+C533,C19934,herbicides,Chemical,herbicide mixtures,Topic
+C533,C18246,herbicides,Chemical,mycoherbicides,Topic
+C6157,C7783,herds,Organism,livestock numbers,Topic
+C18002,C16565,hickory nuts,Topic,pecans,Product
+C6421,C24895,high yielding varieties,Topic,plus trees,Organism
+C27317,C27839,hive products,Product,honey bee venom,Chemical
+C15781,C31447,hives,Topic,comb honey,Product
+C7143,C17963,hormone receptors,Topic,oestrogen receptors,Chemical
+C3050,C26650,hormones,Chemical,releasing hormones,Topic
+C17945,C28866,horse breeds,Topic,American Trotter,Organism
+C17945,C12807,horse breeds,Topic,Thoroughbred,Organism
+C246,C20983,horticulture,Topic,bonsai,Organism
+C99,C21287,human nutrition,Topic,meals (menu),Product
+C21390,C17228,humic substances,Topic,fulvic acids,Chemical
+C21390,C8384,humic substances,Topic,humic acids,Chemical
+C5000,C17228,humus,Topic,fulvic acids,Chemical
+C5000,C8384,humus,Topic,humic acids,Chemical
+C11004,C25449,husks,Product,soyabean husks,Topic
+C19345,C12803,immunological factors,Topic,agglutinins,Chemical
+C19345,C920,immunological factors,Topic,antigens,Chemical
+C19345,C12530,immunological factors,Topic,complement,Chemical
+C19345,C3308,immunological factors,Topic,immunoglobulins,Chemical
+C19345,C18960,immunological factors,Topic,immunomodulators,Chemical
+C935,C3242,infants,Topic,neonates,Organism
+C1714,C89,infective agents,Topic,pathogens,Organism
+C2658,C17632,inflorescences,Topic,cones,Product
+C2658,C912,inflorescences,Topic,flowers,Product
+C3815,C7289,influenza viruses,Organism,influenza A,Topic
+C3815,C25265,influenza viruses,Organism,influenza B,Topic
+C29194,C25653,inorganic acid salts,Topic,arsenates,Chemical
+C29194,C30387,inorganic acid salts,Topic,benzoates,Chemical
+C29194,C15933,inorganic acid salts,Topic,bromides,Chemical
+C29194,C14022,inorganic acid salts,Topic,carbonates,Chemical
+C29194,C3777,inorganic acid salts,Topic,chlorides,Chemical
+C29194,C15989,inorganic acid salts,Topic,cyanides,Chemical
+C29194,C12125,inorganic acid salts,Topic,fluorides,Chemical
+C29194,C21669,inorganic acid salts,Topic,iodides,Chemical
+C29194,C1440,inorganic acid salts,Topic,nitrates,Chemical
+C29194,C6366,inorganic acid salts,Topic,nitrites,Chemical
+C29194,C18520,inorganic acid salts,Topic,silicates,Chemical
+C29194,C4173,inorganic acid salts,Topic,sulfates,Chemical
+C29194,C14391,inorganic acid salts,Topic,sulfides,Chemical
+C29194,C20901,inorganic acid salts,Topic,sulphites,Chemical
+C29194,C24100,inorganic acid salts,Topic,thiocyanates,Chemical
+C12397,C29194,inorganic compounds,Chemical,inorganic acid salts,Topic
+C12555,C2201,insect pathology,Topic,entomopathogens,Organism
+C566,C25537,insecticides,Topic,amitraz,Chemical
+C566,C10688,insecticides,Topic,botanical insecticides,Chemical
+C566,C31607,insecticides,Topic,carbamate insecticides,Chemical
+C566,C22580,insecticides,Topic,DNOC (pesticide),Chemical
+C566,C13325,insecticides,Topic,insect growth regulators,Chemical
+C566,C17954,insecticides,Topic,larvicides,Chemical
+C566,C20912,insecticides,Topic,organochlorine insecticides,Chemical
+C566,C14627,insecticides,Topic,organophosphorus insecticides,Chemical
+C566,C23313,insecticides,Topic,spinosad,Chemical
+C114,C23748,insects,Organism,forest insects,Topic
+C114,C14085,insects,Organism,fruit flies,Topic
+C114,C20910,insects,Organism,worker insects,Topic
+C3091,C21038,insulating materials,Topic,asbestos,Chemical
+C3091,C26064,insulating materials,Topic,polystyrenes,Chemical
+C3091,C16475,insulating materials,Topic,vermiculite,Chemical
+C17904,C10961,integument,Topic,hair,Product
+C17904,C22641,integument,Topic,setae (animal),Product
+C17904,C19183,integument,Topic,shells,Product
+C3143,C22779,interferons,Chemical,interferon-gamma,Topic
+C7498,C2752,international agreements,Topic,European Union,Geographical
+C7846,C2752,international organizations,Topic,European Union,Geographical
+C3684,C13592,ions,Chemical,ligands,Topic
+C3786,C67,islands,Topic,Christmas Island (Indian Ocean),Geographical
+C3786,C211,islands,Topic,Guam,Geographical
+C3786,C133,islands,Topic,Nauru,Geographical
+C3786,C538,islands,Topic,Norfolk Island,Geographical
+C1986,C8073,isoenzymes,Topic,allozymes,Chemical
+C10113,C28116,joints (animal),Topic,shoulders,Product
+C2010,C8637,keeping quality,Product,oxidative stability,Topic
+C12116,C4128,kernels,Product,endosperm,Topic
+C1583,C27713,kidneys,Product,glomerular filtration rate,Topic
+C1521,C30934,lakes,Topic,Lake Tanganyika,Geographical
+C14370,C3069,land cover,Topic,lawns and turf,Organism
+C387,C5767,larvae,Topic,fish larvae,Organism
+C387,C9308,larvae,Topic,helminth larvae,Organism
+C387,C18714,larvae,Topic,yellow mealworm,Organism
+C39,C23082,leaves,Product,bracts,Topic
+C39,C14217,leaves,Product,coleoptiles,Topic
+C39,C4839,leaves,Product,conifer needles,Topic
+C39,C3612,leaves,Product,cotyledons,Topic
+C39,C21191,leaves,Product,flag leaf,Topic
+C39,C25800,leaves,Product,leaf angle,Topic
+C39,C26934,leaves,Product,leaf blade,Topic
+C39,C23511,leaves,Product,leaf primordia,Topic
+C39,C26330,leaves,Product,leaf sheaths,Topic
+C39,C21057,leaves,Product,leaf veins,Topic
+C39,C8349,leaves,Product,petioles,Topic
+C1214,C1292,legumes,Product,fodder legumes,Organism
+C1214,C4394,legumes,Product,pasture legumes,Organism
+C1520,C12615,Lepidoptera,Organism,butterflies,Topic
+C1520,C14463,Lepidoptera,Organism,moths,Topic
+C11358,C15549,lethal dose,Chemical,lethal dose 50,Topic
+C9998,C28116,limbs,Topic,shoulders,Product
+C12634,C15622,liming materials,Chemical,agricultural lime,Topic
+C12634,C19389,liming materials,Chemical,fly ash,Topic
+C12634,C11261,liming materials,Chemical,limestone,Topic
+C1149,C3826,lipids,Chemical,fats,Product
+C14326,C5859,liquid wastes,Topic,effluents,Product
+C14326,C1487,liquid wastes,Topic,wastewater,Product
+C9639,C12081,liquids,Topic,juices,Product
+C9639,C15322,liquids,Topic,wort,Product
+C521,C17819,liver,Product,bile ducts,Topic
+C521,C16178,liver,Product,gall bladder,Topic
+C29938,C3286,location,Topic,provenance,Product
+C12043,C2567,lymphatic system,Topic,spleen,Product
+C23821,C23630,magnesium fertilizers,Topic,dolomite,Chemical
+C23821,C19508,magnesium fertilizers,Topic,magnesium sulfate,Chemical
+C9681,C14655,maillard reaction,Topic,Maillard reaction products,Chemical
+C3049,C13462,male animals,Organism,fathers,Topic
+C999,C972,males,Organism,men,Topic
+C5,C18882,mankind,Organism,careproviders,Topic
+C5,C14955,mankind,Organism,experts,Topic
+C5,C19056,mankind,Organism,nutritionists,Topic
+C5,C11820,mankind,Organism,volunteers,Topic
+C1868,C2918,manures,Topic,green manures,Organism
+C10768,C31006,marine areas,Topic,Persian Gulf,Geographical
+C11357,C7016,markers,Topic,biochemical markers,Chemical
+C15251,C3624,materials,Product,air,Topic
+C15251,C8561,materials,Product,amendments,Topic
+C15251,C23838,materials,Product,artificial membranes,Topic
+C15251,C23495,materials,Product,brines,Topic
+C15251,C31292,materials,Product,carriers,Topic
+C15251,C27013,materials,Product,ceramics,Topic
+C15251,C6231,materials,Product,coatings,Topic
+C15251,C8347,materials,Product,colloids,Chemical
+C15251,C20366,materials,Product,constituents,Topic
+C15251,C11947,materials,Product,construction materials,Topic
+C15251,C519,materials,Product,culture media,Topic
+C15251,C12219,materials,Product,droplets,Topic
+C15251,C7574,materials,Product,dust,Topic
+C15251,C24598,materials,Product,explosives,Chemical
+C15251,C25247,materials,Product,film,Topic
+C15251,C29174,materials,Product,finishes,Chemical
+C15251,C4244,materials,Product,formulations,Topic
+C15251,C12945,materials,Product,glass,Topic
+C15251,C3265,materials,Product,growing media,Topic
+C15251,C3693,materials,Product,ingredients,Topic
+C15251,C5994,materials,Product,inoculum,Organism
+C15251,C3091,materials,Product,insulating materials,Topic
+C15251,C5274,materials,Product,metals,Chemical
+C15251,C31263,materials,Product,nanocomposites,Topic
+C15251,C10710,materials,Product,nanoparticles,Topic
+C15251,C5536,materials,Product,packaging materials,Topic
+C15251,C10643,materials,Product,particles,Topic
+C15251,C6109,materials,Product,plastics,Topic
+C15251,C3852,materials,Product,polymers,Chemical
+C15251,C9291,materials,Product,porous media,Topic
+C15251,C7111,materials,Product,raw materials,Topic
+C15251,C25277,materials,Product,soaps,Chemical
+C15251,C423,materials,Product,soil amendments,Topic
+C15251,C29303,materials,Product,substitutes,Topic
+C15251,C6611,materials,Product,substrates,Topic
+C15251,C23099,materials,Product,suspensions,Topic
+C15251,C962,materials,Product,vaccines,Topic
+C15251,C7889,materials,Product,waxes,Chemical
+C21287,C25149,meals (menu),Product,lunch,Topic
+C21287,C24981,meals (menu),Product,military rations,Topic
+C21287,C18447,meals (menu),Product,school meals,Topic
+C21287,C11706,meals (menu),Product,snacks,Topic
+C6320,C6317,microbial pesticides,Topic,fungal antagonists,Organism
+C15598,C12750,microbial proteins,Chemical,fungal proteins,Product
+C4751,C18036,mildews,Organism,downy mildew,Topic
+C4751,C9237,mildews,Organism,powdery mildew,Topic
+C3389,C2285,milk composition,Topic,milk fat,Product
+C3389,C4607,milk composition,Topic,milk proteins,Chemical
+C573,C19980,milk products,Product,caseinates,Chemical
+C7145,C10047,milk protein,Product,milk protein percentage,Chemical
+C4607,C2954,milk proteins,Chemical,casein,Product
+C4211,C26949,milks,Product,sow milk,Topic
+C3875,C25310,millets,Product,echinochloa colona,Organism
+C3875,C19120,millets,Product,Echinochloa frumentacea,Organism
+C3875,C27595,millets,Product,eragrostis tef,Organism
+C3875,C19300,millets,Product,Panicum miliaceum,Organism
+C3875,C6740,millets,Product,pearl millet,Topic
+C3875,C24702,millets,Product,Setaria viridis,Organism
+C1967,C25767,minerals,Topic,goethite,Chemical
+C1967,C20885,minerals,Topic,perlite,Chemical
+C23480,C6306,mitogens,Topic,lectins,Chemical
+C3239,C22906,mixtures,Topic,seed mixtures,Product
+C980,C14511,molecular genetics,Topic,DNA-binding domains,Chemical
+C980,C2137,molecular genetics,Topic,genetically modified organisms,Organism
+C980,C6071,molecular genetics,Topic,nucleic acids,Chemical
+C980,C28977,molecular genetics,Topic,proliferating cell nuclear antigen,Chemical
+C980,C1320,molecular genetics,Topic,transcription factors,Chemical
+C18110,C25400,molluscicides,Topic,calcium arsenate,Chemical
+C18110,C21458,molluscicides,Topic,copper acetoarsenite,Chemical
+C18110,C9899,molluscicides,Topic,copper sulfate,Chemical
+C18110,C28919,molluscicides,Topic,niclosamide,Chemical
+C18110,C15846,molluscicides,Topic,pentachlorophenol,Chemical
+C4073,C14853,mothers,Topic,dams (mothers),Organism
+C6152,C2294,mulches,Topic,bark,Product
+C6152,C26064,mulches,Topic,polystyrenes,Chemical
+C6152,C10829,mulches,Topic,sawdust,Product
+C6152,C16475,mulches,Topic,vermiculite,Chemical
+C6872,C13232,mutagens,Topic,colchicine,Chemical
+C6872,C18206,mutagens,Topic,ethyl methanesulfonate,Chemical
+C6872,C19619,mutagens,Topic,maleic hydrazide,Chemical
+C6872,C30913,mutagens,Topic,sodium azide,Chemical
+C6872,C4790,mutagens,Topic,streptomycin,Chemical
+C18814,C8515,natural gas,Chemical,biogas,Product
+C18764,C2274,natural products,Topic,phytopharmaceuticals,Product
+C14230,C28200,neurotropic drugs,Chemical,narcotics,Topic
+C14230,C30111,neurotropic drugs,Chemical,sedatives,Topic
+C654,C996,new taxa,Topic,new species,Organism
+C25907,C7218,nitrate fertilizers,Topic,ammonium nitrate,Chemical
+C25907,C28576,nitrate fertilizers,Topic,calcium ammonium nitrate,Chemical
+C25907,C23686,nitrate fertilizers,Topic,calcium nitrate,Chemical
+C25907,C17739,nitrate fertilizers,Topic,potassium nitrate,Chemical
+C25907,C25187,nitrate fertilizers,Topic,sodium nitrate,Chemical
+C16726,C30945,nitrification inhibitors,Chemical,neem seed extract,Product
+C147,C29398,nitrogen,Chemical,liquid nitrogen,Topic
+C990,C23772,nitrogen content,Topic,amino nitrogen,Chemical
+C990,C4575,nitrogen content,Topic,ammonium nitrogen,Chemical
+C878,C28670,nitrogen fertilizers,Topic,calcium cyanamide,Chemical
+C18628,C26218,nitrogen-phosphorus fertilizers,Topic,ammonium phosphates,Chemical
+C31285,C17739,nitrogen-potassium fertilizers,Topic,potassium nitrate,Chemical
+C9493,C13703,non food products,Product,pharmaceutical products,Topic
+C14285,C31874,nonclay minerals,Topic,aluminium hydroxide,Chemical
+C14285,C24828,nonclay minerals,Topic,aluminium oxide,Chemical
+C14285,C21038,nonclay minerals,Topic,asbestos,Chemical
+C14285,C19622,nonclay minerals,Topic,borax,Chemical
+C14285,C22074,nonclay minerals,Topic,calcite,Chemical
+C14285,C30765,nonclay minerals,Topic,diatomite,Chemical
+C14285,C23630,nonclay minerals,Topic,dolomite,Chemical
+C14285,C10720,nonclay minerals,Topic,gypsum,Chemical
+C14285,C14352,nonclay minerals,Topic,iron oxides,Chemical
+C14285,C19508,nonclay minerals,Topic,magnesium sulfate,Chemical
+C14285,C26981,nonclay minerals,Topic,pyrites,Chemical
+C14285,C19691,nonclay minerals,Topic,quartz,Chemical
+C14285,C11345,nonclay minerals,Topic,silica,Chemical
+C14285,C31352,nonclay minerals,Topic,talc,Chemical
+C14285,C12277,nonclay minerals,Topic,zeolites,Chemical
+C22396,C2180,nonmetals,Chemical,sulfur,Product
+C21399,C19224,nonprotein nitrogen,Topic,urea nitrogen,Chemical
+C2576,C4839,nontimber forest products,Product,conifer needles,Topic
+C2576,C21183,nontimber forest products,Product,gum arabic,Chemical
+C15918,C18760,nucleases,Chemical,restriction enzymes,Topic
+C6071,C28249,nucleic acids,Chemical,nucleic probes,Topic
+C5396,C2033,nut crops,Organism,groundnuts,Product
+C1199,C21935,nutrients,Chemical,macronutrients,Topic
+C1199,C7045,nutrients,Chemical,mineral nutrients,Topic
+C1199,C4932,nutrients,Chemical,soil nutrients,Topic
+C1324,C10137,nutrition physiology,Topic,antinutritional factors,Chemical
+C948,C23998,nutritive value,Product,crude fat,Topic
+C948,C25672,nutritive value,Product,digestible fibre,Topic
+C948,C26515,nutritive value,Product,digestible nitrogen,Topic
+C948,C5632,nutritive value,Product,energy content,Topic
+C948,C26407,nutritive value,Product,total digestible nutrients,Topic
+C948,C9294,nutritive value,Product,vitamin content,Topic
+C12897,C22816,oceans,Topic,Atlantic Ocean,Geographical
+C12897,C21517,oceans,Topic,Indian Ocean,Geographical
+C12897,C20896,oceans,Topic,Pacific Ocean,Geographical
+C1770,C8696,odours,Product,aroma,Topic
+C263,C11714,oilseed plants,Organism,safflower,Product
+C263,C8795,oilseed plants,Organism,sesame,Product
+C263,C3137,oilseed plants,Organism,swede rape,Topic
+C263,C28631,oilseed plants,Organism,tung,Product
+C8595,C2313,organelles,Topic,plasmids,Chemical
+C8595,C8397,organelles,Topic,starch granules,Chemical
+C9728,C9508,organic amendments,Topic,coal,Product
+C3685,C13592,organic compounds,Chemical,ligands,Topic
+C3472,C2918,organic fertilizers,Topic,green manures,Organism
+C31648,C31132,organic salts,Chemical,pyruvates,Topic
+C14143,C5672,organic wastes,Topic,sewage,Product
+C14143,C21138,organic wastes,Topic,waste paper,Product
+C23,C1468,organisms,Organism,species,Product
+C2968,C19611,organoleptic properties,Product,rancidity,Topic
+C2968,C15701,organoleptic properties,Product,tastes,Topic
+C2968,C14806,organoleptic properties,Product,tenderness,Topic
+C20185,C25179,ornamental foliage plants,Organism,potted foliage plants,Product
+C2525,C13721,ornamental herbaceous plants,Organism,chrysanthemums,Product
+C938,C11072,ornamental plants,Organism,carnations,Product
+C938,C21524,ornamental plants,Organism,lilies,Product
+C938,C28272,ornamental plants,Organism,potted flowering plants,Product
+C2447,C19878,ornamental woody plants,Organism,ornamental trees,Product
+C2000,C8574,ova,Topic,egg yolk,Product
+C12009,C1594,oxides,Chemical,water,Product
+C1116,C7857,oxygen,Chemical,dissolved oxygen,Topic
+C22056,C1116,oxygen requirement,Topic,oxygen,Chemical
+C5536,C14091,packaging materials,Topic,edible films,Product
+C1133,C15863,pathogenesis,Topic,seedborne organisms,Organism
+C89,C12558,pathogens,Organism,animal pathogens,Topic
+C89,C31413,pathogens,Organism,enteropathogens,Topic
+C89,C1782,pathogens,Organism,food pathogens,Topic
+C89,C15668,pathogens,Organism,prions,Chemical
+C13561,C29856,peel,Product,citrus peels,Topic
+C12304,C24937,peptidases,Chemical,aminopeptidase,Topic
+C2613,C315,peptides,Chemical,proteins,Product
+C3206,C3142,performance traits,Topic,carcass composition,Product
+C284,C6382,pesticides,Topic,acaricides,Chemical
+C284,C9223,pesticides,Topic,bactericides,Chemical
+C284,C29363,pesticides,Topic,chemosterilants,Chemical
+C284,C914,pesticides,Topic,fungicides,Chemical
+C284,C533,pesticides,Topic,herbicides,Chemical
+C284,C6812,pesticides,Topic,nematicides,Chemical
+C284,C11103,pesticides,Topic,organochlorine pesticides,Chemical
+C284,C16367,pesticides,Topic,organophosphorus pesticides,Chemical
+C284,C23569,pesticides,Topic,pesticide synergists,Chemical
+C7404,C18135,petroleum,Product,diesel oil,Chemical
+C7404,C25167,petroleum,Product,gasoline,Chemical
+C21173,C15113,petroleum hydrocarbons,Chemical,kerosene,Product
+C21173,C7404,petroleum hydrocarbons,Chemical,petroleum,Product
+C6092,C6338,pharmacodynamics,Topic,drug residues,Chemical
+C1871,C17431,pharmacology,Topic,xenobiotics,Chemical
+C18204,C2261,phase transition,Topic,drying,Product
+C21075,C2954,phosphoproteins,Chemical,casein,Product
+C2150,C26218,phosphorus fertilizers,Topic,ammonium phosphates,Chemical
+C2150,C24103,phosphorus fertilizers,Topic,bone meal,Product
+C2150,C24608,phosphorus fertilizers,Topic,calcium phosphates,Chemical
+C2150,C28635,phosphorus fertilizers,Topic,sodium phosphate,Chemical
+C2150,C11146,phosphorus fertilizers,Topic,superphosphate,Chemical
+C3485,C3847,physical properties,Topic,density,Product
+C924,C3847,physicochemical properties,Topic,density,Product
+C2274,C10371,phytopharmaceuticals,Product,phytosterols,Chemical
+C5996,C21494,pituitary gland,Product,anterior pituitary,Topic
+C21,C92,plant condition,Topic,plant pathogens,Organism
+C861,C16482,plant development,Topic,gametophytes,Organism
+C2550,C5670,plant embryos,Topic,hypocotyls,Organism
+C30888,C29226,plant exudates,Topic,cutin,Chemical
+C30888,C14014,plant exudates,Topic,gums,Product
+C16714,C29226,plant fats,Product,cutin,Chemical
+C11026,C21905,plant fibres,Product,sunn hemp,Organism
+C560,C32416,plant growth substances,Chemical,dormancy breakers,Topic
+C560,C6920,plant growth substances,Chemical,growth inhibitors,Topic
+C560,C12635,plant growth substances,Chemical,growth retardants,Topic
+C560,C21545,plant growth substances,Chemical,plant growth stimulants,Topic
+C276,C28650,plant products,Product,aquatic plant culture,Topic
+C276,C7584,plant products,Product,culinary herbs,Organism
+C276,C3069,plant products,Product,lawns and turf,Organism
+C276,C876,plant products,Product,weed science,Topic
+C738,C6306,plant proteins,Product,lectins,Chemical
+C738,C27843,plant proteins,Product,leghaemoglobin,Chemical
+C738,C9816,plant proteins,Product,light harvesting complexes,Topic
+C738,C28755,plant proteins,Product,nodulins,Chemical
+C738,C9906,plant proteins,Product,pathogenesis-related proteins,Chemical
+C738,C7743,plant proteins,Product,phytochrome,Chemical
+C738,C14148,plant proteins,Product,ubiquitin,Chemical
+C2866,C389,plant reproductive organs,Topic,fruits,Product
+C2866,C206,plant reproductive organs,Topic,seeds,Product
+C10050,C30430,plant residues,Topic,thatch,Product
+C10050,C11347,plant residues,Topic,wood residues,Product
+C29715,C11330,plant secretions,Topic,latex,Product
+C5136,C2294,plant tissues,Topic,bark,Product
+C5136,C11882,plant tissues,Topic,heartwood,Product
+C5136,C26416,plant tissues,Topic,juvenile wood,Product
+C5136,C28289,plant tissues,Topic,reaction wood,Product
+C5136,C12051,plant tissues,Topic,sapwood,Product
+C9030,C23034,plant vascular system,Topic,pith,Product
+C22297,C39,plant vegetative organs,Topic,leaves,Product
+C22297,C444,plant vegetative organs,Topic,shoots,Product
+C5312,C22003,planting stock,Organism,sets,Topic
+C80,C326,plants,Organism,cereals,Product
+C835,C9518,plants (botany),Organism,bamboo plants,Product
+C28766,C12942,plumage,Topic,feathers,Product
+C1236,C7860,pollen,Product,pollen tubes,Topic
+C1098,C4913,pollutants,Topic,air pollutants,Chemical
+C1098,C5859,pollutants,Topic,effluents,Product
+C3852,C28616,polymers,Chemical,Leydig cells,Topic
+C3852,C26328,polymers,Chemical,nylon,Product
+C3852,C18933,polymers,Chemical,polyesters,Product
+C3852,C24816,polymers,Chemical,polyurethanes,Product
+C3852,C7701,polymers,Chemical,resins,Product
+C2424,C14014,polysaccharides,Chemical,gums,Product
+C17345,C14929,pome fruits,Product,Pyrus pyrifolia,Organism
+C2955,C3734,population,Topic,immunocompromised population,Organism
+C4115,C9774,potassium fertilizers,Topic,potassium chloride,Chemical
+C4115,C17739,potassium fertilizers,Topic,potassium nitrate,Chemical
+C4115,C24209,potassium fertilizers,Topic,potassium sulfate,Chemical
+C8122,C16391,prawns and shrimps,Organism,prawns,Product
+C17807,C21882,precursors,Topic,enzyme precursors,Chemical
+C11936,C15406,pregnancy complications,Topic,fetal macrosomia,Organism
+C1156,C7587,processing,Topic,bleaching,Product
+C1156,C12105,processing,Topic,feedstocks,Product
+C1156,C792,processing,Topic,fermentation,Product
+C1156,C1307,processing,Topic,fluidized bed processing,Product
+C1156,C6574,processing,Topic,milling,Product
+C12472,C2982,processing quality,Topic,food processing quality,Product
+C1304,C28242,product quality,Topic,freezing quality,Product
+C1304,C19905,product quality,Topic,freshness,Product
+C1304,C10233,product quality,Topic,microbiological quality,Product
+C1304,C15984,product quality,Topic,milling quality,Product
+C1304,C2968,product quality,Topic,organoleptic properties,Product
+C1304,C25932,product quality,Topic,ornamental value,Product
+C1304,C23667,product quality,Topic,safety testing,Product
+C1304,C13455,product quality,Topic,spoilage,Product
+C1304,C2442,product quality,Topic,storage quality,Product
+C1304,C30991,product quality,Topic,transporting quality,Product
+C4648,C18764,products,Product,natural products,Topic
+C4648,C10050,products,Product,plant residues,Topic
+C9772,C7850,propagation materials,Topic,bulbs,Product
+C9772,C1852,propagation materials,Topic,planting seed,Product
+C9772,C5312,propagation materials,Topic,planting stock,Organism
+C9772,C3229,propagation materials,Topic,rootstocks,Organism
+C9772,C13364,propagation materials,Topic,scions,Organism
+C2609,C19851,protein,Product,body protein,Topic
+C23839,C19980,protein products,Product,caseinates,Chemical
+C315,C12803,proteins,Product,agglutinins,Chemical
+C315,C4631,proteins,Product,albumins,Chemical
+C315,C24880,proteins,Product,apoproteins,Chemical
+C315,C2858,proteins,Product,crude protein,Topic
+C315,C10488,proteins,Product,crystal proteins,Chemical
+C315,C341,proteins,Product,enzymes,Chemical
+C315,C29255,proteins,Product,fusion proteins,Chemical
+C315,C6170,proteins,Product,globulins,Chemical
+C315,C25882,proteins,Product,glutelins,Chemical
+C315,C2904,proteins,Product,glycoproteins,Chemical
+C315,C18429,proteins,Product,insecticidal proteins,Chemical
+C315,C7541,proteins,Product,interleukins,Chemical
+C315,C5959,proteins,Product,lipoproteins,Chemical
+C315,C7182,proteins,Product,membrane proteins,Chemical
+C315,C12334,proteins,Product,metalloproteins,Chemical
+C315,C15598,proteins,Product,microbial proteins,Chemical
+C315,C23994,proteins,Product,molecular chaperones,Chemical
+C315,C17127,proteins,Product,nucleoproteins,Chemical
+C315,C21075,proteins,Product,phosphoproteins,Chemical
+C315,C12190,proteins,Product,prolamins,Chemical
+C315,C17064,proteins,Product,protein aggregates,Chemical
+C315,C4209,proteins,Product,recombinant proteins,Chemical
+C315,C21336,proteins,Product,regulatory proteins,Chemical
+C315,C21372,proteins,Product,ribosomal proteins,Chemical
+C315,C17100,proteins,Product,storage proteins,Chemical
+C315,C26181,proteins,Product,structural proteins,Chemical
+C315,C9122,proteins,Product,surface proteins,Chemical
+C315,C1320,proteins,Product,transcription factors,Chemical
+C23307,C22678,PrPSc proteins,Chemical,scrapie agent,Organism
+C3889,C25219,pruning,Product,deblossoming,Topic
+C3889,C4434,pruning,Product,defoliation,Topic
+C3889,C31783,pruning,Product,disbudding,Topic
+C3889,C24592,pruning,Product,pinching,Topic
+C3889,C26269,pruning,Product,root pruning,Topic
+C3889,C24214,pruning,Product,shoot pruning,Topic
+C3889,C29983,pruning,Product,topping (pruning),Topic
+C10067,C28324,pseudocereals,Product,Amaranthus caudatus,Organism
+C10067,C28078,pseudocereals,Product,amaranthus cruentus,Organism
+C10067,C10064,pseudocereals,Product,Chenopodium album,Organism
+C10067,C18376,pseudocereals,Product,Chenopodium quinoa,Organism
+C8181,C9748,pyrethrins,Chemical,synthetic pyrethrins,Topic
+C23129,C3159,radicals,Topic,free radicals,Chemical
+C7111,C12105,raw materials,Topic,feedstocks,Product
+C26650,C6171,releasing hormones,Topic,GnRH,Chemical
+C26650,C29202,releasing hormones,Topic,somatoliberin,Chemical
+C21023,C915,repetitive DNA,Chemical,microsatellites,Topic
+C5382,C20256,repetitive sequences,Topic,satellite DNA,Chemical
+C1841,C6338,residues,Product,drug residues,Chemical
+C1841,C3009,residues,Product,pesticide residues,Chemical
+C7701,C21183,resins,Product,gum arabic,Chemical
+C476,C15073,rice,Product,flooded rice,Organism
+C476,C11686,rice,Product,upland rice,Organism
+C1230,C24397,rivers,Topic,Danube River,Geographical
+C1230,C32710,rivers,Topic,Senegal River,Geographical
+C10959,C5459,rocks,Topic,clay,Product
+C13633,C4283,rodenticides,Topic,HCH,Chemical
+C13633,C7484,rodenticides,Topic,lindane,Chemical
+C2222,C14239,root crops,Organism,root vegetables,Product
+C2222,C1748,root crops,Organism,sugarbeet,Product
+C14239,C20091,root vegetables,Product,Cyperus esculentus,Organism
+C14239,C29539,root vegetables,Product,Xanthosoma sagittifolium,Organism
+C2049,C9894,runoff,Product,agricultural runoff,Topic
+C2049,C15924,runoff,Product,stormwater,Topic
+C2049,C16068,runoff,Product,subsurface runoff,Topic
+C17620,C19399,safety devices,Topic,protective clothing,Product
+C4984,C29194,salts,Chemical,inorganic acid salts,Topic
+C15170,C24218,Salvia,Organism,sage,Product
+C7547,C28876,saponins,Chemical,ginsenosides,Topic
+C20256,C915,satellite DNA,Chemical,microsatellites,Topic
+C4182,C15285,seafoods,Product,clams,Organism
+C4182,C21013,seafoods,Product,squids,Organism
+C5305,C15916,seas,Topic,Baltic Sea,Geographical
+C5305,C30511,seas,Topic,Black Sea,Geographical
+C5305,C27379,seas,Topic,East China Sea,Geographical
+C5305,C13156,seas,Topic,Mediterranean Sea,Geographical
+C5305,C21409,seas,Topic,North Sea,Geographical
+C5305,C18934,seas,Topic,Sea of Japan,Geographical
+C11147,C7499,secretions,Topic,colostrum,Product
+C11147,C4211,secretions,Topic,milks,Product
+C11147,C24436,secretions,Topic,royal jelly,Product
+C11147,C2951,secretions,Topic,semen,Product
+C30111,C29316,sedatives,Topic,diazepam,Chemical
+C1731,C25636,sediment,Product,alluvium,Topic
+C1731,C18468,sediment,Product,gravel,Topic
+C1731,C29084,sediment,Product,lacustrine sediments,Topic
+C1731,C19554,sediment,Product,marine sediments,Topic
+C1731,C4590,sediment,Product,sand,Topic
+C1731,C12101,sediment,Product,silt,Topic
+C300,C14217,seedlings,Organism,coleoptiles,Topic
+C300,C22863,seedlings,Organism,epicotyls,Topic
+C206,C31391,seeds,Product,hard seeds,Topic
+C206,C2550,seeds,Product,plant embryos,Topic
+C206,C10863,seeds,Product,soil seed banks,Topic
+C206,C7215,seeds,Product,testa,Topic
+C2951,C16197,semen,Product,seminal plasma,Topic
+C6536,C13322,sheep breeds,Topic,Merino,Organism
+C6536,C30240,sheep breeds,Topic,Suffolk (sheep breed),Organism
+C444,C9086,shoots,Product,crown,Topic
+C444,C29939,shoots,Product,haulms,Topic
+C444,C23511,shoots,Product,leaf primordia,Topic
+C444,C16278,shoots,Product,offshoots,Topic
+C444,C28681,shoots,Product,ratoons,Topic
+C444,C27239,shoots,Product,shoot apices,Topic
+C444,C13335,shoots,Product,shoot meristems,Topic
+C444,C32080,shoots,Product,spurs,Topic
+C444,C6614,shoots,Product,tillers,Topic
+C17447,C4350,silage additives,Topic,acetic acid,Chemical
+C17447,C14163,silage additives,Topic,butyric acid,Chemical
+C17447,C6623,silage additives,Topic,formaldehyde,Chemical
+C17447,C13891,silage additives,Topic,formic acid,Chemical
+C17447,C15930,silage additives,Topic,hydrochloric acid,Chemical
+C17447,C3831,silage additives,Topic,lactic acid,Chemical
+C17447,C10821,silage additives,Topic,propionic acid,Chemical
+C8231,C4729,sludges,Product,sewage sludge,Topic
+C7039,C24968,slurries,Product,cattle slurry,Topic
+C7039,C19631,slurries,Product,pig slurry,Topic
+C2471,C31154,small fruits,Product,subtropical small fruits,Organism
+C2471,C24755,small fruits,Product,temperate small fruits,Organism
+C5272,C18603,smell,Topic,off odors,Product
+C12757,C2843,soft drinks,Product,drinking water,Topic
+C423,C12634,soil amendments,Topic,liming materials,Chemical
+C940,C14544,soil chemistry,Topic,exchangeable cations,Chemical
+C940,C9399,soil chemistry,Topic,soil enzymes,Chemical
+C16634,C9399,soil composition,Topic,soil enzymes,Chemical
+C15883,C16791,soil conditioners,Topic,nonionic surfactants,Chemical
+C15883,C12277,soil conditioners,Topic,zeolites,Chemical
+C23537,C22553,soil fumigants,Topic,"1,3-dichloropropene",Chemical
+C23537,C19790,soil fumigants,Topic,carbon disulfide,Chemical
+C23537,C20915,soil fumigants,Topic,chloropicrin,Chemical
+C23537,C31937,soil fumigants,Topic,dazomet,Chemical
+C23537,C27656,soil fumigants,Topic,DBCP (pesticide),Chemical
+C23537,C25259,soil fumigants,Topic,ethylene dibromide,Chemical
+C23537,C6623,soil fumigants,Topic,formaldehyde,Chemical
+C23537,C24857,soil fumigants,Topic,metam,Chemical
+C23537,C12718,soil fumigants,Topic,methyl bromide,Chemical
+C1248,C28510,soil organic matter,Topic,organomineral complexes,Chemical
+C8659,C2049,soil water balance,Topic,runoff,Product
+C9103,C7598,solid wastes,Topic,ash (inorganic matter),Product
+C9103,C11618,solid wastes,Topic,municipal solid waste,Product
+C9103,C21138,solid wastes,Topic,waste paper,Product
+C4524,C27545,solvents,Chemical,turpentine,Product
+C2475,C21689,Sorghum bicolor,Organism,sweet sorghum,Product
+C1468,C14416,species,Product,Dominant species,Organism
+C1468,C8223,species,Product,ecotypes,Organism
+C1468,C2766,species,Product,endangered species,Organism
+C1468,C2220,species,Product,indigenous organisms,Organism
+C1468,C1856,species,Product,introduced species,Organism
+C1468,C2295,species,Product,invasive species,Organism
+C1468,C20203,species,Product,ISSCAAP groups of species,Organism
+C1468,C996,species,Product,new species,Organism
+C1468,C13906,species,Product,protected species,Organism
+C1468,C25644,species,Product,sympatric species,Organism
+C13455,C4095,spoilage,Product,food spoilage,Topic
+C12751,C17961,stabilizers,Chemical,carboxymethylcellulose,Product
+C1335,C13845,starch,Product,amylopectin,Chemical
+C1335,C7605,starch,Product,amylose,Chemical
+C1335,C25170,starch,Product,modified starch,Chemical
+C1335,C18585,starch,Product,resistant starch,Chemical
+C1335,C8397,starch,Product,starch granules,Chemical
+C16093,C4958,starch crops,Organism,cassava,Product
+C16093,C689,starch crops,Organism,potatoes,Product
+C6322,C13275,starter cultures,Product,cheese starters,Topic
+C6322,C19869,starter cultures,Product,cultured milk starters,Topic
+C687,C7850,stems,Topic,bulbs,Product
+C687,C30643,stems,Topic,canes and rattans,Product
+C687,C5670,stems,Topic,hypocotyls,Organism
+C19279,C7850,storage organs,Topic,bulbs,Product
+C2442,C7139,storage quality,Product,storage life,Topic
+C27224,C12816,stover,Product,maize stover,Topic
+C2219,C19441,straw,Product,barley straw,Topic
+C2219,C8821,straw,Product,rice straw,Topic
+C2219,C7188,straw,Product,wheat straw,Topic
+C1723,C7450,substances,Topic,additives,Product
+C1723,C8461,substances,Topic,attractants,Chemical
+C1723,C2789,substances,Topic,chemical substances,Chemical
+C1723,C2299,substances,Topic,drugs,Chemical
+C1723,C2090,substances,Topic,extracts,Product
+C1723,C15251,substances,Topic,materials,Product
+C1723,C15576,substances,Topic,protons,Chemical
+C1723,C1731,substances,Topic,sediment,Product
+C1723,C6322,substances,Topic,starter cultures,Product
+C1723,C3344,substances,Topic,wastes,Product
+C29303,C23581,substitutes,Topic,fat substitutes,Product
+C29303,C18821,substitutes,Topic,milk substitutes,Product
+C31154,C18914,subtropical small fruits,Organism,passion fruits,Product
+C4895,C9494,subtropical tree fruits,Organism,avocados,Product
+C4895,C31376,subtropical tree fruits,Organism,carobs,Product
+C4895,C4892,subtropical tree fruits,Organism,citrus fruits,Product
+C4895,C11759,subtropical tree fruits,Organism,dates,Product
+C4895,C31468,subtropical tree fruits,Organism,longans,Product
+C4895,C24383,subtropical tree fruits,Organism,loquats,Product
+C4895,C5963,subtropical tree fruits,Organism,olives,Product
+C4895,C15458,subtropical tree fruits,Organism,persimmons,Product
+C4895,C15005,subtropical tree fruits,Organism,pomegranates,Product
+C4727,C1748,sugar crops,Organism,sugarbeet,Product
+C4727,C1442,sugar crops,Organism,sugarcane,Product
+C4727,C21689,sugar crops,Organism,sweet sorghum,Product
+C4173,C6791,sulfates,Chemical,sulfate,Product
+C14306,C8096,sulfur fertilizers,Topic,ammonium sulfate,Chemical
+C14306,C24209,sulfur fertilizers,Topic,potassium sulfate,Chemical
+C14306,C23556,sulfur fertilizers,Topic,sodium sulfate,Chemical
+C14306,C2180,sulfur fertilizers,Topic,sulfur,Product
+C14306,C28199,sulfur fertilizers,Topic,thiourea,Chemical
+C14306,C16775,sulfur fertilizers,Topic,zinc sulfate,Chemical
+C1880,C1512,supplements,Product,food supplements,Topic
+C1880,C4665,supplements,Product,probiotics,Organism
+C9122,C12818,surface proteins,Chemical,surface antigens,Topic
+C2835,C2049,surface water,Topic,runoff,Product
+C6015,C19595,surfactants,Chemical,wetters,Topic
+C12367,C30925,sweeteners,Product,glucose syrups,Topic
+C10172,C21071,swine breeds,Topic,Duroc,Organism
+C10172,C13922,swine breeds,Topic,Landrace,Organism
+C10172,C18221,swine breeds,Topic,Large White,Organism
+C10172,C27543,swine breeds,Topic,miniature pigs,Organism
+C2679,C3005,symbiosis,Topic,mycorrhizae,Organism
+C24960,C18903,synthetic fibres,Product,polyacrylamide,Chemical
+C9748,C26808,synthetic pyrethrins,Topic,bifenthrin,Chemical
+C9748,C31842,synthetic pyrethrins,Topic,cyfluthrin,Chemical
+C9748,C31972,synthetic pyrethrins,Topic,cyhalothrin,Chemical
+C9748,C11210,synthetic pyrethrins,Topic,cypermethrin,Chemical
+C9748,C10754,synthetic pyrethrins,Topic,deltamethrin,Chemical
+C9748,C15209,synthetic pyrethrins,Topic,fenvalerate,Chemical
+C9748,C11984,synthetic pyrethrins,Topic,permethrin,Chemical
+C21606,C30925,syrups,Product,glucose syrups,Topic
+C15701,C13479,tastes,Topic,bitterness,Product
+C15701,C13341,tastes,Topic,sweetness,Product
+C4942,C1468,taxa,Topic,species,Product
+C6811,C2010,technical properties,Topic,keeping quality,Product
+C6811,C30991,technical properties,Topic,transporting quality,Product
+C2390,C2393,temperate crops,Organism,temperate fruits,Product
+C2393,C24755,temperate fruits,Product,temperate small fruits,Organism
+C2393,C13673,temperate fruits,Product,temperate tree fruits,Organism
+C24755,C11315,temperate small fruits,Organism,black currants,Product
+C24755,C15806,temperate small fruits,Organism,blackberries,Product
+C24755,C9990,temperate small fruits,Organism,blueberries,Product
+C24755,C20071,temperate small fruits,Organism,cranberries,Product
+C24755,C17021,temperate small fruits,Organism,gooseberries,Product
+C24755,C13466,temperate small fruits,Organism,kiwifruits,Product
+C24755,C7463,temperate small fruits,Organism,raspberries,Product
+C24755,C23852,temperate small fruits,Organism,red currants,Product
+C24755,C2741,temperate small fruits,Organism,strawberries,Product
+C13673,C15548,temperate tree fruits,Organism,figs,Product
+C13673,C10478,temperate tree fruits,Organism,mulberries,Product
+C13673,C17345,temperate tree fruits,Organism,pome fruits,Product
+C13673,C13676,temperate tree fruits,Organism,stone fruits,Product
+C1672,C23667,testing,Topic,safety testing,Product
+C24048,C21273,textile fibres,Product,cellulosic fibers,Topic
+C26997,C17961,thickeners,Chemical,carboxymethylcellulose,Product
+C3191,C31121,toxic substances,Topic,polybrominated biphenyls,Chemical
+C3191,C4581,toxic substances,Topic,polychlorinated biphenyls,Chemical
+C3191,C15156,toxic substances,Topic,polychlorinated dibenzofurans,Chemical
+C330,C11358,toxicity,Topic,lethal dose,Chemical
+C10935,C22883,toxigenic strains,Topic,toxinogenic fungi,Organism
+C2462,C6654,toxins,Topic,bacterial toxins,Chemical
+C2462,C7340,toxins,Topic,cytotoxic compounds,Chemical
+C2462,C20072,toxins,Topic,haemolysins,Chemical
+C2462,C29568,toxins,Topic,microcystins,Chemical
+C2462,C2333,toxins,Topic,mycotoxins,Chemical
+C2462,C11466,toxins,Topic,phytotoxins,Chemical
+C21443,C17796,tracers,Topic,deuterium,Chemical
+C2735,C27111,traditional medicines,Chemical,Ayurvedic medicine,Topic
+C22411,C24895,tree classes,Topic,plus trees,Organism
+C4889,C4895,tree fruits,Product,subtropical tree fruits,Organism
+C4889,C13673,tree fruits,Product,temperate tree fruits,Organism
+C4889,C5201,tree fruits,Product,tropical tree fruits,Organism
+C386,C9883,trees,Organism,mangrove forests,Topic
+C386,C19878,trees,Organism,ornamental trees,Product
+C386,C22259,trees,Organism,teak,Product
+C170,C9303,Triticum,Organism,spring wheat,Product
+C170,C3435,Triticum,Organism,winter wheat,Product
+C8556,C31776,trophic levels,Topic,detritivores,Organism
+C8556,C28674,trophic levels,Topic,methanotrophs,Organism
+C8556,C368,trophic levels,Topic,natural enemies,Organism
+C8556,C4007,trophic levels,Topic,symbionts,Organism
+C4616,C5204,tropical crops,Organism,tropical fruits,Product
+C5204,C4172,tropical fruits,Product,subtropical fruits,Organism
+C5204,C5201,tropical fruits,Product,tropical tree fruits,Organism
+C5201,C10337,tropical tree fruits,Organism,guavas,Product
+C5201,C29420,tropical tree fruits,Organism,jackfruits,Product
+C5201,C26835,tropical tree fruits,Organism,lychees,Product
+C5201,C5216,tropical tree fruits,Organism,mangoes,Product
+C5201,C8957,tropical tree fruits,Organism,papayas,Product
+C5201,C31049,tropical tree fruits,Organism,sapodillas,Product
+C5201,C27143,tropical tree fruits,Organism,tamarinds,Product
+C1088,C28066,tropics,Topic,tropical America,Geographical
+C11220,C4376,tumor necrosis factors,Topic,tumour necrosis factor,Chemical
+C23497,C11618,urban wastes,Topic,municipal solid waste,Product
+C23497,C5672,urban wastes,Topic,sewage,Product
+C17028,C2042,urea fertilizers,Topic,urea,Chemical
+C12503,C1583,urinary tract,Topic,kidneys,Product
+C17779,C25932,value systems,Topic,ornamental value,Product
+C1565,C9180,vectors,Organism,genetic vectors,Topic
+C425,C2057,vegetable crops,Organism,fruit vegetables,Product
+C425,C15476,vegetable crops,Organism,green leafy vegetables,Product
+C425,C5073,vegetable crops,Organism,mushrooms,Product
+C425,C14239,vegetable crops,Organism,root vegetables,Product
+C2054,C19232,vegetable legumes,Product,Cyamopsis tetragonoloba,Organism
+C2054,C27865,vegetable legumes,Product,Phaseolus acutifolius,Organism
+C2054,C20074,vegetable legumes,Product,Phaseolus coccineus,Organism
+C2054,C18704,vegetable legumes,Product,Phaseolus lunatus,Organism
+C2054,C21943,vegetable legumes,Product,Psophocarpus tetragonolobus,Organism
+C1077,C12084,vegetation,Topic,xerophytes,Organism
+C7274,C27839,venoms,Topic,honey bee venom,Chemical
+C3939,C28367,viral proteins,Chemical,viral structural proteins,Topic
+C28367,C5958,viral structural proteins,Topic,coat proteins,Chemical
+C28367,C25034,viral structural proteins,Topic,envelope proteins,Chemical
+C28367,C31913,viral structural proteins,Topic,nucleocapsid proteins,Chemical
+C14680,C26276,waste gases,Topic,fumes,Product
+C21095,C22749,waste wood,Topic,slash,Product
+C3344,C30780,wastes,Product,hazardous waste,Topic
+C3344,C28723,wastes,Product,household wastes,Topic
+C3344,C6910,wastes,Product,industrial wastes,Topic
+C3344,C14326,wastes,Product,liquid wastes,Topic
+C3344,C14143,wastes,Product,organic wastes,Topic
+C3344,C9103,wastes,Product,solid wastes,Topic
+C3344,C23497,wastes,Product,urban wastes,Topic
+C3344,C14680,wastes,Product,waste gases,Topic
+C3344,C21095,wastes,Product,waste wood,Topic
+C1487,C25284,wastewater,Product,acid mine drainage,Topic
+C1487,C10311,wastewater,Product,pulp and paper mill effluents,Topic
+C1594,C17955,water,Product,body water,Topic
+C1594,C11968,water,Product,coastal water,Topic
+C1594,C2843,water,Product,drinking water,Topic
+C1594,C4377,water,Product,freshwater,Topic
+C1594,C1752,water,Product,groundwater,Topic
+C1594,C3315,water,Product,irrigation water,Topic
+C1594,C14055,water,Product,meltwater,Topic
+C1594,C23092,water,Product,mineral waters,Topic
+C1594,C1493,water,Product,polluted water,Topic
+C1594,C894,water,Product,rain,Topic
+C1594,C7886,water,Product,river water,Topic
+C1594,C6813,water,Product,saline water,Topic
+C1594,C1721,water,Product,soil water,Topic
+C1594,C2835,water,Product,surface water,Topic
+C1594,C8529,water,Product,water vapour,Topic
+C7889,C22969,waxes,Chemical,beeswax,Product
+C876,C390,weed science,Topic,weeds,Organism
+C3348,C2766,wildlife management,Topic,endangered species,Organism
+C3348,C13906,wildlife management,Topic,protected species,Organism
+C4231,C23769,winemaking,Product,wine aging,Topic
+C4679,C18131,wood properties,Topic,wood defects,Product
+C11347,C21095,wood residues,Product,waste wood,Topic
+C13660,C8053,wood technology,Topic,wood preservatives,Chemical
+C27086,C18822,zebu breeds,Topic,Brahman,Organism
+C16217,C28265,zinc fertilizers,Topic,zinc oxide,Chemical
+C16217,C16775,zinc fertilizers,Topic,zinc sulfate,Chemical
