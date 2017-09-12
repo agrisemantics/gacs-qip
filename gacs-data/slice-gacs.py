@@ -20,11 +20,9 @@ STRUCTURAL_PROPS = set([
     SKOS.hasTopConcept,
     SKOS.topConceptOf,
     SKOS.broader,
-    SKOS.narrower,
     SKOS.related,
     AGVOC.hasProduct,
     AGVOC.productOf,
-    DCTERMS.source,
 ])
 
 MAPPING_PROPS = set([
@@ -43,6 +41,7 @@ DEFERRED_PROPS = set([
 
 DEFERRED_SUBJECT_PROPS = set([
     DWC.scientificNameAuthorship,
+    DCTERMS.source,
 ])
 
 LANGUAGE_PROPS = set([
@@ -108,6 +107,8 @@ def choose_slice(s, p, o):
         lang = o.split('@')[1].split()[0]
         lang_of_deferred[parse_uri(s)] = lang
         return 'lang-%s' % lang
+    if p == SKOS.narrower:
+        return 'narrower' # not really useful, but...
     return 'misc'
 
 outfiles = {} # key: slice, value: file object
