@@ -259,7 +259,6 @@
 <http://id.agrisemantics.org/gacs/C31754> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://id.agrisemantics.org/gacs-core> .
 <http://id.agrisemantics.org/gacs/C31763> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://id.agrisemantics.org/gacs-core> .
 <http://id.agrisemantics.org/gacs/C3179> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://id.agrisemantics.org/gacs-core> .
-<http://id.agrisemantics.org/gacs/C31906> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://id.agrisemantics.org/gacs-core> .
 <http://id.agrisemantics.org/gacs/C3206> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://id.agrisemantics.org/gacs-core> .
 <http://id.agrisemantics.org/gacs/C32087> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://id.agrisemantics.org/gacs-core> .
 <http://id.agrisemantics.org/gacs/C32152> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://id.agrisemantics.org/gacs-core> .
