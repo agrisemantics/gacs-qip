@@ -26,7 +26,7 @@ SLICES ?= $(wildcard slices/gacs-lang-*) slices/gacs-mapping.nt slices/gacs-stru
 # ** RULES **
 
 # Specify the end result
-all: gacs.rdf
+all: gacs.rdf gacs.ttl.gz
 
 gacs-merged.nt: $(SLICES)
 	$(RIOT) $^ >$@
@@ -57,8 +57,12 @@ gacs.ttl: sparql/skosxl-to-skos.ru gacs-metadata.ttl gacs-expanded.nt
 %.nt: %.nt.gz
 	zcat $< >$@
 
+# General pattern rule for compressing files
+%.gz: %
+	gzip <$< >$@
+
 clean:
-	rm -f gacs.rdf gacs.ttl gacs-expanded.nt skosify.log
+	rm -f gacs.rdf gacs.ttl gacs-expanded.nt gacs-merged.nt skosify.log
 
 # mark that some intermediate files should not be deleted immediately
 .SECONDARY: gacs.ttl
