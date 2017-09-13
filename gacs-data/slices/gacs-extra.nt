@@ -1,0 +1,23 @@
+<http://id.agrisemantics.org/gacs/ABSTRACT\u0020OBJECTS> <http://www.w3.org/2004/02/skos/core#prefLabel> "ABSTRACT OBJECTS"@en .
+<http://id.agrisemantics.org/gacs/ANATOMICAL\u0020STRUCTURE> <http://www.w3.org/2004/02/skos/core#prefLabel> "ANATOMICAL STRUCTURE"@en .
+<http://id.agrisemantics.org/gacs/BIOLOGIC\u0020FUNCTION> <http://www.w3.org/2004/02/skos/core#prefLabel> "BIOLOGICAL PHENOMENON"@en .
+<http://id.agrisemantics.org/gacs/ECOLOGICAL\u0020/\u0020ENVIRONMENTAL\u0020PHENOMENON> <http://www.w3.org/2004/02/skos/core#prefLabel> "ECOLOGICAL / ENVIRONMENTAL PHENOMENON"@en .
+<http://id.agrisemantics.org/gacs/ECONOMIC\u0020ACTIVITY> <http://www.w3.org/2004/02/skos/core#prefLabel> "ECONOMIC ACTIVITY"@en .
+<http://id.agrisemantics.org/gacs/ECONOMIC\u0020OBJECTS> <http://www.w3.org/2004/02/skos/core#prefLabel> "ECONOMIC OBJECTS"@en .
+<http://id.agrisemantics.org/gacs/EVENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "EVENT"@en .
+<http://id.agrisemantics.org/gacs/EVENTS> <http://www.w3.org/2004/02/skos/core#prefLabel> "EVENTS AND ACTIONS"@en .
+<http://id.agrisemantics.org/gacs/FACILITIES\u0020AND\u0020STRUCTURES> <http://www.w3.org/2004/02/skos/core#prefLabel> "FACILITIES AND STRUCTURES"@en .
+<http://id.agrisemantics.org/gacs/FIELD\u0020OF\u0020STUDY> <http://www.w3.org/2004/02/skos/core#prefLabel> "FIELD OF STUDY"@en .
+<http://id.agrisemantics.org/gacs/HEALTH\u0020AND\u0020SAFETY\u0020OBJECTS> <http://www.w3.org/2004/02/skos/core#prefLabel> "HEALTH AND SAFETY OBJECTS"@en .
+<http://id.agrisemantics.org/gacs/INJURY\u0020OR\u0020POISONING> <http://www.w3.org/2004/02/skos/core#prefLabel> "INJURY OR POISONING"@en .
+<http://id.agrisemantics.org/gacs/MANUFACTURED\u0020OBJECTS> <http://www.w3.org/2004/02/skos/core#prefLabel> "MANMADE OBJECTS"@en .
+<http://id.agrisemantics.org/gacs/MENTAL\u0020OBJECTS> <http://www.w3.org/2004/02/skos/core#prefLabel> "MENTAL OBJECTS"@en .
+<http://id.agrisemantics.org/gacs/NATURAL\u0020PHENOMENON\u0020OR\u0020PROCESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "NATURAL PHENOMENON OR PROCESS"@en .
+<http://id.agrisemantics.org/gacs/NON-CORE\u0020GACS> <http://www.w3.org/2004/02/skos/core#prefLabel> "NON-CORE GACS"@en .
+<http://id.agrisemantics.org/gacs/OBJECTS> <http://www.w3.org/2004/02/skos/core#prefLabel> "OBJECTS"@en .
+<http://id.agrisemantics.org/gacs/PHENOMENON\u0020OR\u0020PROCESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "PHENOMENON OR PROCESS"@en .
+<http://id.agrisemantics.org/gacs/PHYSICAL/CHEMICAL\u0020PHENOMENON> <http://www.w3.org/2004/02/skos/core#prefLabel> "PHYSICAL/CHEMICAL PHENOMENON"@en .
+<http://id.agrisemantics.org/gacs/PHYSICAL\u0020OBJECTS> <http://www.w3.org/2004/02/skos/core#prefLabel> "PHYSICAL OBJECTS"@en .
+<http://id.agrisemantics.org/gacs/SOCIETAL\u0020OBJECTS> <http://www.w3.org/2004/02/skos/core#prefLabel> "SOCIETAL ABSTRACT OBJECTS"@en .
+<http://id.agrisemantics.org/gacs/SOCIETAL\u0020PHYSICAL\u0020OBJECTS> <http://www.w3.org/2004/02/skos/core#prefLabel> "SOCIETAL PHYSICAL OBJECTS"@en .
+<http://id.agrisemantics.org/gacs/SOCIETAL\u0020PROPERTIES> <http://www.w3.org/2004/02/skos/core#prefLabel> "SOCIETAL PROPERTIES"@en .
