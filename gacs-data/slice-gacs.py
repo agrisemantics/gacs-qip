@@ -10,6 +10,7 @@ SKOSXL = Namespace('http://www.w3.org/2008/05/skos-xl#')
 DWC = Namespace('http://rs.tdwg.org/dwc/terms/')
 VB = Namespace('http://art.uniroma2.it/ontologies/vocbench#')
 AGVOC = Namespace('http://id.agrisemantics.org/vocab#')
+LUXID = Namespace('http://www.temis.com/luxid-schema#')
 
 TYPE_PROPS = set([
     RDF.type,
@@ -21,8 +22,12 @@ STRUCTURAL_PROPS = set([
     SKOS.topConceptOf,
     SKOS.broader,
     SKOS.related,
+])
+
+PRODUCT_PROPS = set([
     AGVOC.hasProduct,
     AGVOC.productOf,
+    LUXID.hasProduct,
 ])
 
 MAPPING_PROPS = set([
@@ -93,6 +98,8 @@ def choose_slice(s, p, o):
             return 'types'
     if p in STRUCTURAL_PROPS:
         return 'structure'
+    if p in PRODUCT_PROPS:
+        return 'product'
     if p in MAPPING_PROPS:
         return 'mapping'
     if p in ONTOLOGY_PROPS:
@@ -100,6 +107,10 @@ def choose_slice(s, p, o):
     if p in VOCBENCH_PROPS:
         return 'vocbench'
     if p in DEFERRED_PROPS:
+        # try to parse language in case it's a literal
+        if '@' in o:
+            lang = o.split('@')[1].split()[0]
+            return 'lang-%s' % lang
         return 'defer' # defer until we know the language of the object
     if p in DEFERRED_SUBJECT_PROPS:
         return 'defer-subj' # defer until we know the language of the subject
