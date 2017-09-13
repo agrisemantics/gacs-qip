@@ -27,4 +27,20 @@ Notes about changes made between the first export (with no editorial changes w.r
           1 gacs-webstudio-2017-08-28.nt	2017-09-13
 
 
+## Explanations
 
+ * skos:broader: these are the hierarchy changes made by Lori
+ * skos:topConceptOf removals: consequence of hierarchy changes (can be
+   ignored)
+ * luxid:memberOf: changes to thematic group membership made by Lori (note
+   that these use a non-standard property, needs to be converted to
+   skos:member)
+ * skos:related: side effects of hierarchy changes, e.g. sometimes BT becomes RT
+ * skos:scopeNote: changes made by Lori, e.g. when the scope note
+   is inappropriate for GACS
+ * skos:prefLabel: most of these are for newly inserted top-level concepts
+   that structure the hierarchy, but the removals need to be investigated
+   further and possibly manually copied to the original SKOS-XL labels
+ * skos:definition: need to be investigated and possibly manually copied to
+   the structured definitions in original GACS data
+ * rdf:type: for newly inserted top-level concepts
