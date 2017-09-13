@@ -18,8 +18,6 @@ TYPE_PROPS = set([
 
 STRUCTURAL_PROPS = set([
     SKOS.inScheme,
-    SKOS.hasTopConcept,
-    SKOS.topConceptOf,
     SKOS.broader,
     SKOS.related,
 ])
@@ -66,7 +64,11 @@ ONTOLOGY_PROPS = set([
     OWL.inverseOf,
     OWL.versionInfo,
 ])
-    
+
+TOPCONCEPT_PROPS = set([
+    SKOS.hasTopConcept,
+    SKOS.topConceptOf,
+])
 
 VOCBENCH_PROPS = set([
     VB.hasStatus,
@@ -118,6 +120,8 @@ def choose_slice(s, p, o):
         lang = o.split('@')[1].split()[0]
         lang_of_deferred[parse_uri(s)] = lang
         return 'lang-%s' % lang
+    if p in TOPCONCEPT_PROPS:
+        return 'topconcept'
     if p == SKOS.narrower:
         return 'narrower' # not really useful, but...
     return 'misc'
