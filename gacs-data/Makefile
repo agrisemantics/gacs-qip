@@ -21,7 +21,7 @@ SPARQL ?= sparql
 JAVA_OPTS = -Xmx2G
 
 # Slices of the VocBench export that constitute GACS
-SLICES ?= $(wildcard slices/gacs-lang-*) slices/gacs-mapping.nt slices/gacs-structure.nt slices/gacs-product.nt slices/gacs-types.nt slices/gacs-extra.nt
+SLICES ?= $(wildcard slices/gacs-lang-*) slices/gacs-mapping.nt slices/gacs-structure.nt slices/gacs-product.nt slices/gacs-types.nt slices/gacs-extra.nt slices/gacs-group-defs.nt slices/gacs-group-members.nt
 
 # ** RULES **
 
@@ -37,7 +37,7 @@ gacs-expanded.nt: sparql/expand-gacs.rq gacs-merged.nt
 
 # Process the already expanded GACS via Skosify
 # - SKOS XL labels will be converted to SKOS
-gacs.ttl: sparql/skosxl-to-skos.ru gacs-metadata.ttl gacs-groups.ttl gacs-expanded.nt
+gacs.ttl: sparql/skosxl-to-skos.ru gacs-metadata.ttl gacs-expanded.nt
 	$(SKOSIFYHOME)/skosify/skosify.py \
 		--no-enrich-mappings \
 		--set-modified \
