@@ -1,0 +1,29 @@
+@prefix agsem: <http://id.agrisemantics.org/gacs/> .
+@prefix agvoc: <http://id.agrisemantics.org/vocab#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dc:  <http://purl.org/dc/elements/1.1/> .
+@prefix dwc: <http://rs.tdwg.org/dwc/terms/> .
+@prefix vb: <http://art.uniroma2.it/ontologies/vocbench#> .
+
+<http://id.agrisemantics.org/gacs-core> a skos:ConceptScheme ;
+	dc:creator "Global Agricultural Concept Scheme working group" ;
+	dc:contributor "Food and Agriculture Organization of the UN"@en ,
+		"USDA, National Agricultural Library"@en ,
+		"CAB International"@en ;
+        dc:source "AGROVOC"@en, "CAB Thesaurus"@en, "NAL Thesaurus"@en ;
+  dc:description """The Global Agricultural Concept Scheme (GACS) is a hub for
+  concepts related to agriculture, in multiple languages, for use in Linked
+  Data. The idea for GACS emerged out of discussions at the World Congress of
+  IAALD, the International Association of Agricultural Information Specialists,
+  in July 2013. The Food and Agricultural Organization of the United Nations
+  (FAO), CAB International (CABI), and the National Agricultural Library of the
+  USA (NAL) agreed in October 2013 to explore the feasibility of developing a
+  shared concept scheme by integrating their three thesauri: the AGROVOC
+  Concept Scheme, the CAB Thesaurus (CABT), and NAL Thesaurus (NALT). In the
+  GACS vision, the integration of these three thesauri is but the first step
+  towards the realization of a hub that links to and from the concept schemes
+  beyond the initial three, and in multiple language areas."""@en ;
+
+	dc:title "Global Agricultural Concept Scheme Core" .

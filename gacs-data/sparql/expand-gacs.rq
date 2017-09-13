@@ -1,0 +1,57 @@
+PREFIX skos:   <http://www.w3.org/2004/02/skos/core#> 
+PREFIX skosxl: <http://www.w3.org/2008/05/skos-xl#>
+PREFIX agvoc:  <http://id.agrisemantics.org/vocab#>
+
+# Create a version of GACS which includes all the original triples
+# - EXCEPT language tag "zxx" will be changed to "zxx-x-taxon"
+# - PLUS concepts will always have rdf:type skos:Concept (fix for OWLIM bug)
+# - PLUS scientific names will be expanded to all Latin script languages
+
+CONSTRUCT {
+  # most GACS triples
+  ?s ?p ?o .
+
+  # enforce concept type triples
+  ?concept a skos:Concept .
+
+  # expanded scientific names
+  ?c ?newxlprop ?langxl .
+  ?langxl a skosxl:Label .
+  ?langxl skosxl:literalForm ?langlabel .
+  ?langxl agvoc:scientificName ?xllabel .
+  ?xllabel skosxl:literalForm ?taxonlabel .
+}
+WHERE {
+  {
+    # pass through most GACS triples
+    ?s ?p ?o .
+    FILTER (!isLiteral(?o) || LANG(?o)!='zxx') # except scientific name literals handled below
+  }
+  UNION
+  {
+    # anything which has a prefLabel is a concept in GACS
+    ?concept skosxl:prefLabel [] .
+  }
+  UNION
+  {
+    # expand scientific names
+    # properties we are interested in
+    VALUES ?xlprop { skosxl:prefLabel skosxl:altLabel }
+    # all languages which use Latin script for scientific names
+    VALUES ?lang {
+      'cs' 'da' 'de' 'en' 'es' 'fi' 'fr' 'hu' 'it'
+      'mo' 'ms' 'nl' 'no' 'pl' 'pt' 'sk' 'sv' 'tr' } # and many others?
+    ?c ?xlprop ?xllabel .
+    ?xllabel skosxl:literalForm ?label .
+    FILTER(LANG(?label)='zxx')
+    BIND(IRI(REPLACE(STR(?xllabel), 'zxx', ?lang)) AS ?langxl)
+    BIND(STRLANG(STR(?label), ?lang) AS ?langlabel)
+    BIND(STRLANG(STR(?label), 'zxx-x-taxon') AS ?taxonlabel)
+    # check if the concept already has a prefLabel in the target language
+    # - if it has, force the new expanded label to be an altLabel
+    BIND(IF(EXISTS {
+      ?c skosxl:prefLabel/skosxl:literalForm ?pref .
+      FILTER (LANG(?pref)=?lang)
+    }, skosxl:altLabel, ?xlprop) AS ?newxlprop)
+  }
+}
