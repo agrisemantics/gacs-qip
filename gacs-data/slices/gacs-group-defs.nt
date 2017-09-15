@@ -1,0 +1,1291 @@
+<http://id.agrisemantics.org/gacs/G_CA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_CC> .
+<http://id.agrisemantics.org/gacs/G_CA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_CE> .
+<http://id.agrisemantics.org/gacs/G_CA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_CG> .
+<http://id.agrisemantics.org/gacs/G_CA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_CJ> .
+<http://id.agrisemantics.org/gacs/G_CA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_CL> .
+<http://id.agrisemantics.org/gacs/G_CA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_CN> .
+<http://id.agrisemantics.org/gacs/G_CA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_CQ> .
+<http://id.agrisemantics.org/gacs/G_CA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_CS> .
+<http://id.agrisemantics.org/gacs/G_CA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_CU> .
+<http://id.agrisemantics.org/gacs/G_CA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_CA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_CA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_CA> <http://www.w3.org/2004/02/skos/core#notation> "CA" .
+<http://id.agrisemantics.org/gacs/G_CA> <http://www.w3.org/2004/02/skos/core#prefLabel> "GENERAL"@en .
+<http://id.agrisemantics.org/gacs/G_CA> <http://www.w3.org/2004/02/skos/core#prefLabel> "GENERAL"@es .
+<http://id.agrisemantics.org/gacs/G_CA> <http://www.w3.org/2004/02/skos/core#prefLabel> "GENERALIDADES"@pt .
+<http://id.agrisemantics.org/gacs/G_CC> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_CA> .
+<http://id.agrisemantics.org/gacs/G_CC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_CC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_CC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_CC> <http://www.w3.org/2004/02/skos/core#notation> "CC" .
+<http://id.agrisemantics.org/gacs/G_CC> <http://www.w3.org/2004/02/skos/core#prefLabel> "common terms"@en .
+<http://id.agrisemantics.org/gacs/G_CC> <http://www.w3.org/2004/02/skos/core#prefLabel> "termos comuns"@pt .
+<http://id.agrisemantics.org/gacs/G_CC> <http://www.w3.org/2004/02/skos/core#prefLabel> "t\u00E9rminos comunes"@es .
+<http://id.agrisemantics.org/gacs/G_CE> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_CA> .
+<http://id.agrisemantics.org/gacs/G_CE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_CE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_CE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_CE> <http://www.w3.org/2004/02/skos/core#notation> "CE" .
+<http://id.agrisemantics.org/gacs/G_CE> <http://www.w3.org/2004/02/skos/core#prefLabel> "named organizations"@en .
+<http://id.agrisemantics.org/gacs/G_CE> <http://www.w3.org/2004/02/skos/core#prefLabel> "organizaciones nombradas"@es .
+<http://id.agrisemantics.org/gacs/G_CE> <http://www.w3.org/2004/02/skos/core#prefLabel> "organiza\u00E7\u00F5es nomeadas"@pt .
+<http://id.agrisemantics.org/gacs/G_CG> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_CA> .
+<http://id.agrisemantics.org/gacs/G_CG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_CG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_CG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_CG> <http://www.w3.org/2004/02/skos/core#notation> "CG" .
+<http://id.agrisemantics.org/gacs/G_CG> <http://www.w3.org/2004/02/skos/core#prefLabel> "named regions and countries"@en .
+<http://id.agrisemantics.org/gacs/G_CG> <http://www.w3.org/2004/02/skos/core#prefLabel> "nombres de regiones y pa\u00EDses"@es .
+<http://id.agrisemantics.org/gacs/G_CG> <http://www.w3.org/2004/02/skos/core#prefLabel> "regi\u00F5es e pa\u00EDses nomeados"@pt .
+<http://id.agrisemantics.org/gacs/G_CJ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_CA> .
+<http://id.agrisemantics.org/gacs/G_CJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_CJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_CJ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_CJ> <http://www.w3.org/2004/02/skos/core#notation> "CJ" .
+<http://id.agrisemantics.org/gacs/G_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "caracter\u00EDsticas fisiogr\u00E1ficas nombradas"@es .
+<http://id.agrisemantics.org/gacs/G_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "caracter\u00EDsticas fisiogr\u00E1ficas nomeadas"@pt .
+<http://id.agrisemantics.org/gacs/G_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "named physiographic features"@en .
+<http://id.agrisemantics.org/gacs/G_CL> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_CA> .
+<http://id.agrisemantics.org/gacs/G_CL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_CL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_CL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_CL> <http://www.w3.org/2004/02/skos/core#notation> "CL" .
+<http://id.agrisemantics.org/gacs/G_CL> <http://www.w3.org/2004/02/skos/core#prefLabel> "investigaci\u00F3n"@es .
+<http://id.agrisemantics.org/gacs/G_CL> <http://www.w3.org/2004/02/skos/core#prefLabel> "pesquisa"@pt .
+<http://id.agrisemantics.org/gacs/G_CL> <http://www.w3.org/2004/02/skos/core#prefLabel> "research"@en .
+<http://id.agrisemantics.org/gacs/G_CN> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_CA> .
+<http://id.agrisemantics.org/gacs/G_CN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_CN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_CN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_CN> <http://www.w3.org/2004/02/skos/core#notation> "CN" .
+<http://id.agrisemantics.org/gacs/G_CN> <http://www.w3.org/2004/02/skos/core#prefLabel> "methodology"@en .
+<http://id.agrisemantics.org/gacs/G_CN> <http://www.w3.org/2004/02/skos/core#prefLabel> "metodologia"@pt .
+<http://id.agrisemantics.org/gacs/G_CN> <http://www.w3.org/2004/02/skos/core#prefLabel> "m\u00E9todos"@es .
+<http://id.agrisemantics.org/gacs/G_CQ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_CA> .
+<http://id.agrisemantics.org/gacs/G_CQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_CQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_CQ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_CQ> <http://www.w3.org/2004/02/skos/core#notation> "CQ" .
+<http://id.agrisemantics.org/gacs/G_CQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "matem\u00E1tica e estat\u00EDstica"@pt .
+<http://id.agrisemantics.org/gacs/G_CQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "matem\u00E1ticas y estad\u00EDsticas"@es .
+<http://id.agrisemantics.org/gacs/G_CQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "mathematics and statistics"@en .
+<http://id.agrisemantics.org/gacs/G_CS> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_CA> .
+<http://id.agrisemantics.org/gacs/G_CS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_CS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_CS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_CS> <http://www.w3.org/2004/02/skos/core#notation> "CS" .
+<http://id.agrisemantics.org/gacs/G_CS> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciencia de la computaci\u00F3n"@es .
+<http://id.agrisemantics.org/gacs/G_CS> <http://www.w3.org/2004/02/skos/core#prefLabel> "ci\u00EAncia da computa\u00E7\u00E3o"@pt .
+<http://id.agrisemantics.org/gacs/G_CS> <http://www.w3.org/2004/02/skos/core#prefLabel> "computer science"@en .
+<http://id.agrisemantics.org/gacs/G_CU> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_CA> .
+<http://id.agrisemantics.org/gacs/G_CU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_CU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_CU> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_CU> <http://www.w3.org/2004/02/skos/core#notation> "CU" .
+<http://id.agrisemantics.org/gacs/G_CU> <http://www.w3.org/2004/02/skos/core#prefLabel> "communication and information"@en .
+<http://id.agrisemantics.org/gacs/G_CU> <http://www.w3.org/2004/02/skos/core#prefLabel> "comunicaci\u00F3n e informaci\u00F3n"@es .
+<http://id.agrisemantics.org/gacs/G_CU> <http://www.w3.org/2004/02/skos/core#prefLabel> "comunica\u00E7\u00E3o e informa\u00E7\u00E3o"@pt .
+<http://id.agrisemantics.org/gacs/G_FA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_FD> .
+<http://id.agrisemantics.org/gacs/G_FA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_GA> .
+<http://id.agrisemantics.org/gacs/G_FA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_FA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_FA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_FA> <http://www.w3.org/2004/02/skos/core#notation> "FA" .
+<http://id.agrisemantics.org/gacs/G_FA> <http://www.w3.org/2004/02/skos/core#prefLabel> "CIENCIAS F\u00CDSICAS"@es .
+<http://id.agrisemantics.org/gacs/G_FA> <http://www.w3.org/2004/02/skos/core#prefLabel> "CI\u00CANCIAS F\u00CDSICAS"@pt .
+<http://id.agrisemantics.org/gacs/G_FA> <http://www.w3.org/2004/02/skos/core#prefLabel> "PHYSICAL SCIENCES"@en .
+<http://id.agrisemantics.org/gacs/G_FD> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_FG> .
+<http://id.agrisemantics.org/gacs/G_FD> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_FJ> .
+<http://id.agrisemantics.org/gacs/G_FD> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_FM> .
+<http://id.agrisemantics.org/gacs/G_FD> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_FP> .
+<http://id.agrisemantics.org/gacs/G_FD> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_FA> .
+<http://id.agrisemantics.org/gacs/G_FD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_FD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_FD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_FD> <http://www.w3.org/2004/02/skos/core#notation> "FD" .
+<http://id.agrisemantics.org/gacs/G_FD> <http://www.w3.org/2004/02/skos/core#prefLabel> "f\u00EDsica"@es .
+<http://id.agrisemantics.org/gacs/G_FD> <http://www.w3.org/2004/02/skos/core#prefLabel> "f\u00EDsica"@pt .
+<http://id.agrisemantics.org/gacs/G_FD> <http://www.w3.org/2004/02/skos/core#prefLabel> "physics"@en .
+<http://id.agrisemantics.org/gacs/G_FG> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_FD> .
+<http://id.agrisemantics.org/gacs/G_FG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_FG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_FG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_FG> <http://www.w3.org/2004/02/skos/core#notation> "FG" .
+<http://id.agrisemantics.org/gacs/G_FG> <http://www.w3.org/2004/02/skos/core#prefLabel> "f\u00EDsica por disciplina"@es .
+<http://id.agrisemantics.org/gacs/G_FG> <http://www.w3.org/2004/02/skos/core#prefLabel> "f\u00EDsica por disciplina"@pt .
+<http://id.agrisemantics.org/gacs/G_FG> <http://www.w3.org/2004/02/skos/core#prefLabel> "physics by discipline"@en .
+<http://id.agrisemantics.org/gacs/G_FJ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_FD> .
+<http://id.agrisemantics.org/gacs/G_FJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_FJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_FJ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_FJ> <http://www.w3.org/2004/02/skos/core#notation> "FJ" .
+<http://id.agrisemantics.org/gacs/G_FJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "estados f\u00EDsicos"@es .
+<http://id.agrisemantics.org/gacs/G_FJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "estados f\u00EDsicos"@pt .
+<http://id.agrisemantics.org/gacs/G_FJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "physical states"@en .
+<http://id.agrisemantics.org/gacs/G_FM> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_FD> .
+<http://id.agrisemantics.org/gacs/G_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_FM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_FM> <http://www.w3.org/2004/02/skos/core#notation> "FM" .
+<http://id.agrisemantics.org/gacs/G_FM> <http://www.w3.org/2004/02/skos/core#prefLabel> "fen\u00F3menos f\u00EDsicos"@es .
+<http://id.agrisemantics.org/gacs/G_FM> <http://www.w3.org/2004/02/skos/core#prefLabel> "fen\u00F4menos f\u00EDsicos"@pt .
+<http://id.agrisemantics.org/gacs/G_FM> <http://www.w3.org/2004/02/skos/core#prefLabel> "physical phenomena"@en .
+<http://id.agrisemantics.org/gacs/G_FP> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_FD> .
+<http://id.agrisemantics.org/gacs/G_FP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_FP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_FP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_FP> <http://www.w3.org/2004/02/skos/core#notation> "FP" .
+<http://id.agrisemantics.org/gacs/G_FP> <http://www.w3.org/2004/02/skos/core#prefLabel> "physical properties"@en .
+<http://id.agrisemantics.org/gacs/G_FP> <http://www.w3.org/2004/02/skos/core#prefLabel> "propiedades f\u00EDsicas"@es .
+<http://id.agrisemantics.org/gacs/G_FP> <http://www.w3.org/2004/02/skos/core#prefLabel> "propriedades f\u00EDsicas"@pt .
+<http://id.agrisemantics.org/gacs/G_GA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_GD> .
+<http://id.agrisemantics.org/gacs/G_GA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_GG> .
+<http://id.agrisemantics.org/gacs/G_GA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_GJ> .
+<http://id.agrisemantics.org/gacs/G_GA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_GM> .
+<http://id.agrisemantics.org/gacs/G_GA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_GP> .
+<http://id.agrisemantics.org/gacs/G_GA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_HA> .
+<http://id.agrisemantics.org/gacs/G_GA> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_FA> .
+<http://id.agrisemantics.org/gacs/G_GA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_GA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_GA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_GA> <http://www.w3.org/2004/02/skos/core#notation> "GA" .
+<http://id.agrisemantics.org/gacs/G_GA> <http://www.w3.org/2004/02/skos/core#prefLabel> "chemistry"@en .
+<http://id.agrisemantics.org/gacs/G_GA> <http://www.w3.org/2004/02/skos/core#prefLabel> "qu\u00EDmica"@es .
+<http://id.agrisemantics.org/gacs/G_GA> <http://www.w3.org/2004/02/skos/core#prefLabel> "qu\u00EDmica"@pt .
+<http://id.agrisemantics.org/gacs/G_GD> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_GA> .
+<http://id.agrisemantics.org/gacs/G_GD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_GD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_GD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_GD> <http://www.w3.org/2004/02/skos/core#notation> "GD" .
+<http://id.agrisemantics.org/gacs/G_GD> <http://www.w3.org/2004/02/skos/core#prefLabel> "chemistry by discipline"@en .
+<http://id.agrisemantics.org/gacs/G_GD> <http://www.w3.org/2004/02/skos/core#prefLabel> "qu\u00EDmica por disciplina"@es .
+<http://id.agrisemantics.org/gacs/G_GD> <http://www.w3.org/2004/02/skos/core#prefLabel> "qu\u00EDmica por disciplina"@pt .
+<http://id.agrisemantics.org/gacs/G_GG> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_GA> .
+<http://id.agrisemantics.org/gacs/G_GG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_GG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_GG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_GG> <http://www.w3.org/2004/02/skos/core#notation> "GG" .
+<http://id.agrisemantics.org/gacs/G_GG> <http://www.w3.org/2004/02/skos/core#prefLabel> "chemical and physicochemical processes and phenomena"@en .
+<http://id.agrisemantics.org/gacs/G_GG> <http://www.w3.org/2004/02/skos/core#prefLabel> "procesos y fen\u00F3menos qu\u00EDmicos y fisicoqu\u00EDmicos"@es .
+<http://id.agrisemantics.org/gacs/G_GG> <http://www.w3.org/2004/02/skos/core#prefLabel> "processos e fen\u00F4menos qu\u00EDmicos e f\u00EDsico-qu\u00EDmicos"@pt .
+<http://id.agrisemantics.org/gacs/G_GJ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_GA> .
+<http://id.agrisemantics.org/gacs/G_GJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_GJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_GJ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_GJ> <http://www.w3.org/2004/02/skos/core#notation> "GJ" .
+<http://id.agrisemantics.org/gacs/G_GJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "chemical and physicochemical properties"@en .
+<http://id.agrisemantics.org/gacs/G_GJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "propiedades qu\u00EDmicas y fisicoqu\u00EDmicas"@es .
+<http://id.agrisemantics.org/gacs/G_GJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "propriedades qu\u00EDmicas e f\u00EDsico-qu\u00EDmicas"@pt .
+<http://id.agrisemantics.org/gacs/G_GM> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_GA> .
+<http://id.agrisemantics.org/gacs/G_GM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_GM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_GM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_GM> <http://www.w3.org/2004/02/skos/core#notation> "GM" .
+<http://id.agrisemantics.org/gacs/G_GM> <http://www.w3.org/2004/02/skos/core#prefLabel> "chemical combination and structure"@en .
+<http://id.agrisemantics.org/gacs/G_GM> <http://www.w3.org/2004/02/skos/core#prefLabel> "combinaci\u00F3n qu\u00EDmica y estructura"@es .
+<http://id.agrisemantics.org/gacs/G_GM> <http://www.w3.org/2004/02/skos/core#prefLabel> "combina\u00E7\u00E3o e estrutura qu\u00EDmica"@pt .
+<http://id.agrisemantics.org/gacs/G_GP> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_GA> .
+<http://id.agrisemantics.org/gacs/G_GP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_GP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_GP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_GP> <http://www.w3.org/2004/02/skos/core#notation> "GP" .
+<http://id.agrisemantics.org/gacs/G_GP> <http://www.w3.org/2004/02/skos/core#prefLabel> "an\u00E1lise qu\u00EDmica"@pt .
+<http://id.agrisemantics.org/gacs/G_GP> <http://www.w3.org/2004/02/skos/core#prefLabel> "an\u00E1lisis qu\u00EDmico"@es .
+<http://id.agrisemantics.org/gacs/G_GP> <http://www.w3.org/2004/02/skos/core#prefLabel> "chemical analysis"@en .
+<http://id.agrisemantics.org/gacs/G_HA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_HB> .
+<http://id.agrisemantics.org/gacs/G_HA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_HC> .
+<http://id.agrisemantics.org/gacs/G_HA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_HG> .
+<http://id.agrisemantics.org/gacs/G_HA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_HJ> .
+<http://id.agrisemantics.org/gacs/G_HA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_HM> .
+<http://id.agrisemantics.org/gacs/G_HA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_HP> .
+<http://id.agrisemantics.org/gacs/G_HA> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_GA> .
+<http://id.agrisemantics.org/gacs/G_HA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_HA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_HA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_HA> <http://www.w3.org/2004/02/skos/core#notation> "HA" .
+<http://id.agrisemantics.org/gacs/G_HA> <http://www.w3.org/2004/02/skos/core#prefLabel> "chemical substances"@en .
+<http://id.agrisemantics.org/gacs/G_HA> <http://www.w3.org/2004/02/skos/core#prefLabel> "subst\u00E2ncias qu\u00EDmicas"@pt .
+<http://id.agrisemantics.org/gacs/G_HA> <http://www.w3.org/2004/02/skos/core#prefLabel> "sustancias qu\u00EDmicas"@es .
+<http://id.agrisemantics.org/gacs/G_HB> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_HA> .
+<http://id.agrisemantics.org/gacs/G_HB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_HB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_HB> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_HB> <http://www.w3.org/2004/02/skos/core#notation> "HB" .
+<http://id.agrisemantics.org/gacs/G_HB> <http://www.w3.org/2004/02/skos/core#prefLabel> "chemicals"@en .
+<http://id.agrisemantics.org/gacs/G_HC> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_HA> .
+<http://id.agrisemantics.org/gacs/G_HC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_HC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_HC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_HC> <http://www.w3.org/2004/02/skos/core#notation> "HC" .
+<http://id.agrisemantics.org/gacs/G_HC> <http://www.w3.org/2004/02/skos/core#prefLabel> "entidades qu\u00EDmicas fundamentais"@pt .
+<http://id.agrisemantics.org/gacs/G_HC> <http://www.w3.org/2004/02/skos/core#prefLabel> "entidades qu\u00EDmicas fundamentales"@es .
+<http://id.agrisemantics.org/gacs/G_HC> <http://www.w3.org/2004/02/skos/core#prefLabel> "fundamental chemical entities"@en .
+<http://id.agrisemantics.org/gacs/G_HG> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_HA> .
+<http://id.agrisemantics.org/gacs/G_HG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_HG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_HG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_HG> <http://www.w3.org/2004/02/skos/core#notation> "HG" .
+<http://id.agrisemantics.org/gacs/G_HG> <http://www.w3.org/2004/02/skos/core#prefLabel> "chemical substances by role"@en .
+<http://id.agrisemantics.org/gacs/G_HG> <http://www.w3.org/2004/02/skos/core#prefLabel> "chemical substances by role"@es .
+<http://id.agrisemantics.org/gacs/G_HG> <http://www.w3.org/2004/02/skos/core#prefLabel> "subst\u00E2ncias qu\u00EDmicas por fun\u00E7\u00E3o"@pt .
+<http://id.agrisemantics.org/gacs/G_HJ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_HA> .
+<http://id.agrisemantics.org/gacs/G_HJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_HJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_HJ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_HJ> <http://www.w3.org/2004/02/skos/core#notation> "HJ" .
+<http://id.agrisemantics.org/gacs/G_HJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "chemical substances by use or effect"@en .
+<http://id.agrisemantics.org/gacs/G_HJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "chemical substances by use or effect"@es .
+<http://id.agrisemantics.org/gacs/G_HJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "subst\u00E2ncias qu\u00EDmicas por uso ou efeito"@pt .
+<http://id.agrisemantics.org/gacs/G_HM> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_HA> .
+<http://id.agrisemantics.org/gacs/G_HM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_HM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_HM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_HM> <http://www.w3.org/2004/02/skos/core#notation> "HM" .
+<http://id.agrisemantics.org/gacs/G_HM> <http://www.w3.org/2004/02/skos/core#prefLabel> "chemical substances by property"@en .
+<http://id.agrisemantics.org/gacs/G_HM> <http://www.w3.org/2004/02/skos/core#prefLabel> "subst\u00E2ncias qu\u00EDmicas por propriedade"@pt .
+<http://id.agrisemantics.org/gacs/G_HM> <http://www.w3.org/2004/02/skos/core#prefLabel> "sustancias qu\u00EDmicas por propiedad"@es .
+<http://id.agrisemantics.org/gacs/G_HP> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_HQ> .
+<http://id.agrisemantics.org/gacs/G_HP> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_HT> .
+<http://id.agrisemantics.org/gacs/G_HP> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_HW> .
+<http://id.agrisemantics.org/gacs/G_HP> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_HY> .
+<http://id.agrisemantics.org/gacs/G_HP> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_HA> .
+<http://id.agrisemantics.org/gacs/G_HP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_HP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_HP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_HP> <http://www.w3.org/2004/02/skos/core#notation> "HP" .
+<http://id.agrisemantics.org/gacs/G_HP> <http://www.w3.org/2004/02/skos/core#prefLabel> "chemical elements and compounds"@en .
+<http://id.agrisemantics.org/gacs/G_HP> <http://www.w3.org/2004/02/skos/core#prefLabel> "elementos e compostos qu\u00EDmicos"@pt .
+<http://id.agrisemantics.org/gacs/G_HP> <http://www.w3.org/2004/02/skos/core#prefLabel> "elementos y compuestos qu\u00EDmicos"@es .
+<http://id.agrisemantics.org/gacs/G_HQ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_HP> .
+<http://id.agrisemantics.org/gacs/G_HQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_HQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_HQ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_HQ> <http://www.w3.org/2004/02/skos/core#notation> "HQ" .
+<http://id.agrisemantics.org/gacs/G_HQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "elementos"@es .
+<http://id.agrisemantics.org/gacs/G_HQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "elementos"@pt .
+<http://id.agrisemantics.org/gacs/G_HQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "elements"@en .
+<http://id.agrisemantics.org/gacs/G_HT> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_HP> .
+<http://id.agrisemantics.org/gacs/G_HT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_HT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_HT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_HT> <http://www.w3.org/2004/02/skos/core#notation> "HT" .
+<http://id.agrisemantics.org/gacs/G_HT> <http://www.w3.org/2004/02/skos/core#prefLabel> "compostos inorg\u00E2nicos"@pt .
+<http://id.agrisemantics.org/gacs/G_HT> <http://www.w3.org/2004/02/skos/core#prefLabel> "compuestos inorg\u00E1nicos"@es .
+<http://id.agrisemantics.org/gacs/G_HT> <http://www.w3.org/2004/02/skos/core#prefLabel> "inorganic compounds"@en .
+<http://id.agrisemantics.org/gacs/G_HW> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_HP> .
+<http://id.agrisemantics.org/gacs/G_HW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_HW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_HW> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_HW> <http://www.w3.org/2004/02/skos/core#notation> "HW" .
+<http://id.agrisemantics.org/gacs/G_HW> <http://www.w3.org/2004/02/skos/core#prefLabel> "compostos org\u00E2nicos"@pt .
+<http://id.agrisemantics.org/gacs/G_HW> <http://www.w3.org/2004/02/skos/core#prefLabel> "compuestos org\u00E1nicos"@es .
+<http://id.agrisemantics.org/gacs/G_HW> <http://www.w3.org/2004/02/skos/core#prefLabel> "organic compounds"@en .
+<http://id.agrisemantics.org/gacs/G_HY> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_HP> .
+<http://id.agrisemantics.org/gacs/G_HY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_HY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_HY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_HY> <http://www.w3.org/2004/02/skos/core#notation> "HY" .
+<http://id.agrisemantics.org/gacs/G_HY> <http://www.w3.org/2004/02/skos/core#prefLabel> "compostos org\u00E2nicos/inorg\u00E2nicos"@pt .
+<http://id.agrisemantics.org/gacs/G_HY> <http://www.w3.org/2004/02/skos/core#prefLabel> "compuestos org\u00E1nicos/inorg\u00E1nicos"@es .
+<http://id.agrisemantics.org/gacs/G_HY> <http://www.w3.org/2004/02/skos/core#prefLabel> "organic/inorganic compounds"@en .
+<http://id.agrisemantics.org/gacs/G_JA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_JC> .
+<http://id.agrisemantics.org/gacs/G_JA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_JF> .
+<http://id.agrisemantics.org/gacs/G_JA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_JJ> .
+<http://id.agrisemantics.org/gacs/G_JA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_JM> .
+<http://id.agrisemantics.org/gacs/G_JA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_JP> .
+<http://id.agrisemantics.org/gacs/G_JA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_JS> .
+<http://id.agrisemantics.org/gacs/G_JA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_JV> .
+<http://id.agrisemantics.org/gacs/G_JA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_JA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_JA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_JA> <http://www.w3.org/2004/02/skos/core#notation> "JA" .
+<http://id.agrisemantics.org/gacs/G_JA> <http://www.w3.org/2004/02/skos/core#prefLabel> "CIENCIAS DE LA TIERRA"@es .
+<http://id.agrisemantics.org/gacs/G_JA> <http://www.w3.org/2004/02/skos/core#prefLabel> "CI\u00CANCIAS DA TERRA"@pt .
+<http://id.agrisemantics.org/gacs/G_JA> <http://www.w3.org/2004/02/skos/core#prefLabel> "EARTH SCIENCES"@en .
+<http://id.agrisemantics.org/gacs/G_JC> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_JA> .
+<http://id.agrisemantics.org/gacs/G_JC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_JC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_JC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_JC> <http://www.w3.org/2004/02/skos/core#notation> "JC" .
+<http://id.agrisemantics.org/gacs/G_JC> <http://www.w3.org/2004/02/skos/core#prefLabel> "geologia"@pt .
+<http://id.agrisemantics.org/gacs/G_JC> <http://www.w3.org/2004/02/skos/core#prefLabel> "geolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_JC> <http://www.w3.org/2004/02/skos/core#prefLabel> "geology"@en .
+<http://id.agrisemantics.org/gacs/G_JF> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_JA> .
+<http://id.agrisemantics.org/gacs/G_JF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_JF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_JF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_JF> <http://www.w3.org/2004/02/skos/core#notation> "JF" .
+<http://id.agrisemantics.org/gacs/G_JF> <http://www.w3.org/2004/02/skos/core#prefLabel> "geomorfologia"@pt .
+<http://id.agrisemantics.org/gacs/G_JF> <http://www.w3.org/2004/02/skos/core#prefLabel> "geomorfolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_JF> <http://www.w3.org/2004/02/skos/core#prefLabel> "geomorphology"@en .
+<http://id.agrisemantics.org/gacs/G_JJ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_JA> .
+<http://id.agrisemantics.org/gacs/G_JJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_JJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_JJ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_JJ> <http://www.w3.org/2004/02/skos/core#notation> "JJ" .
+<http://id.agrisemantics.org/gacs/G_JJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciencia del suelo"@es .
+<http://id.agrisemantics.org/gacs/G_JJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "ci\u00EAncia do solo"@pt .
+<http://id.agrisemantics.org/gacs/G_JJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil science"@en .
+<http://id.agrisemantics.org/gacs/G_JM> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_JA> .
+<http://id.agrisemantics.org/gacs/G_JM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_JM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_JM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_JM> <http://www.w3.org/2004/02/skos/core#notation> "JM" .
+<http://id.agrisemantics.org/gacs/G_JM> <http://www.w3.org/2004/02/skos/core#prefLabel> "hidrologia"@pt .
+<http://id.agrisemantics.org/gacs/G_JM> <http://www.w3.org/2004/02/skos/core#prefLabel> "hidrolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_JM> <http://www.w3.org/2004/02/skos/core#prefLabel> "hydrology"@en .
+<http://id.agrisemantics.org/gacs/G_JP> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_JA> .
+<http://id.agrisemantics.org/gacs/G_JP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_JP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_JP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_JP> <http://www.w3.org/2004/02/skos/core#notation> "JP" .
+<http://id.agrisemantics.org/gacs/G_JP> <http://www.w3.org/2004/02/skos/core#prefLabel> "oceanografia"@pt .
+<http://id.agrisemantics.org/gacs/G_JP> <http://www.w3.org/2004/02/skos/core#prefLabel> "oceanography"@en .
+<http://id.agrisemantics.org/gacs/G_JP> <http://www.w3.org/2004/02/skos/core#prefLabel> "oceanolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_JS> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_JA> .
+<http://id.agrisemantics.org/gacs/G_JS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_JS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_JS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_JS> <http://www.w3.org/2004/02/skos/core#notation> "JS" .
+<http://id.agrisemantics.org/gacs/G_JS> <http://www.w3.org/2004/02/skos/core#prefLabel> "meteorologia e climatologia"@pt .
+<http://id.agrisemantics.org/gacs/G_JS> <http://www.w3.org/2004/02/skos/core#prefLabel> "meteorolog\u00EDa y climatolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_JS> <http://www.w3.org/2004/02/skos/core#prefLabel> "meteorology and climatology"@en .
+<http://id.agrisemantics.org/gacs/G_JV> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_JA> .
+<http://id.agrisemantics.org/gacs/G_JV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_JV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_JV> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_JV> <http://www.w3.org/2004/02/skos/core#notation> "JV" .
+<http://id.agrisemantics.org/gacs/G_JV> <http://www.w3.org/2004/02/skos/core#prefLabel> "geografia"@pt .
+<http://id.agrisemantics.org/gacs/G_JV> <http://www.w3.org/2004/02/skos/core#prefLabel> "geograf\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_JV> <http://www.w3.org/2004/02/skos/core#prefLabel> "geography"@en .
+<http://id.agrisemantics.org/gacs/G_LA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_MA> .
+<http://id.agrisemantics.org/gacs/G_LA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_MN> .
+<http://id.agrisemantics.org/gacs/G_LA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_NA> .
+<http://id.agrisemantics.org/gacs/G_LA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LA> <http://www.w3.org/2004/02/skos/core#notation> "LA" .
+<http://id.agrisemantics.org/gacs/G_LA> <http://www.w3.org/2004/02/skos/core#prefLabel> "CIENCIAS DE LA VIDA"@es .
+<http://id.agrisemantics.org/gacs/G_LA> <http://www.w3.org/2004/02/skos/core#prefLabel> "CI\u00CANCIAS BIOL\u00D3GICAS"@pt .
+<http://id.agrisemantics.org/gacs/G_LA> <http://www.w3.org/2004/02/skos/core#prefLabel> "LIFE SCIENCES"@en .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LE> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LF> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LG> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LH> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LI> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LJ> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LK> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LM> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LN> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LP> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LQ> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LR> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LS> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LT> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LU> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LV> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LW> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_LX> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LA> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LC> <http://www.w3.org/2004/02/skos/core#notation> "LC" .
+<http://id.agrisemantics.org/gacs/G_LC> <http://www.w3.org/2004/02/skos/core#prefLabel> "biologia"@pt .
+<http://id.agrisemantics.org/gacs/G_LC> <http://www.w3.org/2004/02/skos/core#prefLabel> "biolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_LC> <http://www.w3.org/2004/02/skos/core#prefLabel> "biology"@en .
+<http://id.agrisemantics.org/gacs/G_LE> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LE> <http://www.w3.org/2004/02/skos/core#notation> "LE" .
+<http://id.agrisemantics.org/gacs/G_LE> <http://www.w3.org/2004/02/skos/core#prefLabel> "microbiologia"@pt .
+<http://id.agrisemantics.org/gacs/G_LE> <http://www.w3.org/2004/02/skos/core#prefLabel> "microbiolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_LE> <http://www.w3.org/2004/02/skos/core#prefLabel> "microbiology"@en .
+<http://id.agrisemantics.org/gacs/G_LF> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LF> <http://www.w3.org/2004/02/skos/core#notation> "LF" .
+<http://id.agrisemantics.org/gacs/G_LF> <http://www.w3.org/2004/02/skos/core#prefLabel> "micologia"@pt .
+<http://id.agrisemantics.org/gacs/G_LF> <http://www.w3.org/2004/02/skos/core#prefLabel> "micolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_LF> <http://www.w3.org/2004/02/skos/core#prefLabel> "mycology"@en .
+<http://id.agrisemantics.org/gacs/G_LG> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LG> <http://www.w3.org/2004/02/skos/core#notation> "LG" .
+<http://id.agrisemantics.org/gacs/G_LG> <http://www.w3.org/2004/02/skos/core#prefLabel> "botany"@en .
+<http://id.agrisemantics.org/gacs/G_LG> <http://www.w3.org/2004/02/skos/core#prefLabel> "bot\u00E1nica"@es .
+<http://id.agrisemantics.org/gacs/G_LG> <http://www.w3.org/2004/02/skos/core#prefLabel> "bot\u00E2nica"@pt .
+<http://id.agrisemantics.org/gacs/G_LH> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LH> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LH> <http://www.w3.org/2004/02/skos/core#notation> "LH" .
+<http://id.agrisemantics.org/gacs/G_LH> <http://www.w3.org/2004/02/skos/core#prefLabel> "zoologia"@pt .
+<http://id.agrisemantics.org/gacs/G_LH> <http://www.w3.org/2004/02/skos/core#prefLabel> "zoolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_LH> <http://www.w3.org/2004/02/skos/core#prefLabel> "zoology"@en .
+<http://id.agrisemantics.org/gacs/G_LI> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LI> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LI> <http://www.w3.org/2004/02/skos/core#notation> "LI" .
+<http://id.agrisemantics.org/gacs/G_LI> <http://www.w3.org/2004/02/skos/core#prefLabel> "citologia"@pt .
+<http://id.agrisemantics.org/gacs/G_LI> <http://www.w3.org/2004/02/skos/core#prefLabel> "citolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_LI> <http://www.w3.org/2004/02/skos/core#prefLabel> "cytology"@en .
+<http://id.agrisemantics.org/gacs/G_LJ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LJ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LJ> <http://www.w3.org/2004/02/skos/core#notation> "LJ" .
+<http://id.agrisemantics.org/gacs/G_LJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "embriologia"@pt .
+<http://id.agrisemantics.org/gacs/G_LJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "embriolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_LJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "embryology"@en .
+<http://id.agrisemantics.org/gacs/G_LK> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LK> <http://www.w3.org/2004/02/skos/core#notation> "LK" .
+<http://id.agrisemantics.org/gacs/G_LK> <http://www.w3.org/2004/02/skos/core#prefLabel> "biologia molecular"@pt .
+<http://id.agrisemantics.org/gacs/G_LK> <http://www.w3.org/2004/02/skos/core#prefLabel> "biolog\u00EDa molecular"@es .
+<http://id.agrisemantics.org/gacs/G_LK> <http://www.w3.org/2004/02/skos/core#prefLabel> "molecular biology"@en .
+<http://id.agrisemantics.org/gacs/G_LM> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LM> <http://www.w3.org/2004/02/skos/core#notation> "LM" .
+<http://id.agrisemantics.org/gacs/G_LM> <http://www.w3.org/2004/02/skos/core#prefLabel> "biologia aqu\u00E1tica"@pt .
+<http://id.agrisemantics.org/gacs/G_LM> <http://www.w3.org/2004/02/skos/core#prefLabel> "hidrobiolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_LM> <http://www.w3.org/2004/02/skos/core#prefLabel> "hydrobiology"@en .
+<http://id.agrisemantics.org/gacs/G_LN> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LN> <http://www.w3.org/2004/02/skos/core#notation> "LN" .
+<http://id.agrisemantics.org/gacs/G_LN> <http://www.w3.org/2004/02/skos/core#prefLabel> "limnologia"@pt .
+<http://id.agrisemantics.org/gacs/G_LN> <http://www.w3.org/2004/02/skos/core#prefLabel> "limnolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_LN> <http://www.w3.org/2004/02/skos/core#prefLabel> "limnology"@en .
+<http://id.agrisemantics.org/gacs/G_LP> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LP> <http://www.w3.org/2004/02/skos/core#notation> "LP" .
+<http://id.agrisemantics.org/gacs/G_LP> <http://www.w3.org/2004/02/skos/core#prefLabel> "palaeontology"@en .
+<http://id.agrisemantics.org/gacs/G_LP> <http://www.w3.org/2004/02/skos/core#prefLabel> "paleontologia"@pt .
+<http://id.agrisemantics.org/gacs/G_LP> <http://www.w3.org/2004/02/skos/core#prefLabel> "paleontolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_LQ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LQ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LQ> <http://www.w3.org/2004/02/skos/core#notation> "LQ" .
+<http://id.agrisemantics.org/gacs/G_LQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "biof\u00EDsica"@es .
+<http://id.agrisemantics.org/gacs/G_LQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "biof\u00EDsica"@pt .
+<http://id.agrisemantics.org/gacs/G_LQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "biophysics"@en .
+<http://id.agrisemantics.org/gacs/G_LR> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LR> <http://www.w3.org/2004/02/skos/core#notation> "LR" .
+<http://id.agrisemantics.org/gacs/G_LR> <http://www.w3.org/2004/02/skos/core#prefLabel> "biochemistry"@en .
+<http://id.agrisemantics.org/gacs/G_LR> <http://www.w3.org/2004/02/skos/core#prefLabel> "bioqu\u00EDmica"@es .
+<http://id.agrisemantics.org/gacs/G_LR> <http://www.w3.org/2004/02/skos/core#prefLabel> "bioqu\u00EDmica"@pt .
+<http://id.agrisemantics.org/gacs/G_LS> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LS> <http://www.w3.org/2004/02/skos/core#notation> "LS" .
+<http://id.agrisemantics.org/gacs/G_LS> <http://www.w3.org/2004/02/skos/core#prefLabel> "fisiologia"@pt .
+<http://id.agrisemantics.org/gacs/G_LS> <http://www.w3.org/2004/02/skos/core#prefLabel> "fisiolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_LS> <http://www.w3.org/2004/02/skos/core#prefLabel> "physiology"@en .
+<http://id.agrisemantics.org/gacs/G_LT> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LT> <http://www.w3.org/2004/02/skos/core#notation> "LT" .
+<http://id.agrisemantics.org/gacs/G_LT> <http://www.w3.org/2004/02/skos/core#prefLabel> "genetics"@en .
+<http://id.agrisemantics.org/gacs/G_LT> <http://www.w3.org/2004/02/skos/core#prefLabel> "gen\u00E9tica"@es .
+<http://id.agrisemantics.org/gacs/G_LT> <http://www.w3.org/2004/02/skos/core#prefLabel> "gen\u00E9tica"@pt .
+<http://id.agrisemantics.org/gacs/G_LU> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LU> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LU> <http://www.w3.org/2004/02/skos/core#notation> "LU" .
+<http://id.agrisemantics.org/gacs/G_LU> <http://www.w3.org/2004/02/skos/core#prefLabel> "evoluci\u00F3n"@es .
+<http://id.agrisemantics.org/gacs/G_LU> <http://www.w3.org/2004/02/skos/core#prefLabel> "evolution"@en .
+<http://id.agrisemantics.org/gacs/G_LU> <http://www.w3.org/2004/02/skos/core#prefLabel> "evolu\u00E7\u00E3o"@pt .
+<http://id.agrisemantics.org/gacs/G_LV> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LV> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LV> <http://www.w3.org/2004/02/skos/core#notation> "LV" .
+<http://id.agrisemantics.org/gacs/G_LV> <http://www.w3.org/2004/02/skos/core#prefLabel> "biological structure and form"@en .
+<http://id.agrisemantics.org/gacs/G_LV> <http://www.w3.org/2004/02/skos/core#prefLabel> "estructura biol\u00F3gica y forma"@es .
+<http://id.agrisemantics.org/gacs/G_LV> <http://www.w3.org/2004/02/skos/core#prefLabel> "estrutura e forma biol\u00F3gica"@pt .
+<http://id.agrisemantics.org/gacs/G_LW> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LW> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LW> <http://www.w3.org/2004/02/skos/core#notation> "LW" .
+<http://id.agrisemantics.org/gacs/G_LW> <http://www.w3.org/2004/02/skos/core#prefLabel> "taxonomia"@pt .
+<http://id.agrisemantics.org/gacs/G_LW> <http://www.w3.org/2004/02/skos/core#prefLabel> "taxonom\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_LW> <http://www.w3.org/2004/02/skos/core#prefLabel> "taxonomy"@en .
+<http://id.agrisemantics.org/gacs/G_LX> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LC> .
+<http://id.agrisemantics.org/gacs/G_LX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_LX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_LX> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_LX> <http://www.w3.org/2004/02/skos/core#notation> "LX" .
+<http://id.agrisemantics.org/gacs/G_LX> <http://www.w3.org/2004/02/skos/core#prefLabel> "historia natural"@es .
+<http://id.agrisemantics.org/gacs/G_LX> <http://www.w3.org/2004/02/skos/core#prefLabel> "hist\u00F3ria natural"@pt .
+<http://id.agrisemantics.org/gacs/G_LX> <http://www.w3.org/2004/02/skos/core#prefLabel> "natural history"@en .
+<http://id.agrisemantics.org/gacs/G_MA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_MC> .
+<http://id.agrisemantics.org/gacs/G_MA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_MD> .
+<http://id.agrisemantics.org/gacs/G_MA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_MG> .
+<http://id.agrisemantics.org/gacs/G_MA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_MJ> .
+<http://id.agrisemantics.org/gacs/G_MA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_MK> .
+<http://id.agrisemantics.org/gacs/G_MA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_ML> .
+<http://id.agrisemantics.org/gacs/G_MA> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LA> .
+<http://id.agrisemantics.org/gacs/G_MA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_MA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_MA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_MA> <http://www.w3.org/2004/02/skos/core#notation> "MA" .
+<http://id.agrisemantics.org/gacs/G_MA> <http://www.w3.org/2004/02/skos/core#prefLabel> "ecologia"@pt .
+<http://id.agrisemantics.org/gacs/G_MA> <http://www.w3.org/2004/02/skos/core#prefLabel> "ecolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_MA> <http://www.w3.org/2004/02/skos/core#prefLabel> "ecology"@en .
+<http://id.agrisemantics.org/gacs/G_MC> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_MA> .
+<http://id.agrisemantics.org/gacs/G_MC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_MC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_MC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_MC> <http://www.w3.org/2004/02/skos/core#notation> "MC" .
+<http://id.agrisemantics.org/gacs/G_MC> <http://www.w3.org/2004/02/skos/core#prefLabel> "ecologia por disciplina"@pt .
+<http://id.agrisemantics.org/gacs/G_MC> <http://www.w3.org/2004/02/skos/core#prefLabel> "ecolog\u00EDa por disciplina"@es .
+<http://id.agrisemantics.org/gacs/G_MC> <http://www.w3.org/2004/02/skos/core#prefLabel> "ecology by discipline"@en .
+<http://id.agrisemantics.org/gacs/G_MD> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_MA> .
+<http://id.agrisemantics.org/gacs/G_MD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_MD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_MD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_MD> <http://www.w3.org/2004/02/skos/core#notation> "MD" .
+<http://id.agrisemantics.org/gacs/G_MD> <http://www.w3.org/2004/02/skos/core#prefLabel> "biogeografia"@pt .
+<http://id.agrisemantics.org/gacs/G_MD> <http://www.w3.org/2004/02/skos/core#prefLabel> "biogeograf\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_MD> <http://www.w3.org/2004/02/skos/core#prefLabel> "biogeography"@en .
+<http://id.agrisemantics.org/gacs/G_MG> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_MA> .
+<http://id.agrisemantics.org/gacs/G_MG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_MG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_MG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_MG> <http://www.w3.org/2004/02/skos/core#notation> "MG" .
+<http://id.agrisemantics.org/gacs/G_MG> <http://www.w3.org/2004/02/skos/core#prefLabel> "ecological processes and phenomena"@en .
+<http://id.agrisemantics.org/gacs/G_MG> <http://www.w3.org/2004/02/skos/core#prefLabel> "procesos ecol\u00F3gicos y fen\u00F3menos"@es .
+<http://id.agrisemantics.org/gacs/G_MG> <http://www.w3.org/2004/02/skos/core#prefLabel> "processos e fen\u00F4menos ecol\u00F3gicos"@pt .
+<http://id.agrisemantics.org/gacs/G_MJ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_MA> .
+<http://id.agrisemantics.org/gacs/G_MJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_MJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_MJ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_MJ> <http://www.w3.org/2004/02/skos/core#notation> "MJ" .
+<http://id.agrisemantics.org/gacs/G_MJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "levels of ecological organization"@en .
+<http://id.agrisemantics.org/gacs/G_MJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "niveles de organizaci\u00F3n ecol\u00F3gica"@es .
+<http://id.agrisemantics.org/gacs/G_MJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "n\u00EDveis de organiza\u00E7\u00E3o ecol\u00F3gica"@pt .
+<http://id.agrisemantics.org/gacs/G_MK> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_MA> .
+<http://id.agrisemantics.org/gacs/G_MK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_MK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_MK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_MK> <http://www.w3.org/2004/02/skos/core#notation> "MK" .
+<http://id.agrisemantics.org/gacs/G_MK> <http://www.w3.org/2004/02/skos/core#prefLabel> "ambientes y h\u00E1bitats"@es .
+<http://id.agrisemantics.org/gacs/G_MK> <http://www.w3.org/2004/02/skos/core#prefLabel> "environments and habitats"@en .
+<http://id.agrisemantics.org/gacs/G_MK> <http://www.w3.org/2004/02/skos/core#prefLabel> "meio ambiente e habitats"@pt .
+<http://id.agrisemantics.org/gacs/G_ML> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_MA> .
+<http://id.agrisemantics.org/gacs/G_ML> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_ML> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_ML> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_ML> <http://www.w3.org/2004/02/skos/core#notation> "ML" .
+<http://id.agrisemantics.org/gacs/G_ML> <http://www.w3.org/2004/02/skos/core#prefLabel> "environmental factors"@en .
+<http://id.agrisemantics.org/gacs/G_ML> <http://www.w3.org/2004/02/skos/core#prefLabel> "factores ambientales"@es .
+<http://id.agrisemantics.org/gacs/G_ML> <http://www.w3.org/2004/02/skos/core#prefLabel> "fatores ambientais"@pt .
+<http://id.agrisemantics.org/gacs/G_MN> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_MS> .
+<http://id.agrisemantics.org/gacs/G_MN> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_MV> .
+<http://id.agrisemantics.org/gacs/G_MN> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LA> .
+<http://id.agrisemantics.org/gacs/G_MN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_MN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_MN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_MN> <http://www.w3.org/2004/02/skos/core#notation> "MN" .
+<http://id.agrisemantics.org/gacs/G_MN> <http://www.w3.org/2004/02/skos/core#prefLabel> "behaviour and psychology"@en .
+<http://id.agrisemantics.org/gacs/G_MN> <http://www.w3.org/2004/02/skos/core#prefLabel> "comportamento e psicologia"@pt .
+<http://id.agrisemantics.org/gacs/G_MN> <http://www.w3.org/2004/02/skos/core#prefLabel> "comportamiento y psicolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_MS> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_MN> .
+<http://id.agrisemantics.org/gacs/G_MS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_MS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_MS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_MS> <http://www.w3.org/2004/02/skos/core#notation> "MS" .
+<http://id.agrisemantics.org/gacs/G_MS> <http://www.w3.org/2004/02/skos/core#prefLabel> "behaviour"@en .
+<http://id.agrisemantics.org/gacs/G_MS> <http://www.w3.org/2004/02/skos/core#prefLabel> "comportamento"@pt .
+<http://id.agrisemantics.org/gacs/G_MS> <http://www.w3.org/2004/02/skos/core#prefLabel> "conducta"@es .
+<http://id.agrisemantics.org/gacs/G_MV> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_MN> .
+<http://id.agrisemantics.org/gacs/G_MV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_MV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_MV> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_MV> <http://www.w3.org/2004/02/skos/core#notation> "MV" .
+<http://id.agrisemantics.org/gacs/G_MV> <http://www.w3.org/2004/02/skos/core#prefLabel> "psicologia"@pt .
+<http://id.agrisemantics.org/gacs/G_MV> <http://www.w3.org/2004/02/skos/core#prefLabel> "psicolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_MV> <http://www.w3.org/2004/02/skos/core#prefLabel> "psychology"@en .
+<http://id.agrisemantics.org/gacs/G_NA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_NC> .
+<http://id.agrisemantics.org/gacs/G_NA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_NE> .
+<http://id.agrisemantics.org/gacs/G_NA> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_LA> .
+<http://id.agrisemantics.org/gacs/G_NA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_NA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_NA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_NA> <http://www.w3.org/2004/02/skos/core#notation> "NA" .
+<http://id.agrisemantics.org/gacs/G_NA> <http://www.w3.org/2004/02/skos/core#prefLabel> "organismos"@es .
+<http://id.agrisemantics.org/gacs/G_NA> <http://www.w3.org/2004/02/skos/core#prefLabel> "organismos"@pt .
+<http://id.agrisemantics.org/gacs/G_NA> <http://www.w3.org/2004/02/skos/core#prefLabel> "organisms"@en .
+<http://id.agrisemantics.org/gacs/G_NC> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_NA> .
+<http://id.agrisemantics.org/gacs/G_NC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_NC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_NC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_NC> <http://www.w3.org/2004/02/skos/core#notation> "NC" .
+<http://id.agrisemantics.org/gacs/G_NC> <http://www.w3.org/2004/02/skos/core#prefLabel> "organismos, por grupos no taxon\u00F3micos"@es .
+<http://id.agrisemantics.org/gacs/G_NC> <http://www.w3.org/2004/02/skos/core#prefLabel> "organismos por grupos n\u00E3o-taxon\u00F4micos"@pt .
+<http://id.agrisemantics.org/gacs/G_NC> <http://www.w3.org/2004/02/skos/core#prefLabel> "organisms, by non-taxonomic groups"@en .
+<http://id.agrisemantics.org/gacs/G_NE> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_NH> .
+<http://id.agrisemantics.org/gacs/G_NE> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_NK> .
+<http://id.agrisemantics.org/gacs/G_NE> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_NN> .
+<http://id.agrisemantics.org/gacs/G_NE> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_NQ> .
+<http://id.agrisemantics.org/gacs/G_NE> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_NT> .
+<http://id.agrisemantics.org/gacs/G_NE> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_NW> .
+<http://id.agrisemantics.org/gacs/G_NE> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_NY> .
+<http://id.agrisemantics.org/gacs/G_NE> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_NZ> .
+<http://id.agrisemantics.org/gacs/G_NE> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_NA> .
+<http://id.agrisemantics.org/gacs/G_NE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_NE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_NE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_NE> <http://www.w3.org/2004/02/skos/core#notation> "NE" .
+<http://id.agrisemantics.org/gacs/G_NE> <http://www.w3.org/2004/02/skos/core#prefLabel> "organismos agrupados taxonomicamente"@pt .
+<http://id.agrisemantics.org/gacs/G_NE> <http://www.w3.org/2004/02/skos/core#prefLabel> "organismos organizados taxon\u00F3micamente"@es .
+<http://id.agrisemantics.org/gacs/G_NE> <http://www.w3.org/2004/02/skos/core#prefLabel> "organisms, taxonomically arranged"@en .
+<http://id.agrisemantics.org/gacs/G_NH> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_NE> .
+<http://id.agrisemantics.org/gacs/G_NH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_NH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_NH> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_NH> <http://www.w3.org/2004/02/skos/core#notation> "NH" .
+<http://id.agrisemantics.org/gacs/G_NH> <http://www.w3.org/2004/02/skos/core#prefLabel> "priones"@es .
+<http://id.agrisemantics.org/gacs/G_NH> <http://www.w3.org/2004/02/skos/core#prefLabel> "prions"@en .
+<http://id.agrisemantics.org/gacs/G_NH> <http://www.w3.org/2004/02/skos/core#prefLabel> "prions"@pt .
+<http://id.agrisemantics.org/gacs/G_NK> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_NE> .
+<http://id.agrisemantics.org/gacs/G_NK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_NK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_NK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_NK> <http://www.w3.org/2004/02/skos/core#notation> "NK" .
+<http://id.agrisemantics.org/gacs/G_NK> <http://www.w3.org/2004/02/skos/core#prefLabel> "virus"@es .
+<http://id.agrisemantics.org/gacs/G_NK> <http://www.w3.org/2004/02/skos/core#prefLabel> "viruses"@en .
+<http://id.agrisemantics.org/gacs/G_NK> <http://www.w3.org/2004/02/skos/core#prefLabel> "v\u00EDrus"@pt .
+<http://id.agrisemantics.org/gacs/G_NN> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_NE> .
+<http://id.agrisemantics.org/gacs/G_NN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_NN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_NN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_NN> <http://www.w3.org/2004/02/skos/core#notation> "NN" .
+<http://id.agrisemantics.org/gacs/G_NN> <http://www.w3.org/2004/02/skos/core#prefLabel> "procariotes"@es .
+<http://id.agrisemantics.org/gacs/G_NN> <http://www.w3.org/2004/02/skos/core#prefLabel> "procariotes"@pt .
+<http://id.agrisemantics.org/gacs/G_NN> <http://www.w3.org/2004/02/skos/core#prefLabel> "prokaryotes"@en .
+<http://id.agrisemantics.org/gacs/G_NQ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_NE> .
+<http://id.agrisemantics.org/gacs/G_NQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_NQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_NQ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_NQ> <http://www.w3.org/2004/02/skos/core#notation> "NQ" .
+<http://id.agrisemantics.org/gacs/G_NQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "fungi"@en .
+<http://id.agrisemantics.org/gacs/G_NQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "fungi"@pt .
+<http://id.agrisemantics.org/gacs/G_NQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "hongos"@es .
+<http://id.agrisemantics.org/gacs/G_NT> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_NE> .
+<http://id.agrisemantics.org/gacs/G_NT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_NT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_NT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_NT> <http://www.w3.org/2004/02/skos/core#notation> "NT" .
+<http://id.agrisemantics.org/gacs/G_NT> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantas"@es .
+<http://id.agrisemantics.org/gacs/G_NT> <http://www.w3.org/2004/02/skos/core#prefLabel> "plantas"@pt .
+<http://id.agrisemantics.org/gacs/G_NT> <http://www.w3.org/2004/02/skos/core#prefLabel> "plants"@en .
+<http://id.agrisemantics.org/gacs/G_NW> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_NE> .
+<http://id.agrisemantics.org/gacs/G_NW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_NW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_NW> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_NW> <http://www.w3.org/2004/02/skos/core#notation> "NW" .
+<http://id.agrisemantics.org/gacs/G_NW> <http://www.w3.org/2004/02/skos/core#prefLabel> "animais"@pt .
+<http://id.agrisemantics.org/gacs/G_NW> <http://www.w3.org/2004/02/skos/core#prefLabel> "animales"@es .
+<http://id.agrisemantics.org/gacs/G_NW> <http://www.w3.org/2004/02/skos/core#prefLabel> "animals"@en .
+<http://id.agrisemantics.org/gacs/G_NY> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_NE> .
+<http://id.agrisemantics.org/gacs/G_NY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_NY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_NY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_NY> <http://www.w3.org/2004/02/skos/core#notation> "NY" .
+<http://id.agrisemantics.org/gacs/G_NY> <http://www.w3.org/2004/02/skos/core#prefLabel> "organismos de taxonomia incerta"@pt .
+<http://id.agrisemantics.org/gacs/G_NY> <http://www.w3.org/2004/02/skos/core#prefLabel> "organisms of uncertain taxonomy"@en .
+<http://id.agrisemantics.org/gacs/G_NY> <http://www.w3.org/2004/02/skos/core#prefLabel> "organisms of uncertain taxonomy"@es .
+<http://id.agrisemantics.org/gacs/G_NZ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_NE> .
+<http://id.agrisemantics.org/gacs/G_NZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_NZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_NZ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_NZ> <http://www.w3.org/2004/02/skos/core#notation> "NZ" .
+<http://id.agrisemantics.org/gacs/G_NZ> <http://www.w3.org/2004/02/skos/core#prefLabel> "organismos por esquemas taxon\u00F4micos alternativos"@pt .
+<http://id.agrisemantics.org/gacs/G_NZ> <http://www.w3.org/2004/02/skos/core#prefLabel> "organisms by alternative taxonomic schemes"@en .
+<http://id.agrisemantics.org/gacs/G_NZ> <http://www.w3.org/2004/02/skos/core#prefLabel> "organisms by alternative taxonomic schemes"@es .
+<http://id.agrisemantics.org/gacs/G_PA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PC> .
+<http://id.agrisemantics.org/gacs/G_PA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PU> .
+<http://id.agrisemantics.org/gacs/G_PA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SA> .
+<http://id.agrisemantics.org/gacs/G_PA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SJ> .
+<http://id.agrisemantics.org/gacs/G_PA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TA> .
+<http://id.agrisemantics.org/gacs/G_PA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TJ> .
+<http://id.agrisemantics.org/gacs/G_PA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PA> <http://www.w3.org/2004/02/skos/core#notation> "PA" .
+<http://id.agrisemantics.org/gacs/G_PA> <http://www.w3.org/2004/02/skos/core#prefLabel> "APPLIED SCIENCE AND TECHNOLOGY"@en .
+<http://id.agrisemantics.org/gacs/G_PA> <http://www.w3.org/2004/02/skos/core#prefLabel> "CIENCIAS APLICADAS Y TECNOLOG\u00CDA"@es .
+<http://id.agrisemantics.org/gacs/G_PA> <http://www.w3.org/2004/02/skos/core#prefLabel> "CI\u00CANCIA E TECNOLOGIA APLICADAS"@pt .
+<http://id.agrisemantics.org/gacs/G_PC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PD> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PE> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PF> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PG> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PH> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PK> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PL> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PM> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PQ> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PR> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PS> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PA> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PC> <http://www.w3.org/2004/02/skos/core#notation> "PC" .
+<http://id.agrisemantics.org/gacs/G_PC> <http://www.w3.org/2004/02/skos/core#prefLabel> "health and pathology"@en .
+<http://id.agrisemantics.org/gacs/G_PC> <http://www.w3.org/2004/02/skos/core#prefLabel> "salud y patolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_PC> <http://www.w3.org/2004/02/skos/core#prefLabel> "sa\u00FAde e patologia"@pt .
+<http://id.agrisemantics.org/gacs/G_PD> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PC> .
+<http://id.agrisemantics.org/gacs/G_PD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PD> <http://www.w3.org/2004/02/skos/core#notation> "PD" .
+<http://id.agrisemantics.org/gacs/G_PD> <http://www.w3.org/2004/02/skos/core#prefLabel> "health and pathology by discipline"@en .
+<http://id.agrisemantics.org/gacs/G_PD> <http://www.w3.org/2004/02/skos/core#prefLabel> "salud y patolog\u00EDa por disciplinas"@es .
+<http://id.agrisemantics.org/gacs/G_PD> <http://www.w3.org/2004/02/skos/core#prefLabel> "sa\u00FAde e patologia por disciplina"@pt .
+<http://id.agrisemantics.org/gacs/G_PE> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PC> .
+<http://id.agrisemantics.org/gacs/G_PE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PE> <http://www.w3.org/2004/02/skos/core#notation> "PE" .
+<http://id.agrisemantics.org/gacs/G_PE> <http://www.w3.org/2004/02/skos/core#prefLabel> "health and pathology institutions"@en .
+<http://id.agrisemantics.org/gacs/G_PE> <http://www.w3.org/2004/02/skos/core#prefLabel> "instituciones de salud"@es .
+<http://id.agrisemantics.org/gacs/G_PE> <http://www.w3.org/2004/02/skos/core#prefLabel> "institui\u00E7\u00F5es de sa\u00FAde e patologia"@pt .
+<http://id.agrisemantics.org/gacs/G_PF> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PC> .
+<http://id.agrisemantics.org/gacs/G_PF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PF> <http://www.w3.org/2004/02/skos/core#notation> "PF" .
+<http://id.agrisemantics.org/gacs/G_PF> <http://www.w3.org/2004/02/skos/core#prefLabel> "diseases"@en .
+<http://id.agrisemantics.org/gacs/G_PF> <http://www.w3.org/2004/02/skos/core#prefLabel> "doen\u00E7as"@pt .
+<http://id.agrisemantics.org/gacs/G_PF> <http://www.w3.org/2004/02/skos/core#prefLabel> "enfermedades"@es .
+<http://id.agrisemantics.org/gacs/G_PG> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PC> .
+<http://id.agrisemantics.org/gacs/G_PG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PG> <http://www.w3.org/2004/02/skos/core#notation> "PG" .
+<http://id.agrisemantics.org/gacs/G_PG> <http://www.w3.org/2004/02/skos/core#prefLabel> "health hazards"@en .
+<http://id.agrisemantics.org/gacs/G_PG> <http://www.w3.org/2004/02/skos/core#prefLabel> "peligro para la salud"@es .
+<http://id.agrisemantics.org/gacs/G_PG> <http://www.w3.org/2004/02/skos/core#prefLabel> "riscos da sa\u00FAde"@pt .
+<http://id.agrisemantics.org/gacs/G_PH> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PC> .
+<http://id.agrisemantics.org/gacs/G_PH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PH> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PH> <http://www.w3.org/2004/02/skos/core#notation> "PH" .
+<http://id.agrisemantics.org/gacs/G_PH> <http://www.w3.org/2004/02/skos/core#prefLabel> "pathogenesis"@en .
+<http://id.agrisemantics.org/gacs/G_PH> <http://www.w3.org/2004/02/skos/core#prefLabel> "patog\u00E9nesis"@es .
+<http://id.agrisemantics.org/gacs/G_PH> <http://www.w3.org/2004/02/skos/core#prefLabel> "patog\u00EAnese"@pt .
+<http://id.agrisemantics.org/gacs/G_PK> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PC> .
+<http://id.agrisemantics.org/gacs/G_PK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PK> <http://www.w3.org/2004/02/skos/core#notation> "PK" .
+<http://id.agrisemantics.org/gacs/G_PK> <http://www.w3.org/2004/02/skos/core#prefLabel> "host resistance and properties of pathogens and pests"@en .
+<http://id.agrisemantics.org/gacs/G_PK> <http://www.w3.org/2004/02/skos/core#prefLabel> "resistencia del hospedante y propiedades de pat\u00F3genos y plagas"@es .
+<http://id.agrisemantics.org/gacs/G_PK> <http://www.w3.org/2004/02/skos/core#prefLabel> "resist\u00EAncia a hospedeiro e propriedades de pat\u00F3genos e pragas"@pt .
+<http://id.agrisemantics.org/gacs/G_PL> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PC> .
+<http://id.agrisemantics.org/gacs/G_PL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PL> <http://www.w3.org/2004/02/skos/core#notation> "PL" .
+<http://id.agrisemantics.org/gacs/G_PL> <http://www.w3.org/2004/02/skos/core#prefLabel> "diagnosis and diagnostic techniques"@en .
+<http://id.agrisemantics.org/gacs/G_PL> <http://www.w3.org/2004/02/skos/core#prefLabel> "diagn\u00F3stico e t\u00E9cnicas de diagn\u00F3stico"@pt .
+<http://id.agrisemantics.org/gacs/G_PL> <http://www.w3.org/2004/02/skos/core#prefLabel> "diagn\u00F3stico y t\u00E9cnicas de diagn\u00F3stico"@es .
+<http://id.agrisemantics.org/gacs/G_PM> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PC> .
+<http://id.agrisemantics.org/gacs/G_PM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PM> <http://www.w3.org/2004/02/skos/core#notation> "PM" .
+<http://id.agrisemantics.org/gacs/G_PM> <http://www.w3.org/2004/02/skos/core#prefLabel> "epidemiologia"@pt .
+<http://id.agrisemantics.org/gacs/G_PM> <http://www.w3.org/2004/02/skos/core#prefLabel> "epidemiolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_PM> <http://www.w3.org/2004/02/skos/core#prefLabel> "epidemiology"@en .
+<http://id.agrisemantics.org/gacs/G_PQ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PC> .
+<http://id.agrisemantics.org/gacs/G_PQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PQ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PQ> <http://www.w3.org/2004/02/skos/core#notation> "PQ" .
+<http://id.agrisemantics.org/gacs/G_PQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "health"@en .
+<http://id.agrisemantics.org/gacs/G_PQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "salud"@es .
+<http://id.agrisemantics.org/gacs/G_PQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "sa\u00FAde"@pt .
+<http://id.agrisemantics.org/gacs/G_PR> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PC> .
+<http://id.agrisemantics.org/gacs/G_PR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PR> <http://www.w3.org/2004/02/skos/core#notation> "PR" .
+<http://id.agrisemantics.org/gacs/G_PR> <http://www.w3.org/2004/02/skos/core#prefLabel> "health protection"@en .
+<http://id.agrisemantics.org/gacs/G_PR> <http://www.w3.org/2004/02/skos/core#prefLabel> "protecci\u00F3n de la salud"@es .
+<http://id.agrisemantics.org/gacs/G_PR> <http://www.w3.org/2004/02/skos/core#prefLabel> "prote\u00E7\u00E3o \u00E0 sa\u00FAde"@pt .
+<http://id.agrisemantics.org/gacs/G_PS> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PC> .
+<http://id.agrisemantics.org/gacs/G_PS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PS> <http://www.w3.org/2004/02/skos/core#notation> "PS" .
+<http://id.agrisemantics.org/gacs/G_PS> <http://www.w3.org/2004/02/skos/core#prefLabel> "farmacologia e toxicologia"@pt .
+<http://id.agrisemantics.org/gacs/G_PS> <http://www.w3.org/2004/02/skos/core#prefLabel> "farmacolog\u00EDa y toxicolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_PS> <http://www.w3.org/2004/02/skos/core#prefLabel> "pharmacology and toxicology"@en .
+<http://id.agrisemantics.org/gacs/G_PU> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PW> .
+<http://id.agrisemantics.org/gacs/G_PU> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_PY> .
+<http://id.agrisemantics.org/gacs/G_PU> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PA> .
+<http://id.agrisemantics.org/gacs/G_PU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PU> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PU> <http://www.w3.org/2004/02/skos/core#notation> "PU" .
+<http://id.agrisemantics.org/gacs/G_PU> <http://www.w3.org/2004/02/skos/core#prefLabel> "applied human and animal nutrition"@en .
+<http://id.agrisemantics.org/gacs/G_PU> <http://www.w3.org/2004/02/skos/core#prefLabel> "nutrici\u00F3n humana y animal aplicada"@es .
+<http://id.agrisemantics.org/gacs/G_PU> <http://www.w3.org/2004/02/skos/core#prefLabel> "nutri\u00E7\u00E3o humana e animal aplicada"@pt .
+<http://id.agrisemantics.org/gacs/G_PW> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PU> .
+<http://id.agrisemantics.org/gacs/G_PW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PW> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PW> <http://www.w3.org/2004/02/skos/core#notation> "PW" .
+<http://id.agrisemantics.org/gacs/G_PW> <http://www.w3.org/2004/02/skos/core#prefLabel> "caracter\u00EDsticas de los alimentos y piensos"@es .
+<http://id.agrisemantics.org/gacs/G_PW> <http://www.w3.org/2004/02/skos/core#prefLabel> "caracter\u00EDsticas dos alimentos"@pt .
+<http://id.agrisemantics.org/gacs/G_PW> <http://www.w3.org/2004/02/skos/core#prefLabel> "characteristics of foods and feeds"@en .
+<http://id.agrisemantics.org/gacs/G_PY> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PU> .
+<http://id.agrisemantics.org/gacs/G_PY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_PY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_PY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_PY> <http://www.w3.org/2004/02/skos/core#notation> "PY" .
+<http://id.agrisemantics.org/gacs/G_PY> <http://www.w3.org/2004/02/skos/core#prefLabel> "dieta e alimenta\u00E7\u00E3o"@pt .
+<http://id.agrisemantics.org/gacs/G_PY> <http://www.w3.org/2004/02/skos/core#prefLabel> "diet and feeding"@en .
+<http://id.agrisemantics.org/gacs/G_PY> <http://www.w3.org/2004/02/skos/core#prefLabel> "dieta y alimentaci\u00F3n"@es .
+<http://id.agrisemantics.org/gacs/G_SA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SC> .
+<http://id.agrisemantics.org/gacs/G_SA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SD> .
+<http://id.agrisemantics.org/gacs/G_SA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SE> .
+<http://id.agrisemantics.org/gacs/G_SA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SF> .
+<http://id.agrisemantics.org/gacs/G_SA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SG> .
+<http://id.agrisemantics.org/gacs/G_SA> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PA> .
+<http://id.agrisemantics.org/gacs/G_SA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SA> <http://www.w3.org/2004/02/skos/core#notation> "SA" .
+<http://id.agrisemantics.org/gacs/G_SA> <http://www.w3.org/2004/02/skos/core#prefLabel> "applied genetics and breeding"@en .
+<http://id.agrisemantics.org/gacs/G_SA> <http://www.w3.org/2004/02/skos/core#prefLabel> "gen\u00E9tica aplicada e melhoramento"@pt .
+<http://id.agrisemantics.org/gacs/G_SA> <http://www.w3.org/2004/02/skos/core#prefLabel> "gen\u00E9tica aplicada y mejoramiento"@es .
+<http://id.agrisemantics.org/gacs/G_SC> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SA> .
+<http://id.agrisemantics.org/gacs/G_SC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SC> <http://www.w3.org/2004/02/skos/core#notation> "SC" .
+<http://id.agrisemantics.org/gacs/G_SC> <http://www.w3.org/2004/02/skos/core#prefLabel> "genetic resources"@en .
+<http://id.agrisemantics.org/gacs/G_SC> <http://www.w3.org/2004/02/skos/core#prefLabel> "recursos gen\u00E9ticos"@es .
+<http://id.agrisemantics.org/gacs/G_SC> <http://www.w3.org/2004/02/skos/core#prefLabel> "recursos gen\u00E9ticos"@pt .
+<http://id.agrisemantics.org/gacs/G_SD> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SA> .
+<http://id.agrisemantics.org/gacs/G_SD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SD> <http://www.w3.org/2004/02/skos/core#notation> "SD" .
+<http://id.agrisemantics.org/gacs/G_SD> <http://www.w3.org/2004/02/skos/core#prefLabel> "genetic resources management"@en .
+<http://id.agrisemantics.org/gacs/G_SD> <http://www.w3.org/2004/02/skos/core#prefLabel> "manejo de recursos gen\u00E9ticos"@es .
+<http://id.agrisemantics.org/gacs/G_SD> <http://www.w3.org/2004/02/skos/core#prefLabel> "manejo de recursos gen\u00E9ticos"@pt .
+<http://id.agrisemantics.org/gacs/G_SE> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SA> .
+<http://id.agrisemantics.org/gacs/G_SE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SE> <http://www.w3.org/2004/02/skos/core#notation> "SE" .
+<http://id.agrisemantics.org/gacs/G_SE> <http://www.w3.org/2004/02/skos/core#prefLabel> "breeding"@en .
+<http://id.agrisemantics.org/gacs/G_SE> <http://www.w3.org/2004/02/skos/core#prefLabel> "mejoramiento (de organismos)"@es .
+<http://id.agrisemantics.org/gacs/G_SE> <http://www.w3.org/2004/02/skos/core#prefLabel> "melhoramento de organismos"@pt .
+<http://id.agrisemantics.org/gacs/G_SF> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SA> .
+<http://id.agrisemantics.org/gacs/G_SF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SF> <http://www.w3.org/2004/02/skos/core#notation> "SF" .
+<http://id.agrisemantics.org/gacs/G_SF> <http://www.w3.org/2004/02/skos/core#prefLabel> "avalia\u00E7\u00E3o do melhoramento"@pt .
+<http://id.agrisemantics.org/gacs/G_SF> <http://www.w3.org/2004/02/skos/core#prefLabel> "breeding performance evaluation"@en .
+<http://id.agrisemantics.org/gacs/G_SF> <http://www.w3.org/2004/02/skos/core#prefLabel> "evaluaci\u00F3n del mejoramiento"@es .
+<http://id.agrisemantics.org/gacs/G_SG> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SA> .
+<http://id.agrisemantics.org/gacs/G_SG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SG> <http://www.w3.org/2004/02/skos/core#notation> "SG" .
+<http://id.agrisemantics.org/gacs/G_SG> <http://www.w3.org/2004/02/skos/core#prefLabel> "genetic techniques"@en .
+<http://id.agrisemantics.org/gacs/G_SG> <http://www.w3.org/2004/02/skos/core#prefLabel> "t\u00E9cnicas gen\u00E9ticas"@es .
+<http://id.agrisemantics.org/gacs/G_SG> <http://www.w3.org/2004/02/skos/core#prefLabel> "t\u00E9cnicas gen\u00E9ticas"@pt .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SL> .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SM> .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SQ> .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SR> .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SS> .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_ST> .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SU> .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SV> .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SW> .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_SX> .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PA> .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://www.w3.org/2004/02/skos/core#notation> "SJ" .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "agricultura, silvicultura e pescaria"@pt .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "agricultura, silvicultura, pesca"@es .
+<http://id.agrisemantics.org/gacs/G_SJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "agriculture, forestry and fishery"@en .
+<http://id.agrisemantics.org/gacs/G_SL> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SJ> .
+<http://id.agrisemantics.org/gacs/G_SL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SL> <http://www.w3.org/2004/02/skos/core#notation> "SL" .
+<http://id.agrisemantics.org/gacs/G_SL> <http://www.w3.org/2004/02/skos/core#prefLabel> "agricultura"@es .
+<http://id.agrisemantics.org/gacs/G_SL> <http://www.w3.org/2004/02/skos/core#prefLabel> "agricultura"@pt .
+<http://id.agrisemantics.org/gacs/G_SL> <http://www.w3.org/2004/02/skos/core#prefLabel> "agriculture"@en .
+<http://id.agrisemantics.org/gacs/G_SM> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SJ> .
+<http://id.agrisemantics.org/gacs/G_SM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SM> <http://www.w3.org/2004/02/skos/core#notation> "SM" .
+<http://id.agrisemantics.org/gacs/G_SM> <http://www.w3.org/2004/02/skos/core#prefLabel> "manejo de suelos para la producci\u00F3n vegetal"@es .
+<http://id.agrisemantics.org/gacs/G_SM> <http://www.w3.org/2004/02/skos/core#prefLabel> "manejo do solo para produ\u00E7\u00E3o vegetal"@pt .
+<http://id.agrisemantics.org/gacs/G_SM> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil management for plant production"@en .
+<http://id.agrisemantics.org/gacs/G_SQ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SJ> .
+<http://id.agrisemantics.org/gacs/G_SQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SQ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SQ> <http://www.w3.org/2004/02/skos/core#notation> "SQ" .
+<http://id.agrisemantics.org/gacs/G_SQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "plant production"@en .
+<http://id.agrisemantics.org/gacs/G_SQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "producci\u00F3n vegetal"@es .
+<http://id.agrisemantics.org/gacs/G_SQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "produ\u00E7\u00E3o de plantas"@pt .
+<http://id.agrisemantics.org/gacs/G_SR> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SJ> .
+<http://id.agrisemantics.org/gacs/G_SR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SR> <http://www.w3.org/2004/02/skos/core#notation> "SR" .
+<http://id.agrisemantics.org/gacs/G_SR> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciencias forestales"@es .
+<http://id.agrisemantics.org/gacs/G_SR> <http://www.w3.org/2004/02/skos/core#prefLabel> "ci\u00EAncias florestais"@pt .
+<http://id.agrisemantics.org/gacs/G_SR> <http://www.w3.org/2004/02/skos/core#prefLabel> "forestry"@en .
+<http://id.agrisemantics.org/gacs/G_SS> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SJ> .
+<http://id.agrisemantics.org/gacs/G_SS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SS> <http://www.w3.org/2004/02/skos/core#notation> "SS" .
+<http://id.agrisemantics.org/gacs/G_SS> <http://www.w3.org/2004/02/skos/core#prefLabel> "animal production"@en .
+<http://id.agrisemantics.org/gacs/G_SS> <http://www.w3.org/2004/02/skos/core#prefLabel> "producci\u00F3n animal"@es .
+<http://id.agrisemantics.org/gacs/G_SS> <http://www.w3.org/2004/02/skos/core#prefLabel> "produ\u00E7\u00E3o animal"@pt .
+<http://id.agrisemantics.org/gacs/G_ST> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SJ> .
+<http://id.agrisemantics.org/gacs/G_ST> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_ST> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_ST> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_ST> <http://www.w3.org/2004/02/skos/core#notation> "ST" .
+<http://id.agrisemantics.org/gacs/G_ST> <http://www.w3.org/2004/02/skos/core#prefLabel> "acuicultura"@es .
+<http://id.agrisemantics.org/gacs/G_ST> <http://www.w3.org/2004/02/skos/core#prefLabel> "aq\u00FCicultura"@pt .
+<http://id.agrisemantics.org/gacs/G_ST> <http://www.w3.org/2004/02/skos/core#prefLabel> "aquaculture"@en .
+<http://id.agrisemantics.org/gacs/G_SU> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SJ> .
+<http://id.agrisemantics.org/gacs/G_SU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SU> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SU> <http://www.w3.org/2004/02/skos/core#notation> "SU" .
+<http://id.agrisemantics.org/gacs/G_SU> <http://www.w3.org/2004/02/skos/core#prefLabel> "fishery"@en .
+<http://id.agrisemantics.org/gacs/G_SU> <http://www.w3.org/2004/02/skos/core#prefLabel> "industrias pesqueras"@es .
+<http://id.agrisemantics.org/gacs/G_SU> <http://www.w3.org/2004/02/skos/core#prefLabel> "pescaria"@pt .
+<http://id.agrisemantics.org/gacs/G_SV> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SJ> .
+<http://id.agrisemantics.org/gacs/G_SV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SV> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SV> <http://www.w3.org/2004/02/skos/core#notation> "SV" .
+<http://id.agrisemantics.org/gacs/G_SV> <http://www.w3.org/2004/02/skos/core#prefLabel> "cuidado e manejo de insetos"@pt .
+<http://id.agrisemantics.org/gacs/G_SV> <http://www.w3.org/2004/02/skos/core#prefLabel> "cuidado y manejo de insectos"@es .
+<http://id.agrisemantics.org/gacs/G_SV> <http://www.w3.org/2004/02/skos/core#prefLabel> "insect keeping and management"@en .
+<http://id.agrisemantics.org/gacs/G_SW> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SJ> .
+<http://id.agrisemantics.org/gacs/G_SW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SW> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SW> <http://www.w3.org/2004/02/skos/core#notation> "SW" .
+<http://id.agrisemantics.org/gacs/G_SW> <http://www.w3.org/2004/02/skos/core#prefLabel> "vermicultura"@es .
+<http://id.agrisemantics.org/gacs/G_SW> <http://www.w3.org/2004/02/skos/core#prefLabel> "vermicultura"@pt .
+<http://id.agrisemantics.org/gacs/G_SW> <http://www.w3.org/2004/02/skos/core#prefLabel> "vermiculture"@en .
+<http://id.agrisemantics.org/gacs/G_SX> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_SJ> .
+<http://id.agrisemantics.org/gacs/G_SX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_SX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_SX> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_SX> <http://www.w3.org/2004/02/skos/core#notation> "SX" .
+<http://id.agrisemantics.org/gacs/G_SX> <http://www.w3.org/2004/02/skos/core#prefLabel> "productos"@es .
+<http://id.agrisemantics.org/gacs/G_SX> <http://www.w3.org/2004/02/skos/core#prefLabel> "products"@en .
+<http://id.agrisemantics.org/gacs/G_SX> <http://www.w3.org/2004/02/skos/core#prefLabel> "produtos"@pt .
+<http://id.agrisemantics.org/gacs/G_TA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TC> .
+<http://id.agrisemantics.org/gacs/G_TA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TD> .
+<http://id.agrisemantics.org/gacs/G_TA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TF> .
+<http://id.agrisemantics.org/gacs/G_TA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TG> .
+<http://id.agrisemantics.org/gacs/G_TA> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PA> .
+<http://id.agrisemantics.org/gacs/G_TA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TA> <http://www.w3.org/2004/02/skos/core#notation> "TA" .
+<http://id.agrisemantics.org/gacs/G_TA> <http://www.w3.org/2004/02/skos/core#prefLabel> "environment and natural resource management"@en .
+<http://id.agrisemantics.org/gacs/G_TA> <http://www.w3.org/2004/02/skos/core#prefLabel> "manejo ambiental e de recursos naturais"@pt .
+<http://id.agrisemantics.org/gacs/G_TA> <http://www.w3.org/2004/02/skos/core#prefLabel> "manejo del medio ambiente y los recursos naturales"@es .
+<http://id.agrisemantics.org/gacs/G_TC> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_TA> .
+<http://id.agrisemantics.org/gacs/G_TC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TC> <http://www.w3.org/2004/02/skos/core#notation> "TC" .
+<http://id.agrisemantics.org/gacs/G_TC> <http://www.w3.org/2004/02/skos/core#prefLabel> "environmental management"@en .
+<http://id.agrisemantics.org/gacs/G_TC> <http://www.w3.org/2004/02/skos/core#prefLabel> "manejo ambiental"@es .
+<http://id.agrisemantics.org/gacs/G_TC> <http://www.w3.org/2004/02/skos/core#prefLabel> "manejo ambiental"@pt .
+<http://id.agrisemantics.org/gacs/G_TD> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_TA> .
+<http://id.agrisemantics.org/gacs/G_TD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TD> <http://www.w3.org/2004/02/skos/core#notation> "TD" .
+<http://id.agrisemantics.org/gacs/G_TD> <http://www.w3.org/2004/02/skos/core#prefLabel> "degradaci\u00F3n ambiental"@es .
+<http://id.agrisemantics.org/gacs/G_TD> <http://www.w3.org/2004/02/skos/core#prefLabel> "degrada\u00E7\u00E3o ambiental"@pt .
+<http://id.agrisemantics.org/gacs/G_TD> <http://www.w3.org/2004/02/skos/core#prefLabel> "environmental degradation"@en .
+<http://id.agrisemantics.org/gacs/G_TF> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_TA> .
+<http://id.agrisemantics.org/gacs/G_TF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TF> <http://www.w3.org/2004/02/skos/core#notation> "TF" .
+<http://id.agrisemantics.org/gacs/G_TF> <http://www.w3.org/2004/02/skos/core#prefLabel> "pollution and pollutants"@en .
+<http://id.agrisemantics.org/gacs/G_TF> <http://www.w3.org/2004/02/skos/core#prefLabel> "poluci\u00F3n y contaminantes"@es .
+<http://id.agrisemantics.org/gacs/G_TF> <http://www.w3.org/2004/02/skos/core#prefLabel> "polui\u00E7\u00E3o e poluentes"@pt .
+<http://id.agrisemantics.org/gacs/G_TG> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_TA> .
+<http://id.agrisemantics.org/gacs/G_TG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TG> <http://www.w3.org/2004/02/skos/core#notation> "TG" .
+<http://id.agrisemantics.org/gacs/G_TG> <http://www.w3.org/2004/02/skos/core#prefLabel> "manejo de recursos"@pt .
+<http://id.agrisemantics.org/gacs/G_TG> <http://www.w3.org/2004/02/skos/core#prefLabel> "ordenaci\u00F3n de recursos"@es .
+<http://id.agrisemantics.org/gacs/G_TG> <http://www.w3.org/2004/02/skos/core#prefLabel> "resource management"@en .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TL> .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TM> .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TN> .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TQ> .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TR> .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TS> .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TT> .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TV> .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_TW> .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_PA> .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://www.w3.org/2004/02/skos/core#notation> "TJ" .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "technology and engineering"@en .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "technology and engineering"@es .
+<http://id.agrisemantics.org/gacs/G_TJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "tecnologia e engenharia"@pt .
+<http://id.agrisemantics.org/gacs/G_TL> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_TJ> .
+<http://id.agrisemantics.org/gacs/G_TL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TL> <http://www.w3.org/2004/02/skos/core#notation> "TL" .
+<http://id.agrisemantics.org/gacs/G_TL> <http://www.w3.org/2004/02/skos/core#prefLabel> "materiais"@pt .
+<http://id.agrisemantics.org/gacs/G_TL> <http://www.w3.org/2004/02/skos/core#prefLabel> "materiales"@es .
+<http://id.agrisemantics.org/gacs/G_TL> <http://www.w3.org/2004/02/skos/core#prefLabel> "materials"@en .
+<http://id.agrisemantics.org/gacs/G_TM> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_TJ> .
+<http://id.agrisemantics.org/gacs/G_TM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TM> <http://www.w3.org/2004/02/skos/core#notation> "TM" .
+<http://id.agrisemantics.org/gacs/G_TM> <http://www.w3.org/2004/02/skos/core#prefLabel> "facilities and structures"@en .
+<http://id.agrisemantics.org/gacs/G_TM> <http://www.w3.org/2004/02/skos/core#prefLabel> "instalaciones y estructuras"@es .
+<http://id.agrisemantics.org/gacs/G_TM> <http://www.w3.org/2004/02/skos/core#prefLabel> "instala\u00E7\u00F5es e estruturas"@pt .
+<http://id.agrisemantics.org/gacs/G_TN> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_TJ> .
+<http://id.agrisemantics.org/gacs/G_TN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TN> <http://www.w3.org/2004/02/skos/core#notation> "TN" .
+<http://id.agrisemantics.org/gacs/G_TN> <http://www.w3.org/2004/02/skos/core#prefLabel> "equipamento"@pt .
+<http://id.agrisemantics.org/gacs/G_TN> <http://www.w3.org/2004/02/skos/core#prefLabel> "equipment"@en .
+<http://id.agrisemantics.org/gacs/G_TN> <http://www.w3.org/2004/02/skos/core#prefLabel> "equipo"@es .
+<http://id.agrisemantics.org/gacs/G_TQ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_TJ> .
+<http://id.agrisemantics.org/gacs/G_TQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TQ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TQ> <http://www.w3.org/2004/02/skos/core#notation> "TQ" .
+<http://id.agrisemantics.org/gacs/G_TQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "manejo de materiales"@es .
+<http://id.agrisemantics.org/gacs/G_TQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "manipula\u00E7\u00E3o de materiais"@pt .
+<http://id.agrisemantics.org/gacs/G_TQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "materials handling"@en .
+<http://id.agrisemantics.org/gacs/G_TR> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_TJ> .
+<http://id.agrisemantics.org/gacs/G_TR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TR> <http://www.w3.org/2004/02/skos/core#notation> "TR" .
+<http://id.agrisemantics.org/gacs/G_TR> <http://www.w3.org/2004/02/skos/core#prefLabel> "procesamiento"@es .
+<http://id.agrisemantics.org/gacs/G_TR> <http://www.w3.org/2004/02/skos/core#prefLabel> "processamento"@pt .
+<http://id.agrisemantics.org/gacs/G_TR> <http://www.w3.org/2004/02/skos/core#prefLabel> "processing"@en .
+<http://id.agrisemantics.org/gacs/G_TS> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_TJ> .
+<http://id.agrisemantics.org/gacs/G_TS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TS> <http://www.w3.org/2004/02/skos/core#notation> "TS" .
+<http://id.agrisemantics.org/gacs/G_TS> <http://www.w3.org/2004/02/skos/core#prefLabel> "transporte"@es .
+<http://id.agrisemantics.org/gacs/G_TS> <http://www.w3.org/2004/02/skos/core#prefLabel> "transport"@en .
+<http://id.agrisemantics.org/gacs/G_TS> <http://www.w3.org/2004/02/skos/core#prefLabel> "transporte"@pt .
+<http://id.agrisemantics.org/gacs/G_TT> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_TJ> .
+<http://id.agrisemantics.org/gacs/G_TT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TT> <http://www.w3.org/2004/02/skos/core#notation> "TT" .
+<http://id.agrisemantics.org/gacs/G_TT> <http://www.w3.org/2004/02/skos/core#prefLabel> "engenharia"@pt .
+<http://id.agrisemantics.org/gacs/G_TT> <http://www.w3.org/2004/02/skos/core#prefLabel> "engineering"@en .
+<http://id.agrisemantics.org/gacs/G_TT> <http://www.w3.org/2004/02/skos/core#prefLabel> "ingenier\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_TV> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_TJ> .
+<http://id.agrisemantics.org/gacs/G_TV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TV> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TV> <http://www.w3.org/2004/02/skos/core#notation> "TV" .
+<http://id.agrisemantics.org/gacs/G_TV> <http://www.w3.org/2004/02/skos/core#prefLabel> "technology"@en .
+<http://id.agrisemantics.org/gacs/G_TV> <http://www.w3.org/2004/02/skos/core#prefLabel> "tecnologia"@pt .
+<http://id.agrisemantics.org/gacs/G_TV> <http://www.w3.org/2004/02/skos/core#prefLabel> "tecnolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_TW> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_TJ> .
+<http://id.agrisemantics.org/gacs/G_TW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_TW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_TW> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_TW> <http://www.w3.org/2004/02/skos/core#notation> "TW" .
+<http://id.agrisemantics.org/gacs/G_TW> <http://www.w3.org/2004/02/skos/core#prefLabel> "energia e for\u00E7a"@pt .
+<http://id.agrisemantics.org/gacs/G_TW> <http://www.w3.org/2004/02/skos/core#prefLabel> "energy and power"@en .
+<http://id.agrisemantics.org/gacs/G_TW> <http://www.w3.org/2004/02/skos/core#prefLabel> "energy and power"@es .
+<http://id.agrisemantics.org/gacs/G_WA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_WC> .
+<http://id.agrisemantics.org/gacs/G_WA> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_WN> .
+<http://id.agrisemantics.org/gacs/G_WA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WA> <http://www.w3.org/2004/02/skos/core#notation> "WA" .
+<http://id.agrisemantics.org/gacs/G_WA> <http://www.w3.org/2004/02/skos/core#prefLabel> "CIENCIAS SOCIALES Y HUMANIDADES"@es .
+<http://id.agrisemantics.org/gacs/G_WA> <http://www.w3.org/2004/02/skos/core#prefLabel> "CI\u00CANCIAS SOCIAIS E HUMANIDADES"@pt .
+<http://id.agrisemantics.org/gacs/G_WA> <http://www.w3.org/2004/02/skos/core#prefLabel> "SOCIAL SCIENCES AND HUMANITIES"@en .
+<http://id.agrisemantics.org/gacs/G_WC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_WE> .
+<http://id.agrisemantics.org/gacs/G_WC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_WF> .
+<http://id.agrisemantics.org/gacs/G_WC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_WG> .
+<http://id.agrisemantics.org/gacs/G_WC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_WJ> .
+<http://id.agrisemantics.org/gacs/G_WC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_WK> .
+<http://id.agrisemantics.org/gacs/G_WC> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_WL> .
+<http://id.agrisemantics.org/gacs/G_WC> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_WA> .
+<http://id.agrisemantics.org/gacs/G_WC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WC> <http://www.w3.org/2004/02/skos/core#notation> "WC" .
+<http://id.agrisemantics.org/gacs/G_WC> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciencias sociales"@es .
+<http://id.agrisemantics.org/gacs/G_WC> <http://www.w3.org/2004/02/skos/core#prefLabel> "ci\u00EAncias sociais"@pt .
+<http://id.agrisemantics.org/gacs/G_WC> <http://www.w3.org/2004/02/skos/core#prefLabel> "social sciences"@en .
+<http://id.agrisemantics.org/gacs/G_WE> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_WC> .
+<http://id.agrisemantics.org/gacs/G_WE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WE> <http://www.w3.org/2004/02/skos/core#notation> "WE" .
+<http://id.agrisemantics.org/gacs/G_WE> <http://www.w3.org/2004/02/skos/core#prefLabel> "educaci\u00F3n"@es .
+<http://id.agrisemantics.org/gacs/G_WE> <http://www.w3.org/2004/02/skos/core#prefLabel> "education"@en .
+<http://id.agrisemantics.org/gacs/G_WE> <http://www.w3.org/2004/02/skos/core#prefLabel> "educa\u00E7\u00E3o"@pt .
+<http://id.agrisemantics.org/gacs/G_WF> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_WC> .
+<http://id.agrisemantics.org/gacs/G_WF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WF> <http://www.w3.org/2004/02/skos/core#notation> "WF" .
+<http://id.agrisemantics.org/gacs/G_WF> <http://www.w3.org/2004/02/skos/core#prefLabel> "sociologia"@pt .
+<http://id.agrisemantics.org/gacs/G_WF> <http://www.w3.org/2004/02/skos/core#prefLabel> "sociolog\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_WF> <http://www.w3.org/2004/02/skos/core#prefLabel> "sociology"@en .
+<http://id.agrisemantics.org/gacs/G_WG> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_WC> .
+<http://id.agrisemantics.org/gacs/G_WG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WG> <http://www.w3.org/2004/02/skos/core#notation> "WG" .
+<http://id.agrisemantics.org/gacs/G_WG> <http://www.w3.org/2004/02/skos/core#prefLabel> "bem-estar social"@pt .
+<http://id.agrisemantics.org/gacs/G_WG> <http://www.w3.org/2004/02/skos/core#prefLabel> "bienestar social"@es .
+<http://id.agrisemantics.org/gacs/G_WG> <http://www.w3.org/2004/02/skos/core#prefLabel> "social welfare"@en .
+<http://id.agrisemantics.org/gacs/G_WJ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_WC> .
+<http://id.agrisemantics.org/gacs/G_WJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WJ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WJ> <http://www.w3.org/2004/02/skos/core#notation> "WJ" .
+<http://id.agrisemantics.org/gacs/G_WJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "policy, politics, government and law"@en .
+<http://id.agrisemantics.org/gacs/G_WJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "pol\u00EDtica, ci\u00EAncia pol\u00EDtica, governo e lei"@pt .
+<http://id.agrisemantics.org/gacs/G_WJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "pol\u00EDtica, pol\u00EDticas, gobierno y ley"@es .
+<http://id.agrisemantics.org/gacs/G_WK> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_WC> .
+<http://id.agrisemantics.org/gacs/G_WK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WK> <http://www.w3.org/2004/02/skos/core#notation> "WK" .
+<http://id.agrisemantics.org/gacs/G_WK> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciencias de gerencia"@es .
+<http://id.agrisemantics.org/gacs/G_WK> <http://www.w3.org/2004/02/skos/core#prefLabel> "ci\u00EAncia da administra\u00E7\u00E3o"@pt .
+<http://id.agrisemantics.org/gacs/G_WK> <http://www.w3.org/2004/02/skos/core#prefLabel> "management science"@en .
+<http://id.agrisemantics.org/gacs/G_WL> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_WC> .
+<http://id.agrisemantics.org/gacs/G_WL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WL> <http://www.w3.org/2004/02/skos/core#notation> "WL" .
+<http://id.agrisemantics.org/gacs/G_WL> <http://www.w3.org/2004/02/skos/core#prefLabel> "economia"@pt .
+<http://id.agrisemantics.org/gacs/G_WL> <http://www.w3.org/2004/02/skos/core#prefLabel> "economics"@en .
+<http://id.agrisemantics.org/gacs/G_WL> <http://www.w3.org/2004/02/skos/core#prefLabel> "econom\u00EDa"@es .
+<http://id.agrisemantics.org/gacs/G_WN> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_WQ> .
+<http://id.agrisemantics.org/gacs/G_WN> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_WR> .
+<http://id.agrisemantics.org/gacs/G_WN> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_WS> .
+<http://id.agrisemantics.org/gacs/G_WN> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_WV> .
+<http://id.agrisemantics.org/gacs/G_WN> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_WW> .
+<http://id.agrisemantics.org/gacs/G_WN> <http://purl.org/iso25964/skos-thes#subGroup> <http://id.agrisemantics.org/gacs/G_WY> .
+<http://id.agrisemantics.org/gacs/G_WN> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_WA> .
+<http://id.agrisemantics.org/gacs/G_WN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WN> <http://www.w3.org/2004/02/skos/core#notation> "WN" .
+<http://id.agrisemantics.org/gacs/G_WN> <http://www.w3.org/2004/02/skos/core#prefLabel> "cultura e humanidades"@pt .
+<http://id.agrisemantics.org/gacs/G_WN> <http://www.w3.org/2004/02/skos/core#prefLabel> "cultura y humanidades"@es .
+<http://id.agrisemantics.org/gacs/G_WN> <http://www.w3.org/2004/02/skos/core#prefLabel> "culture and humanities"@en .
+<http://id.agrisemantics.org/gacs/G_WQ> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_WN> .
+<http://id.agrisemantics.org/gacs/G_WQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WQ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WQ> <http://www.w3.org/2004/02/skos/core#notation> "WQ" .
+<http://id.agrisemantics.org/gacs/G_WQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "artes"@es .
+<http://id.agrisemantics.org/gacs/G_WQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "artes"@pt .
+<http://id.agrisemantics.org/gacs/G_WQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "arts"@en .
+<http://id.agrisemantics.org/gacs/G_WR> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_WN> .
+<http://id.agrisemantics.org/gacs/G_WR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WR> <http://www.w3.org/2004/02/skos/core#notation> "WR" .
+<http://id.agrisemantics.org/gacs/G_WR> <http://www.w3.org/2004/02/skos/core#prefLabel> "cultura"@es .
+<http://id.agrisemantics.org/gacs/G_WR> <http://www.w3.org/2004/02/skos/core#prefLabel> "cultura"@pt .
+<http://id.agrisemantics.org/gacs/G_WR> <http://www.w3.org/2004/02/skos/core#prefLabel> "culture"@en .
+<http://id.agrisemantics.org/gacs/G_WS> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_WN> .
+<http://id.agrisemantics.org/gacs/G_WS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WS> <http://www.w3.org/2004/02/skos/core#notation> "WS" .
+<http://id.agrisemantics.org/gacs/G_WS> <http://www.w3.org/2004/02/skos/core#prefLabel> "historia"@es .
+<http://id.agrisemantics.org/gacs/G_WS> <http://www.w3.org/2004/02/skos/core#prefLabel> "history"@en .
+<http://id.agrisemantics.org/gacs/G_WS> <http://www.w3.org/2004/02/skos/core#prefLabel> "hist\u00F3ria"@pt .
+<http://id.agrisemantics.org/gacs/G_WV> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_WN> .
+<http://id.agrisemantics.org/gacs/G_WV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WV> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WV> <http://www.w3.org/2004/02/skos/core#notation> "WV" .
+<http://id.agrisemantics.org/gacs/G_WV> <http://www.w3.org/2004/02/skos/core#prefLabel> "diversi\u00F3n y recreaci\u00F3n"@es .
+<http://id.agrisemantics.org/gacs/G_WV> <http://www.w3.org/2004/02/skos/core#prefLabel> "lazer e recrea\u00E7\u00E3o"@pt .
+<http://id.agrisemantics.org/gacs/G_WV> <http://www.w3.org/2004/02/skos/core#prefLabel> "leisure and recreation"@en .
+<http://id.agrisemantics.org/gacs/G_WW> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_WN> .
+<http://id.agrisemantics.org/gacs/G_WW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WW> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WW> <http://www.w3.org/2004/02/skos/core#notation> "WW" .
+<http://id.agrisemantics.org/gacs/G_WW> <http://www.w3.org/2004/02/skos/core#prefLabel> "tourism"@en .
+<http://id.agrisemantics.org/gacs/G_WW> <http://www.w3.org/2004/02/skos/core#prefLabel> "turismo"@es .
+<http://id.agrisemantics.org/gacs/G_WW> <http://www.w3.org/2004/02/skos/core#prefLabel> "turismo"@pt .
+<http://id.agrisemantics.org/gacs/G_WY> <http://purl.org/iso25964/skos-thes#superGroup> <http://id.agrisemantics.org/gacs/G_WN> .
+<http://id.agrisemantics.org/gacs/G_WY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/iso25964/skos-thes#ConceptGroup> .
+<http://id.agrisemantics.org/gacs/G_WY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<http://id.agrisemantics.org/gacs/G_WY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.agrisemantics.org/gacs-core> .
+<http://id.agrisemantics.org/gacs/G_WY> <http://www.w3.org/2004/02/skos/core#notation> "WY" .
+<http://id.agrisemantics.org/gacs/G_WY> <http://www.w3.org/2004/02/skos/core#prefLabel> "filosofia e \u00E9tica"@pt .
+<http://id.agrisemantics.org/gacs/G_WY> <http://www.w3.org/2004/02/skos/core#prefLabel> "filosof\u00EDa y \u00E9tica"@es .
+<http://id.agrisemantics.org/gacs/G_WY> <http://www.w3.org/2004/02/skos/core#prefLabel> "philosophy and ethics"@en .

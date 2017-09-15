@@ -10,6 +10,7 @@ SKOSXL = Namespace('http://www.w3.org/2008/05/skos-xl#')
 DWC = Namespace('http://rs.tdwg.org/dwc/terms/')
 VB = Namespace('http://art.uniroma2.it/ontologies/vocbench#')
 AGVOC = Namespace('http://id.agrisemantics.org/vocab#')
+LUXID = Namespace('http://www.temis.com/luxid-schema#')
 
 TYPE_PROPS = set([
     RDF.type,
@@ -17,14 +18,14 @@ TYPE_PROPS = set([
 
 STRUCTURAL_PROPS = set([
     SKOS.inScheme,
-    SKOS.hasTopConcept,
-    SKOS.topConceptOf,
     SKOS.broader,
-    SKOS.narrower,
     SKOS.related,
+])
+
+PRODUCT_PROPS = set([
     AGVOC.hasProduct,
     AGVOC.productOf,
-    DCTERMS.source,
+    LUXID.hasProduct,
 ])
 
 MAPPING_PROPS = set([
@@ -43,6 +44,7 @@ DEFERRED_PROPS = set([
 
 DEFERRED_SUBJECT_PROPS = set([
     DWC.scientificNameAuthorship,
+    DCTERMS.source,
 ])
 
 LANGUAGE_PROPS = set([
@@ -62,7 +64,11 @@ ONTOLOGY_PROPS = set([
     OWL.inverseOf,
     OWL.versionInfo,
 ])
-    
+
+TOPCONCEPT_PROPS = set([
+    SKOS.hasTopConcept,
+    SKOS.topConceptOf,
+])
 
 VOCBENCH_PROPS = set([
     VB.hasStatus,
@@ -94,6 +100,8 @@ def choose_slice(s, p, o):
             return 'types'
     if p in STRUCTURAL_PROPS:
         return 'structure'
+    if p in PRODUCT_PROPS:
+        return 'product'
     if p in MAPPING_PROPS:
         return 'mapping'
     if p in ONTOLOGY_PROPS:
@@ -101,6 +109,10 @@ def choose_slice(s, p, o):
     if p in VOCBENCH_PROPS:
         return 'vocbench'
     if p in DEFERRED_PROPS:
+        # try to parse language in case it's a literal
+        if '@' in o:
+            lang = o.split('@')[1].split()[0]
+            return 'lang-%s' % lang
         return 'defer' # defer until we know the language of the object
     if p in DEFERRED_SUBJECT_PROPS:
         return 'defer-subj' # defer until we know the language of the subject
@@ -108,6 +120,10 @@ def choose_slice(s, p, o):
         lang = o.split('@')[1].split()[0]
         lang_of_deferred[parse_uri(s)] = lang
         return 'lang-%s' % lang
+    if p in TOPCONCEPT_PROPS:
+        return 'topconcept'
+    if p == SKOS.narrower:
+        return 'narrower' # not really useful, but...
     return 'misc'
 
 outfiles = {} # key: slice, value: file object
