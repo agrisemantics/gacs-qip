@@ -11,7 +11,10 @@ pages:
 - Scientific and Common Names: names.md
 - Relations between Concepts: relations.md
 - Semantic Types: semantic_types.md
-- Thematic Groups: thematic_groups.md
+- Thematic Classification:
+    - 'Purpose': thematic_classification/purpose.md
+    - 'Overview': thematic_classification/overview.md
+    - 'Scope Notes': thematic_classification/scope_notes.md
 - Definitions: definitions.md
 - Documentation Properties: docproperties.md
 - Glossary: glossary.md
