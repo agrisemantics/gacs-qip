@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2017-07-25</lastmod>
+     <lastmod>2017-10-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
      <loc>/scope/</loc>
-     <lastmod>2017-07-25</lastmod>
+     <lastmod>2017-10-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
      <loc>/labels/</loc>
-     <lastmod>2017-07-25</lastmod>
+     <lastmod>2017-10-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
      <loc>/names/</loc>
-     <lastmod>2017-07-25</lastmod>
+     <lastmod>2017-10-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
      <loc>/relations/</loc>
-     <lastmod>2017-07-25</lastmod>
+     <lastmod>2017-10-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -44,23 +44,37 @@
     
     <url>
      <loc>/semantic_types/</loc>
-     <lastmod>2017-07-25</lastmod>
+     <lastmod>2017-10-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
+        
     <url>
-     <loc>/thematic_groups/</loc>
-     <lastmod>2017-07-25</lastmod>
+     <loc>/thematic_classification/purpose/</loc>
+     <lastmod>2017-10-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>/thematic_classification/full_view/</loc>
+     <lastmod>2017-10-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/thematic_classification/ca_general/</loc>
+     <lastmod>2017-10-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
     <url>
      <loc>/definitions/</loc>
-     <lastmod>2017-07-25</lastmod>
+     <lastmod>2017-10-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -68,7 +82,7 @@
     
     <url>
      <loc>/docproperties/</loc>
-     <lastmod>2017-07-25</lastmod>
+     <lastmod>2017-10-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -76,7 +90,7 @@
     
     <url>
      <loc>/glossary/</loc>
-     <lastmod>2017-07-25</lastmod>
+     <lastmod>2017-10-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -84,7 +98,7 @@
     
     <url>
      <loc>/sources/</loc>
-     <lastmod>2017-07-25</lastmod>
+     <lastmod>2017-10-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
