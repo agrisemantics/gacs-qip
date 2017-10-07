@@ -1,11 +1,7 @@
-Scope notes
-Scope Notes for GACS Thematic Classification
-First draft September 11, 2017
+# Purpose of the GACS Thematic Classification
 
-Purpose of the GACS Thematic Classification
-•	To enable users of GACS to view terms by subject areas or disciplines
-•	To collect terms in a subject area that may be of interest to specialists which are 
-separated in the strict Hierarchical arrangement of GACS
+* To enable users of GACS to view terms by subject areas or disciplines
+* To collect terms in a subject area that may be of interest to specialists which are separated in the strict Hierarchical arrangement of GACS
 
 The classification scheme used was derived from the Unified Agriculture Thesaurus Project UAT, which 
 was a joint project between CABI, NAL and FAO concluded in 1999.   It was constructed to accommodate 
@@ -15,6 +11,7 @@ The classification has been adapted for GACS and remains hierarchical multilevel
 used to designate specific groups within the upper classification.
 
 Brief view of upper Classification Scheme applied to GACS:
+
 Two-
 Letter
 Code	Classification Heading
