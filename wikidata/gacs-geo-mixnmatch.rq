@@ -1,0 +1,36 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX agvoc: <http://id.agrisemantics.org/vocab#>
+
+SELECT ?gacsid ?prefLabelEn 
+(COALESCE(CONCAT("UF ", GROUP_CONCAT(DISTINCT ?altLabelEn; SEPARATOR='; ')), "") AS ?altLabelsEn)
+(COALESCE(CONCAT("SN ", GROUP_CONCAT(DISTINCT ?noteEn; SEPARATOR='; ')), "") AS ?notesEn)
+(COALESCE(CONCAT("DF ", GROUP_CONCAT(DISTINCT ?defEn; SEPARATOR='; ')), "") AS ?defsEn)
+(COALESCE(CONCAT("BT ", GROUP_CONCAT(DISTINCT ?btEn; SEPARATOR='; ')), "") AS ?btsEn)
+FROM <http://id.agrisemantics.org/gacs/>
+WHERE {
+  ?p a agvoc:Geographical .
+  BIND(STRAFTER(STR(?p), '/gacs/C') AS ?gacsid)
+  ?p skos:prefLabel ?prefLabelEn .
+  FILTER(LANG(?prefLabelEn)='en')
+  OPTIONAL {
+    ?p skos:altLabel ?altLabelEn .
+    FILTER(LANG(?altLabelEn)='en')
+  }
+  OPTIONAL {
+    ?p skos:scopeNote ?noteEn .
+    FILTER(LANG(?noteEn)='en')
+  }
+  OPTIONAL {
+    ?p skos:definition/rdf:value ?defEn .
+    FILTER(LANG(?defEn)='en')
+  }
+  OPTIONAL {
+    ?p skos:broader/skos:prefLabel ?btEn .
+    FILTER(LANG(?btEn)='en')    
+  }
+}
+GROUP BY ?gacsid ?prefLabelEn
+ORDER BY LCASE(?prefLabelEn)
+#LIMIT 10
