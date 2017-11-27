@@ -26,9 +26,10 @@ Each concept in the GACS is assigned at least one category.  Since the classific
 can be placed in more than one category.  In general, the codes for the upper classification are not used
 since a more specific code is applied.
 
-        Example: Concept _forestry equipment_ may be in two categories:
-            SR  Forestry
-            TN  Equipment
+Example: Concept _forestry equipment_ may be in two categories:
+
+        SR      Forestry
+        TN      Equipment
 
 The purpose of this document is to give guiding Scope Notes for each category to future maintainers of
 the GACS vocabulary.  As this work evolves, the documentation can be updated to reflect current
