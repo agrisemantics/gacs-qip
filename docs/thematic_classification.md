@@ -10,7 +10,7 @@ common with other knowledge classifications.   CABI published the hierarchical c
 The classification has been adapted for GACS and remains hierarchical multilevel with two-letter codes
 used to designate specific groups within the upper classification.
 
-Brief view of upper Classification Scheme applied to GACS:
+### Brief view of upper Classification Scheme applied to GACS
 
 Two-
 Letter
@@ -201,8 +201,6 @@ WY -- philosophy and ethics  <br>
 #### Scope notes for classification scheme applied to GACS
 
 _Examples of concepts assigned to the category are in italics._
-
-----------------------------------------------------------------------
 
 __CA GENERAL__.  Interdisciplinary and applicable to most branches of research.
 
