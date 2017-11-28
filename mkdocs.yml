@@ -5,7 +5,8 @@ repo_name: 'Github'
 edit_uri: 'edit/master/docs/'
 site_description: 'Guidelines for GACS'
 pages:
-- Purpose of GACS: index.md
+- About GACS: gacs.md
+- About these guidelines: index.md
 - Scope: scope.md
 - Labels: labels.md
 - Scientific and Common Names: names.md
@@ -14,5 +15,3 @@ pages:
 - GACS Thematic Classification: thematic_classification.md
 - Definitions: definitions.md
 - Documentation Properties: docproperties.md
-- Glossary: glossary.md
-- Sources Consulted: sources.md
