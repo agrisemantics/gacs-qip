@@ -6,12 +6,11 @@ edit_uri: 'edit/master/docs/'
 site_description: 'Guidelines for GACS'
 pages:
 - About GACS: gacs.md
-- About these guidelines: index.md
-- Scope: scope.md
-- Labels: labels.md
+- About these Guidelines: index.md
+- Concept Relations: relations.md
+- Concept Definitions: definitions.md
+- Concept Labels: labels.md
 - Scientific and Common Names: names.md
-- Relations between Concepts: relations.md
-- Semantic Types: semantic_types.md
 - GACS Thematic Classification: thematic_classification.md
-- Definitions: definitions.md
 - Documentation Properties: docproperties.md
+- Mappings to Wikidata: wikidata.md

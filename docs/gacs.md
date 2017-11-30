@@ -5,21 +5,24 @@ construction, such as ISO 25964.  Use of SKOS in its expression.  Concepts
 Linked Data.  Use of preferred labels (unique terms) for indexing in retrieval
 systems.  Multilinguality.]
 
-Uses of GACS
-
-* Controlled set of concepts (controlled vocabulary?) for the subject indexing
-  of agricultural research projects, agricultural literature, and other
-  agricultural materials.  Use in Linked Data: when tagged with GACS URIs and
-  indexed by search engines, resources discoverable on global scale.  
-
-* "Smart searching": provides a means of enhancing recall and precision for the
-  searcher without the searcher's knowledge of the thesaurus.  Hierarchy can be
-  used to make searches more inclusive: an inclusive search is where terms
-  narrower than the search terms are added to queries.  Searches may also be
-  enhanced by use of related concepts.  
-
-* Support to automated indexing systems.
-
-* Multilinguality: terminology across languages.
+L full.
 
 See [GACS browser](http://browser.agrisemantics.org/gacs/en/).
+### Scope (Subject coverage)
+
+[Rough characterization of subject coverage, perhaps with graphics.]
+
+[Semantic types (list).  Rationale for limited use of semantic types.]
+
+[Classification scheme and its rationale.  Origins in UAT.  Its relation
+to semantic types.]
+
+[Something about UAT motivation: Categories originally constructed as entry
+points into thesaurus terms.  "Discipline-oriented"?  Intended to show breadth
+of topic coverage?  Comment about specificity of categories, user-friendliness.
+For Web presentation (or paper-based)?]
+
+[ISO 25964, p2, defines classification: "activity involving the components of
+grouping similar and related things together, separating dissimilar or
+unrelated things, and arranging the resulting groups in a logical and helpful
+sequence".]
