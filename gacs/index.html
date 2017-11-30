@@ -35,7 +35,7 @@
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
       <div class="wy-side-nav-search">
-        <a href="./" class="icon icon-home"> Guidelines for GACS</a>
+        <a href=".." class="icon icon-home"> Guidelines for GACS</a>
         <div role="search">
   <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
     <input type="text" name="q" placeholder="Search docs" />
@@ -47,27 +47,35 @@
 	<ul class="current">
 	  
           
+            <li class="toctree-l1">
+		
+    <a class="" href="..">About these Guidelines</a>
+	    </li>
+          
             <li class="toctree-l1 current">
 		
     <a class="current" href="./">About GACS</a>
     <ul class="subnav">
             
+    <li class="toctree-l2"><a href="#scope-subject-coverage">Scope (Subject coverage)</a></li>
+    
+
     </ul>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="..">About these guidelines</a>
+    <a class="" href="../relations/">Concept Relations</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="../scope/">Scope</a>
+    <a class="" href="../definitions/">Concept Definitions</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="../labels/">Labels</a>
+    <a class="" href="../labels/">Concept Labels</a>
 	    </li>
           
             <li class="toctree-l1">
@@ -77,22 +85,7 @@
           
             <li class="toctree-l1">
 		
-    <a class="" href="../relations/">Relations between Concepts</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../semantic_types/">Semantic Types</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
     <a class="" href="../thematic_classification/">GACS Thematic Classification</a>
-	    </li>
-          
-            <li class="toctree-l1">
-		
-    <a class="" href="../definitions/">Definitions</a>
 	    </li>
           
             <li class="toctree-l1">
@@ -110,7 +103,7 @@
       
       <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
         <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-        <a href="./">Guidelines for GACS</a>
+        <a href="..">Guidelines for GACS</a>
       </nav>
 
       
@@ -118,7 +111,7 @@
         <div class="rst-content">
           <div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
-    <li><a href="./">Docs</a> &raquo;</li>
+    <li><a href="..">Docs</a> &raquo;</li>
     
       
     
@@ -141,29 +134,118 @@ construction, such as ISO 25964.  Use of SKOS in its expression.  Concepts
 (identified with unique URIs) versus labels (terms).  Use of concept URIs in
 Linked Data.  Use of preferred labels (unique terms) for indexing in retrieval
 systems.  Multilinguality.]</p>
-<p>Uses of GACS</p>
+<p>L full.</p>
+<p>See <a href="http://browser.agrisemantics.org/gacs/en/">GACS browser</a>.</p>
+<h3 id="scope-subject-coverage">Scope (Subject coverage)</h3>
+<p>[Rough characterization of subject coverage, perhaps with graphics.]</p>
+<p>[Semantic types (list).  Rationale for limited use of semantic types.]</p>
+<p>[Classification scheme and its rationale.  Origins in UAT.  Its relation
+to semantic types.]</p>
+<p>[Something about UAT motivation: Categories originally constructed as entry
+points into thesaurus terms.  "Discipline-oriented"?  Intended to show breadth
+of topic coverage?  Comment about specificity of categories, user-friendliness.
+For Web presentation (or paper-based)?]</p>
+<p>[ISO 25964, p2, defines classification: "activity involving the components of
+grouping similar and related things together, separating dissimilar or
+unrelated things, and arranging the resulting groups in a logical and helpful
+sequence".]
+So we're not just minting yet another URI for Alberta, but also saying
+that it exactly matches agrovoc:c_243, cabt:7687 and nalt:5999 (and
+exact matches are transitive, so we can infer e.g. that cabt:7687
+matches nalt:5999). These statements didn't exist before GACS came
+along, and there was no natural place to state them, so GACS concepts
+were defined. In the case of countries, territories etc. these mappings
+may feel a bit trivial (often just exact matches, as in this case), but
+for conceptual entities there was quite a lot of manual work required to
+align the concepts of the three thesauri, since they often had different
+points of view and granularity.</p>
+<p>In October 2013, the Food and Agricultural Organization of the United Nations
+(FAO), CAB International (CABI), and the National Agricultural Library of the
+USA (NAL) <a href="http://aims.fao.org/community/agrovoc/blogs/national-agricultural-library-usa-cabi-and-fao-agree-collaboration-developme">agreed to
+collaborate</a>
+in the development of their respective thesauri: the NAL Thesaurus, CAB
+Thesaurus, and the AGROVOC Concept Scheme.  As part of this collaboration
+agreement, the three organizations are exploring the feasibility of developing
+a Global Agricultural Concept Scheme (GACS).  As the first step in this
+exploration, this report provides a detailed analysis of the three thesauri and
+assesses their respective strengths and weaknesses.</p>
+<p>The three organizations share a long history of exchange and cooperation.  In a
+precursor to the GACS Project, the three organizations joined forces in 1989 to
+work on a <a href="http://www.nal.usda.gov/pubs_dbs/ann_rpts/1994/94arint.htm">Unified Agricultural
+Thesaurus</a> (UAT).
+The UAT project ended on completion of a UAT classification scheme in 1995 and
+the near-simultaneous retirement of its principal collaborators from FAO, CABI,
+and NAL.  In the context of the UAT project, the three organizations jointly
+vetted improvements to AGROVOC and CABT and developed an upper
+classification structure to which AGROVOC and CABT were mapped.  A
+UAT-classified version of CAB Thesaurus was made available to users until 1999.</p>
+<p>AGROVOC (created in 1982), CAB Thesaurus (1983), and NAL Thesaurus (2002) were
+designed in conformance with the thesaurus practice of their day as laid down
+in the <a href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=7776">ISO
+2788</a>
+standard for monolingual thesauri (1974) and the <a href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=12159">ISO
+5964</a>
+standard for multilingual thesauri (1985).  In ISO 2788 and ISO 5964, the
+primary entity of interest is the <em>term</em> -- a word or phrase with a specified
+semantic relationship to other <em>terms</em>.  The inherent ambiguity between index
+<em>terms</em> and the <em>concepts</em> underlying those <em>terms</em> was acknowledged in the
+1986 revision of ISO 2788.  However, the notions of <em>broader term</em>, <em>narrower
+term</em>, and <em>related term</em> were so deeply embedded in thesaurus practice (as the
+tags <em>BT</em>, <em>NT</em>, and <em>RT</em>), and the use of words as index keys was so deeply
+embedded in contemporary database design, that thesauri based on ISO 2788 and
+ISO 5964 may be characterized as "term-based".</p>
+<p><a href="http://www.iso.org/iso/home/store/catalogue_ics/catalogue_detail_ics.htm?csnumber=53657">ISO
+25964</a>,
+the successor standard to ISO 2788 and ISO 5964 published in 2011 (Part 1) and
+2013 (Part 2), explicitly characterizes a thesaurus as a list of <em>concepts</em>,
+each of which is labelled with a preferred term (in each language) and relevant
+synonyms and equivalents.  Thesauri based on ISO 25964 may be characterized as
+"concept-based".  <a href="http://www.w3.org/TR/skos-reference/">Simple Knowledge Organization
+System</a> (SKOS), published as a W3C
+Recommendation in 2009, provides a vocabulary for expressing a concept-based
+thesaurus for use in Semantic Web and Linked Data applications.</p>
+<p>Inasmuch as the GACS Project is taking SKOS as its point of departure, it is
+worth calling out the sources of potential confusion between the terminology
+used in term-based thesaurus practice and the terminology used in SKOS:</p>
 <ul>
 <li>
-<p>Controlled set of concepts (controlled vocabulary?) for the subject indexing
-  of agricultural research projects, agricultural literature, and other
-  agricultural materials.  Use in Linked Data: when tagged with GACS URIs and
-  indexed by search engines, resources discoverable on global scale.  </p>
+<p><em>Term</em> refers to the word or phrase used to label a <em>concept</em> in a thesaurus.
+  In an information-technology sense, a <em>term</em> is a literal, or string.  From a 
+  SKOS perspective, a "term-based" thesaurus is an indexing
+  language consisting of what SKOS calls <em>labels</em> -- words or phrases
+  encoded as strings.  </p>
 </li>
 <li>
-<p>"Smart searching": provides a means of enhancing recall and precision for the
-  searcher without the searcher's knowledge of the thesaurus.  Hierarchy can be
-  used to make searches more inclusive: an inclusive search is where terms
-  narrower than the search terms are added to queries.  Searches may also be
-  enhanced by use of related concepts.  </p>
+<p>A <em>concept</em> is a unit of thought that has semantics, or meaning.  As Leonard
+  Will puts it in his <a href="http://www.willpowerinfo.co.uk/glossary.htm">glossary of terms related to
+  thesauri</a>: "Concepts exist in
+  the mind as abstract entities which are independent of the terms used to
+  label them".  In a concept-based thesaurus, <em>terms</em> (words and phrases)
+  correspond to the <em>labels</em> of <em>SKOS concepts</em>.</p>
 </li>
 <li>
-<p>Support to automated indexing systems.</p>
-</li>
-<li>
-<p>Multilinguality: terminology across languages.</p>
+<p>A <em>concept scheme</em> is a set of concepts, optionally specified with
+  semantic relations between concepts.  AGROVOC, a <em>SKOS concept scheme</em>,
+  is still referred to either as the AGROVOC Thesaurus or as the AGROVOC 
+  Concept Scheme.  Technically, the category <em>concept scheme</em> is
+  broader than the category <em>thesaurus</em> and includes subject heading lists,
+  taxonomies, glossaries, classifications, and other types of controlled
+  vocabulary.</p>
 </li>
 </ul>
-<p>See <a href="http://browser.agrisemantics.org/gacs/en/">GACS browser</a>.</p>
+<p>An <em>ontology</em>, as defined by ISO 25964, is "a formal, explicit specification of
+a shared conceptualization".  The notion of <em>ontology</em> appears only at the
+margins of this report but will become more relevant as the GACS Project moves
+towards implementation.  The word <em>ontology</em> has a wide range of meanings in
+current usage.  For the purposes of this report an ontology is a set of
+statements about things, groups of things, and relations between things in a
+model of the world, expressed in a language that can be used to verify the
+logical consistency of that knowledge or to make implicit knowledge explicit.
+While there are gray areas between the two, an <em>ontology</em> is a construct
+engineered to enable logical reasoning and inference, while a <em>concept scheme</em>
+is a more flexible conceptualization optimized to support the sorts of indexing
+and structured browsing for which the three thesauri considered here were
+originally designed.</p>
               
             </div>
           </div>
@@ -171,8 +253,10 @@ systems.  Multilinguality.]</p>
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href=".." class="btn btn-neutral float-right" title="About these guidelines">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../relations/" class="btn btn-neutral float-right" title="Concept Relations">Next <span class="icon icon-circle-arrow-right"></span></a>
       
+      
+        <a href=".." class="btn btn-neutral" title="About these Guidelines"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -198,8 +282,10 @@ systems.  Multilinguality.]</p>
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
+        <span><a href=".." style="color: #fcfcfc;">&laquo; Previous</a></span>
       
-        <span style="margin-left: 15px"><a href=".." style="color: #fcfcfc">Next &raquo;</a></span>
+      
+        <span style="margin-left: 15px"><a href="../relations/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>
