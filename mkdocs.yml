@@ -5,12 +5,11 @@ repo_name: 'Github'
 edit_uri: 'edit/master/docs/'
 site_description: 'Guidelines for GACS'
 pages:
-- About GACS: gacs.md
 - About these Guidelines: index.md
+- About GACS: gacs.md
 - Concept Relations: relations.md
 - Concept Definitions: definitions.md
 - Concept Labels: labels.md
 - Scientific and Common Names: names.md
 - GACS Thematic Classification: thematic_classification.md
 - Documentation Properties: docproperties.md
-- Mappings to Wikidata: wikidata.md

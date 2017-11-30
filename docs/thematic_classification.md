@@ -1,19 +1,25 @@
-### Purpose of the GACS Thematic Classification
+#### Purpose of GACS thematic classification
 
-* To enable users of GACS to view terms by subject areas or disciplines
-* To collect terms in a subject area that may be of interest to specialists which are separated in the strict Hierarchical arrangement of GACS
+Many thesauri, such as NALT, the General Finnish Ontology (YSO), UNESCO
+Thesaurus, and the STW Thesaurus for Economics (Germany) provide a thematic
+division of concepts into clusters orthogonal to the hierarchy of broader and
+narrower concepts.  Thematic groups allow users to view concepts by subject
+area or discipline and present specialists with concepts of interest in their 
+fields.
 
-The classification scheme used was derived from the Unified Agriculture Thesaurus Project UAT, which
-was a joint project between CABI, NAL and FAO concluded in 1999.   It was constructed to accommodate
-the indexing vocabulary of the databases produced by the three organizations but it has features in
-common with other knowledge classifications.   CABI published the hierarchical classification in 1999.
-The classification has been adapted for GACS and remains hierarchical multilevel with two-letter codes
-used to designate specific groups within the upper classification.
+In creating GACS, the GACS Working Group was able to re-use a classification
+scheme that had been developed by CABI, FAO, and NAL in the 1990s for a joint
+project, the Unified Agriculture Thesaurus (UAT).  The CAB Classified Thesaurus
+published in 1999 (and subsequently dropped) was found to cover over 80% of the
+concepts in GACS.  The hierarchical, multi-level classification was adapted for
+GACS and the remaining 20% of concepts were assigned to categories.  The
+classification scheme, documented below, is specific to GACS and may be 
+pruned or expanded in accordance with GACS requirements.
 
-### Brief view of upper Classification Scheme applied to GACS
+#### Upper classification scheme for GACS (top level)
 
-        Two-
-        Letter
+Groups in the upper classification are designed with two-letter codes:
+
         Code    Classification Heading 
         CA      GENERAL 
         FA      PHYSICAL SCIENCES 
@@ -22,23 +28,22 @@ used to designate specific groups within the upper classification.
         PA      APPLIED SCIENCE AND TECHNOLOGY 
         WA      SOCIAL SCIENCES AND HUMANITIES 
 
-Each concept in the GACS is assigned at least one category.  Since the classification is not strict, terms
-can be placed in more than one category.  In general, the codes for the upper classification are not used
-since a more specific code is applied.
+Each concept in GACS is assigned at least one category.  The classification is
+not strict, and terms can be placed in more than one category.  In general, the
+codes for the upper classification are not used since a more specific code is
+applied.
 
 Example: Concept _forestry equipment_ may be in two categories:
 
         SR      Forestry
         TN      Equipment
 
-The purpose of this document is to give guiding Scope Notes for each category to future maintainers of
-the GACS vocabulary.  As this work evolves, the documentation can be updated to reflect current
-opinion and guidance.  Examples of Concepts sorted into the classification are given.
+The purpose of this document is to give guiding Scope Notes for each category
+to future maintainers of the GACS vocabulary.  As this work evolves, the
+documentation can be updated to reflect current opinion and guidance.  Examples
+of Concepts sorted into the classification are given.
 
-Note: _Do we want to insert SKOS example here?_ _May want to insert the
-frequency distribution numbers across categories here, with date._
-
-#### Full view of Classification Scheme applied to GACS
+#### Upper classification scheme for GACS (full view)
 
 __CA GENERAL__  
 
