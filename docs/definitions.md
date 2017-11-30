@@ -49,7 +49,7 @@
     definition, those definitions should be kept as long as they do not 
     repeat or conflict.
 
-#### Citations of sources
+#### Citation of sources
 
 13. The source of a definition should not be cited in-line, in the manner 
     of a journal article, but recorded in a separate source field.
