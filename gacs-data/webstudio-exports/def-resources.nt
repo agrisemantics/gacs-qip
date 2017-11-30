@@ -1,0 +1,128 @@
+<http://id.agrisemantics.org/gacs/def_07ba0c00> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_b6029767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_c3424972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/C27135> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_001e4f9c> .
+<http://id.agrisemantics.org/gacs/def_62d07be6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_c97c5fdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_c024ec39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/C725> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_99f91b87> .
+<http://id.agrisemantics.org/gacs/def_2785289b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_99f91b87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the action of making or manufacturing goods from components or raw materials."@en .
+<http://id.agrisemantics.org/gacs/def_0352b3af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/C14328> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_6fbac3e7> .
+<http://id.agrisemantics.org/gacs/def_09d176db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_6fbac3e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/C28717> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_09466a2e> .
+<http://id.agrisemantics.org/gacs/def_a8379673> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "A method used for estimating body composition using the opposition to flow of electrical current though body tissues."@en .
+<http://id.agrisemantics.org/gacs/C27182> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_4e08d358> .
+<http://id.agrisemantics.org/gacs/def_4bff2f24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the percentage of each species that make up a community."@en .
+<http://id.agrisemantics.org/gacs/def_59889a92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The volume of trees or other resources that can be turned into products."@en .
+<http://id.agrisemantics.org/gacs/C30237> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_09d176db> .
+<http://id.agrisemantics.org/gacs/C12978> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_c024ec39> .
+<http://id.agrisemantics.org/gacs/def_630bbc72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The branch of mechanics concerned purely with the motion of bodies.  This is in contrast to dynamics, which also considers the reasons for motion, e.g., the forces acting on such bodies."@en .
+<http://id.agrisemantics.org/gacs/def_b05c816f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the level of a pathogen in a population, based on blood serum sampling."@en .
+<http://id.agrisemantics.org/gacs/def_6602cdfa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The branch of science concerned with the study of earthquakes and the structure of the earth, by both natually and artificially generated seismic waves.  Source: earthquake.usgs.gov/learn/glossary"@en .
+<http://id.agrisemantics.org/gacs/C23971> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_3938ffe0> .
+<http://id.agrisemantics.org/gacs/def_01861b0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "A geographical area where a group of organisms, either domesticated or wild, first developed its distinctive properties."@en .
+<http://id.agrisemantics.org/gacs/C5248> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_2785289b> .
+<http://id.agrisemantics.org/gacs/def_44a4bdcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_f616f5ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the branch of chemistry that is concerned with the rates of chemical reactions."@en .
+<http://id.agrisemantics.org/gacs/def_c3424972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the action of impeding or preventing passage or progress by the presence of an obstacle, barrier or blockage."@en .
+<http://id.agrisemantics.org/gacs/C1417> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_62d07be6> .
+<http://id.agrisemantics.org/gacs/C10091> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_4bff2f24> .
+<http://id.agrisemantics.org/gacs/def_07ba0c00> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "involuntary action or movement in response to a stimulus due to neural pathways."@en .
+<http://id.agrisemantics.org/gacs/def_4d3f099e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "a method of classification of animals and plants according to the proportion of measurable characteristics they have in common.  It is assumed that the higher the proportion of characteristics that two organisms share, the more recently they diverged from a common ancestor."@en .
+<http://id.agrisemantics.org/gacs/def_4bff2f24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/C29605> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_6602cdfa> .
+<http://id.agrisemantics.org/gacs/def_80b5f905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Property of soil with pH level below 7."@en .
+<http://id.agrisemantics.org/gacs/def_b6029767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The branch of mechanics concerned with the effects of forces on the motion of objects.  This in contrast to kinetics, which is concerned purely with the motion of bodies."@en .
+<http://id.agrisemantics.org/gacs/def_113437ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_f616f5ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_395d7351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/C4875> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_9a971bff> .
+<http://id.agrisemantics.org/gacs/def_3332493c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/C11489> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_80b5f905> .
+<http://id.agrisemantics.org/gacs/def_075e1300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_d62679cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/C11802> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_f616f5ca> .
+<http://id.agrisemantics.org/gacs/C19637> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_3e22490e> .
+<http://id.agrisemantics.org/gacs/def_45264fef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_0c21db99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The angular orientation of the leaves in relationship to light sources or the stem."@en .
+<http://id.agrisemantics.org/gacs/C25800> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_0c21db99> .
+<http://id.agrisemantics.org/gacs/def_001e4f9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_d62679cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the act of ingesting water, beverages or other liquids into the body through the mouth."@en .
+<http://id.agrisemantics.org/gacs/def_630bbc72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_bb6c79b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_3453cf2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_3938ffe0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The objects that cause a fire to occur, such as lightning, spark, campfires, etc."@en .
+<http://id.agrisemantics.org/gacs/C1601> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_113437ec> .
+<http://id.agrisemantics.org/gacs/C27015> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_a8379673> .
+<http://id.agrisemantics.org/gacs/def_01861b0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_c97c5fdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Measure of the amount of acid present in a solution, which is usually expressed in grams per liter (g/L)."@en .
+<http://id.agrisemantics.org/gacs/def_09466a2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Human actions or natural phenomena that cause a fire to occur, such as lightning, spark, unextinguished campfires, lava, etc."@en .
+<http://id.agrisemantics.org/gacs/C28109> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_3453cf2c> .
+<http://id.agrisemantics.org/gacs/C10648> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_62d07be6> .
+<http://id.agrisemantics.org/gacs/C7578> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_0352b3af> .
+<http://id.agrisemantics.org/gacs/C18995> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_c3424972> .
+<http://id.agrisemantics.org/gacs/def_bb6c79b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The branch of soil science that is concerned with the form and arrangement of soil features."@en .
+<http://id.agrisemantics.org/gacs/def_23c48f24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the feeling or state of being satisfied or gratified to or beyond capacity."@en .
+<http://id.agrisemantics.org/gacs/def_6fbac3e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The branch of science concerning the interaction of biological and chemical processes that occur in the soil, such as the cycling of elements and nutrients."@en .
+<http://id.agrisemantics.org/gacs/def_a8379673> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_3332493c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the abnormal narrowing of a passage in the body."@en .
+<http://id.agrisemantics.org/gacs/C17512> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_b6029767> .
+<http://id.agrisemantics.org/gacs/def_075e1300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Any of the spatial arrangements that the atoms in a molecule may adopt and freely convert between, especially by rotation about individual single bonds."@en .
+<http://id.agrisemantics.org/gacs/def_0352b3af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the distribution or accumulation of substances, such as drugs, and/or metabolites in tissues."@en .
+<http://id.agrisemantics.org/gacs/def_3453cf2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Volume of all living trees in a given area of forest or wooded land that have more than a certain diameter at breast height."@en .
+<http://id.agrisemantics.org/gacs/C4921> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_44a4bdcb> .
+<http://id.agrisemantics.org/gacs/def_931c98d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The minimum quantity of energy that the reacting species must possess in order to undergo a specific chemical reaction or physical transport.  The higher the activation energy, the slower the chemical reaction will be."@en .
+<http://id.agrisemantics.org/gacs/C3075> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_395d7351> .
+<http://id.agrisemantics.org/gacs/def_c024ec39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "A forest, ocean, or other natural environment viewed in its ability to absorb carbon dioxide from the atmosphere."@en .
+<http://id.agrisemantics.org/gacs/C5381> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_45264fef> .
+<http://id.agrisemantics.org/gacs/def_113437ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the action of putting something on a surface."@en .
+<http://id.agrisemantics.org/gacs/def_41397393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "A governmental institution responsible for the work of building and maintaining infrastructure in human communities, such as water supply plants, hospitals, roads, schools, water reservoirs, bridges, waste management systems, etc."@en .
+<http://id.agrisemantics.org/gacs/def_001e4f9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the branch of science concerned with the structure and properties of crystals."@en .
+<http://id.agrisemantics.org/gacs/def_6602cdfa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_2785289b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Technological change that is characterized by the application of the simplest technology to achieve the intended purpose and takes into consideration the social and environmental aspects.  Technological choices can be characterized as being \"people-centric\", small-scale, decentralized, labor-intensive, energy-efficienct, environmentally sound and locally autonomous."@en .
+<http://id.agrisemantics.org/gacs/def_3e22490e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The branch of science and technology concerned with the conveyance of liquids through pipes and channels, especially as a source of mechanical force or control."@en .
+<http://id.agrisemantics.org/gacs/def_44a4bdcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The science that deals with the Earth's physical structure and substances, its history, and the processes that change it over time."@en .
+<http://id.agrisemantics.org/gacs/def_45264fef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The consumption of energy derived from food sources."@en .
+<http://id.agrisemantics.org/gacs/C10981> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_fed9feb2> .
+<http://id.agrisemantics.org/gacs/def_80b5f905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/C15942> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_d62679cb> .
+<http://id.agrisemantics.org/gacs/def_fed9feb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The study of the chemical composition of the Earth and its rock and minerals."@en .
+<http://id.agrisemantics.org/gacs/def_09d176db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The branch of soil science that is concerned with the  form and arrangement of microscopic soil features."@en .
+<http://id.agrisemantics.org/gacs/def_395d7351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "proteins originating from animals."@en .
+<http://id.agrisemantics.org/gacs/def_4e08d358> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the amount of something produced."@en .
+<http://id.agrisemantics.org/gacs/def_3e22490e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_3938ffe0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_931c98d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_59889a92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_23c48f24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_4d3f099e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_62d07be6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "A concept that can be freely defined as characteristics and patterns that describe the participants in agricultural production, including farm businesses, farm operators, and farm households.  Structural indicators that are used in analyses such as tracking changes in farms and farming over time, and assessing the impact of changes in farm programs and policies.  Source: www.ers.usda.gov"@en .
+<http://id.agrisemantics.org/gacs/def_ef7eed18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_fed9feb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_b05c816f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/C29613> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_01861b0b> .
+<http://id.agrisemantics.org/gacs/def_41397393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/C8667> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_23c48f24> .
+<http://id.agrisemantics.org/gacs/C1377> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_075e1300> .
+<http://id.agrisemantics.org/gacs/def_9a971bff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_9a971bff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Study of hydrology specifically in drainage basins."@en .
+<http://id.agrisemantics.org/gacs/def_0c21db99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/C7725> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_c97c5fdd> .
+<http://id.agrisemantics.org/gacs/C30500> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_59889a92> .
+<http://id.agrisemantics.org/gacs/C26993> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_3332493c> .
+<http://id.agrisemantics.org/gacs/def_09466a2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/def_ef7eed18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the developmental history of an individual organism within its own lifetime, which starts at the simple fertilized egg to the gradual progressive development into a more complex mature form."@en .
+<http://id.agrisemantics.org/gacs/C13266> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_931c98d6> .
+<http://id.agrisemantics.org/gacs/def_4e08d358> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/C30256> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_41397393> .
+<http://id.agrisemantics.org/gacs/C14057> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_bb6c79b3> .
+<http://id.agrisemantics.org/gacs/C25728> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_07ba0c00> .
+<http://id.agrisemantics.org/gacs/C24101> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_4d3f099e> .
+<http://id.agrisemantics.org/gacs/C1749> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_630bbc72> .
+<http://id.agrisemantics.org/gacs/C6039> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_ef7eed18> .
+<http://id.agrisemantics.org/gacs/def_99f91b87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.agrisemantics.org/vocab#Definition> .
+<http://id.agrisemantics.org/gacs/C4592> <http://www.w3.org/2004/02/skos/core#definition> <http://id.agrisemantics.org/gacs/def_b05c816f> .
+
