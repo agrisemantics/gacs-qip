@@ -1,5 +1,3 @@
-### About these guidelines
-
 This website documents the principles and guidelines used to maintain the
 Global Agricultural Concept Scheme (GACS).  It aims at providing enough
 explanation and historical context to convey the rationale for the design

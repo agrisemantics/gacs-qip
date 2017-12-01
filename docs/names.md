@@ -1,5 +1,3 @@
-### Scientific and common names of organisms
-
 Concepts of type "organism" are 29% of GACS Beta 1.6.  Of these, 
 over 83% have a scientific name as prefLabel. The remaining 17%
 includes:
@@ -39,9 +37,7 @@ alternative ("Canis lupus familiaris").
 
 ![Decision tree from March 2015 meeting](names.png)
 
-#### Examples
-
-See also [Lori Finch note](https://github.com/agrisemantics/gacs-qip/blob/master/documentation/Common_Names_and_Latin_Names-GACS.docx)
+For example:
 
     ----------------------------------------------------------------------------------------
     | Condition                    | prefLabel                 | altLabel                  |
@@ -58,3 +54,5 @@ See also [Lori Finch note](https://github.com/agrisemantics/gacs-qip/blob/master
     |                              | Hyacinthoides             |                           |
     ----------------------------------------------------------------------------------------
 
+Lori Finch prepared a note about [common names and Latin names in
+GACS](https://github.com/agrisemantics/gacs-qip/blob/master/documentation/Common_Names_and_Latin_Names-GACS.docx).

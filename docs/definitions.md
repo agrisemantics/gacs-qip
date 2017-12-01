@@ -1,4 +1,4 @@
-#### Editorial guidelines for definitions
+#### Guidelines for definitions
 
 1. In GACS, definitions are provided, where needed, to help users understand
    the meaning of a concept and decide on its use.  There is no requirement

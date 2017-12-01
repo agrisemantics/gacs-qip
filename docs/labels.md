@@ -1,5 +1,3 @@
-### Concept labels
-
 A concept scheme, GACS is based on "concepts" -- abstract entities, or
 "units of thought", seen as independent from the natural-language terms used to
 express them.  Concepts are identified with URIs, and these URIs are often 

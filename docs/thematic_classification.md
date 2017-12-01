@@ -1,5 +1,3 @@
-#### Purpose of GACS thematic classification
-
 Many thesauri, such as NALT, the General Finnish Ontology (YSO), UNESCO
 Thesaurus, and the STW Thesaurus for Economics (Germany) provide a thematic
 division of concepts into clusters orthogonal to the hierarchy of broader and
