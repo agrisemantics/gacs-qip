@@ -67,21 +67,22 @@
     <a class="current" href="./">Concept relations</a>
     <ul class="subnav">
             
-    <li class="toctree-l2"><a href="#semantic-relations-among-concepts">Semantic relations among concepts</a></li>
+    <li class="toctree-l2"><a href="#defining-concepts-with-semantic-relations">Defining concepts with semantic relations</a></li>
     
-        <ul>
-        
-            <li><a class="toctree-l3" href="#broader-narrower-and-related-concepts">Broader, narrower, and related concepts</a></li>
-        
-            <li><a class="toctree-l3" href="#top-level-concepts">Top-level concepts</a></li>
-        
-            <li><a class="toctree-l3" href="#concept-types">Concept types</a></li>
-        
-            <li><a class="toctree-l3" href="#custom-relations-between-concepts">Custom relations between concepts</a></li>
-        
-            <li><a class="toctree-l3" href="#mapping-relations-between-concepts">Mapping relations between concepts</a></li>
-        
-        </ul>
+
+    <li class="toctree-l2"><a href="#broader-narrower-and-related-concepts">Broader, narrower, and related concepts</a></li>
+    
+
+    <li class="toctree-l2"><a href="#top-level-concepts">Top-level concepts</a></li>
+    
+
+    <li class="toctree-l2"><a href="#concept-types">Concept types</a></li>
+    
+
+    <li class="toctree-l2"><a href="#custom-non-skos-relations-between-concepts">Custom (non-SKOS) relations between concepts</a></li>
+    
+
+    <li class="toctree-l2"><a href="#mapping-to-concepts-in-external-vocabularies">Mapping to concepts in external vocabularies</a></li>
     
 
     </ul>
@@ -147,7 +148,7 @@
           <div role="main">
             <div class="section">
               
-                <h3 id="semantic-relations-among-concepts">Semantic relations among concepts</h3>
+                <h4 id="defining-concepts-with-semantic-relations">Defining concepts with semantic relations</h4>
 <p>A GACS concept is formally defined by its "semantic neighborhood", a web of
 associative and hierarchical relations with other concepts in GACS.  The
 concept
@@ -220,16 +221,16 @@ obvious and clearly defined types of things: <em>Chemical</em>, <em>Geographical
 <em>Organism</em>, and <em>Product</em>, with <em>Topic</em> as a fifth "catch-all" type for all
 concepts not otherwise covered (and with the expectation that <em>Topic</em> might be
 further differentiated over time).</p>
-<h4 id="custom-relations-between-concepts">Custom relations between concepts</h4>
+<h4 id="custom-non-skos-relations-between-concepts">Custom (non-SKOS) relations between concepts</h4>
 <p>Some thesauri, such as AGROVOC and CAB Thesaurus, use semantic relations beyond
-those of <em>broader</em>, <em>narrower</em>, and <em>related</em> to express more specific
-relations between concepts.  However, efforts to "ontologize" thesauri with
-such additional relations struggle to ensure that the properties would be
-applied consistently, comprehensively, and maintainably.  The GACS Working
-Group decided that custom relations should only be created for use cases
-important enough to justify the effort.  Two properties qualified: <em>hasProduct</em>
-and <em>productOf</em>, for relating fish as a product to fish as an organism.</p>
-<h4 id="mapping-relations-between-concepts">Mapping relations between concepts</h4>
+standard SKOS properties to express more specific relations between concepts.
+However, efforts to "ontologize" thesauri with such additional relations
+struggle to ensure that the properties would be applied consistently,
+comprehensively, and maintainably.  The GACS Working Group decided that custom
+relations should only be created for use cases important enough to justify the
+effort.  Two properties qualified: <em>hasProduct</em> and <em>productOf</em>, for relating
+fish as a product to fish as an organism.</p>
+<h4 id="mapping-to-concepts-in-external-vocabularies">Mapping to concepts in external vocabularies</h4>
 <p>GACS was created at the intersection of three existing thesauri, and each
 concept in GACS has a SKOS "exact match" relation back to the concept or
 concepts in AGROVOC, CABT, and NALT from which it was created.  </p>
