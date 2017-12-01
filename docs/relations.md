@@ -1,4 +1,4 @@
-### Semantic relations among concepts
+#### Defining concepts with semantic relations
 
 A GACS concept is formally defined by its "semantic neighborhood", a web of
 associative and hierarchical relations with other concepts in GACS.  The
@@ -80,18 +80,18 @@ _Organism_, and _Product_, with _Topic_ as a fifth "catch-all" type for all
 concepts not otherwise covered (and with the expectation that _Topic_ might be
 further differentiated over time).
 
-#### Custom relations between concepts
+#### Custom (non-SKOS) relations between concepts
 
 Some thesauri, such as AGROVOC and CAB Thesaurus, use semantic relations beyond
-those of _broader_, _narrower_, and _related_ to express more specific
-relations between concepts.  However, efforts to "ontologize" thesauri with
-such additional relations struggle to ensure that the properties would be
-applied consistently, comprehensively, and maintainably.  The GACS Working
-Group decided that custom relations should only be created for use cases
-important enough to justify the effort.  Two properties qualified: _hasProduct_
-and _productOf_, for relating fish as a product to fish as an organism.
+standard SKOS properties to express more specific relations between concepts.
+However, efforts to "ontologize" thesauri with such additional relations
+struggle to ensure that the properties would be applied consistently,
+comprehensively, and maintainably.  The GACS Working Group decided that custom
+relations should only be created for use cases important enough to justify the
+effort.  Two properties qualified: _hasProduct_ and _productOf_, for relating
+fish as a product to fish as an organism.
 
-#### Mapping relations between concepts
+#### Mapping to concepts in external vocabularies
 
 GACS was created at the intersection of three existing thesauri, and each
 concept in GACS has a SKOS "exact match" relation back to the concept or

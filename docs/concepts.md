@@ -1,4 +1,4 @@
-#### Guidelines for concepts
+In GACS:
 
 * Each concept in GACS is identified with a unique URI.
 * Each concept has at least one preferred label, either tagged by language or

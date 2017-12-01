@@ -22,8 +22,6 @@ listing of the [full classification
 scheme](https://github.com/agrisemantics/gacs-qip/blob/master/documentation/thematic_classification_full.md)
 for printout. 
 
-#### Upper classification scheme for GACS (top level)
-
 Headings in the classification scheme are designated with two-letter codes.
 In addition, each heading is identified with a URI in the GACS namespace, 
 such as [http://id.agrisemantics.org/gacs/G_HW](http://tester-os-kktest.lib.helsinki.fi/gacsdemo/gacs/en/page/G_HW)

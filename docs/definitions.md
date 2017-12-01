@@ -1,6 +1,6 @@
-#### Guidelines for definitions
+In GACS:
 
-1. In GACS, definitions are provided, where needed, to help users understand
+1. Definitions are provided, where needed, to help users understand
    the meaning of a concept and decide on its use.  There is no requirement
    that a concept have a definition.
 
@@ -34,8 +34,6 @@
 9. A definition should be stated as clearly and objectively as possible 
    without erroneously limiting the concept to a specific discipline.  
 
-#### Definitions inherited from GACS source thesauri
-
 10. For definitions inherited from AGROVOC, NALT, or CABT, the original 
     indication of source in AGROVOC, NALT, or CABT, are retained in 
     GACS.
@@ -48,8 +46,6 @@
 12. In cases where a GACS concept has inherited more than one 
     definition, those definitions should be kept as long as they do not 
     repeat or conflict.
-
-#### Citation of sources
 
 13. The source of a definition should not be cited in-line, in the manner 
     of a journal article, but recorded in a separate source field.

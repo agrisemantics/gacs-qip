@@ -1,5 +1,3 @@
-### Documentation properties
-
 #### Scope notes
 
 ISO 25964 defines a scope note as a "note that defines or clarifies the
