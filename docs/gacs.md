@@ -1,3 +1,5 @@
+### [Placeholder text - to be completed]
+
 [What GACS is.  GACS as a 'concept scheme'.  Origins in three thesauri. How
 'concept scheme' differs (or not!) from 'thesaurus'.  Use of standards in its
 construction, such as ISO 25964.  Use of SKOS in its expression.  Concepts
@@ -5,59 +7,19 @@ construction, such as ISO 25964.  Use of SKOS in its expression.  Concepts
 Linked Data.  Use of preferred labels (unique terms) for indexing in retrieval
 systems.  Multilinguality.]
 
-L full.
+GACS QIP
 
 See [GACS browser](http://browser.agrisemantics.org/gacs/en/).
-### Scope (Subject coverage)
 
-[Rough characterization of subject coverage, perhaps with graphics.]
-
-[Semantic types (list).  Rationale for limited use of semantic types.]
-
-[Classification scheme and its rationale.  Origins in UAT.  Its relation
-to semantic types.]
-
-[Something about UAT motivation: Categories originally constructed as entry
-points into thesaurus terms.  "Discipline-oriented"?  Intended to show breadth
-of topic coverage?  Comment about specificity of categories, user-friendliness.
-For Web presentation (or paper-based)?]
-
-[ISO 25964, p2, defines classification: "activity involving the components of
-grouping similar and related things together, separating dissimilar or
-unrelated things, and arranging the resulting groups in a logical and helpful
-sequence".]
-So we're not just minting yet another URI for Alberta, but also saying
-that it exactly matches agrovoc:c_243, cabt:7687 and nalt:5999 (and
-exact matches are transitive, so we can infer e.g. that cabt:7687
-matches nalt:5999). These statements didn't exist before GACS came
-along, and there was no natural place to state them, so GACS concepts
-were defined. In the case of countries, territories etc. these mappings
-may feel a bit trivial (often just exact matches, as in this case), but
-for conceptual entities there was quite a lot of manual work required to
-align the concepts of the three thesauri, since they often had different
-points of view and granularity.
-
-In October 2013, the Food and Agricultural Organization of the United Nations
+The Food and Agricultural Organization of the United Nations
 (FAO), CAB International (CABI), and the National Agricultural Library of the
-USA (NAL) [agreed to
-collaborate](http://aims.fao.org/community/agrovoc/blogs/national-agricultural-library-usa-cabi-and-fao-agree-collaboration-developme)
+USA (NAL) [agreed in 2013](http://aims.fao.org/community/agrovoc/blogs/national-agricultural-library-usa-cabi-and-fao-agree-collaboration-developme)
+to collaborate
 in the development of their respective thesauri: the NAL Thesaurus, CAB
-Thesaurus, and the AGROVOC Concept Scheme.  As part of this collaboration
-agreement, the three organizations are exploring the feasibility of developing
-a Global Agricultural Concept Scheme (GACS).  As the first step in this
-exploration, this report provides a detailed analysis of the three thesauri and
-assesses their respective strengths and weaknesses.
+Thesaurus, and the AGROVOC Concept Scheme.  This collaboration led the development of 
+a Global Agricultural Concept Scheme (GACS).
 
-The three organizations share a long history of exchange and cooperation.  In a
-precursor to the GACS Project, the three organizations joined forces in 1989 to
-work on a [Unified Agricultural
-Thesaurus](http://www.nal.usda.gov/pubs_dbs/ann_rpts/1994/94arint.htm) (UAT).
-The UAT project ended on completion of a UAT classification scheme in 1995 and
-the near-simultaneous retirement of its principal collaborators from FAO, CABI,
-and NAL.  In the context of the UAT project, the three organizations jointly
-vetted improvements to AGROVOC and CABT and developed an upper
-classification structure to which AGROVOC and CABT were mapped.  A
-UAT-classified version of CAB Thesaurus was made available to users until 1999.
+UAT-classified version of CAB Thesaurus
 
 AGROVOC (created in 1982), CAB Thesaurus (1983), and NAL Thesaurus (2002) were
 designed in conformance with the thesaurus practice of their day as laid down
@@ -125,3 +87,13 @@ is a more flexible conceptualization optimized to support the sorts of indexing
 and structured browsing for which the three thesauri considered here were
 originally designed.
 
+So we're not just minting yet another URI for Alberta, but also saying
+that it exactly matches agrovoc:c_243, cabt:7687 and nalt:5999 (and
+exact matches are transitive, so we can infer e.g. that cabt:7687
+matches nalt:5999). These statements didn't exist before GACS came
+along, and there was no natural place to state them, so GACS concepts
+were defined. In the case of countries, territories etc. these mappings
+may feel a bit trivial (often just exact matches, as in this case), but
+for conceptual entities there was quite a lot of manual work required to
+align the concepts of the three thesauri, since they often had different
+points of view and granularity.
