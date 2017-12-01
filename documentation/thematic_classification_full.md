@@ -81,7 +81,7 @@ __FA PHYSICAL SCIENCES__
         MV .. psychology  
 
         NA . organisms  
-        NC ..organisms, by non. taxonomic groups  
+        NC .. organisms, by non. taxonomic groups  
         NE .. organisms, taxonomically arranged  
         NH ... prions  
         NK ... viruses  

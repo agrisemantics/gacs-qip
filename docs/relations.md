@@ -6,12 +6,12 @@ concept
 [_alfalfa_](http://tester-os-kktest.lib.helsinki.fi/gacsdemo/gacs/en/page/C1235),
 for example, is defined by relations such as:
 
-* _alfalfa_ hasType _Product_
-* _alfalfa_ BT _legumes_
-* _alfalfa_ RT _fodder plants_ 
-* _fodder plants_ RT _livestock feeding_
-* _fodder plants_ RT _forage_
-* _fodder plants_ RT _hay_
+* _alfalfa_ `hasType` _Product_
+* _alfalfa_ `BT` _legumes_
+* _alfalfa_ `RT` _fodder plants_ 
+* _fodder plants_ `RT` _livestock feeding_
+* _fodder plants_ `RT` _forage_
+* _fodder plants_ `RT` _hay_
 
 These relations are reflected in the GACS definition of _alfalfa_ as: "A
 valuable _leguminous crop_ for _forage_ or _hay_ used in _livestock feeding_".
@@ -27,8 +27,8 @@ related concepts and for expanding queries.  They can be used to disambiguate
 meanings and to check concept hierarchies for consistency.  Because they
 cluster related examples, they are less vulnerable than definitions to
 misinterpretation by translators.  In GACS, definitions are "nice to have", but
-semantic relations are essential.  To be maintainable with consistency, on the
-other hand, semantic relations should be as simple and obvious as possible.
+semantic relations are essential.  For maintainability, the set of semantic
+relations used in GACS has been kept as simple and obvious as possible.
 
 #### Broader, narrower, and related concepts
 
@@ -55,15 +55,15 @@ concepts (top-level concepts):
 
 In thesaurus practice, top concepts are typically intended for use in faceted
 browsing or in creating microthesauri.  In GACS, the top concepts can be used
-as entry points for browsing GACS by thematic group, using the Hierarchy tab of
-the Skosmos browser.  The top concepts are too abstract to be used for
-indexing.  Concepts further down in the hierarchy are more concrete and more
-useful both for indexing and for clarifying meanings (disambiguation).  While a
-certain amount of polyhierarchy (as when concepts have more than one broader
-concept) may be inevitable, even desirable, it seems unrealistic to expect that
-principles for polyhierarchy could be applied uniformly, consistently, and at
+as entry points for browsing GACS by thematic group in the Hierarchy tab of the
+Skosmos browser.  The top concepts are too abstract to be used for indexing.
+Concepts further down in the hierarchy are more concrete and more useful both
+for indexing and for clarifying meanings (disambiguation).  While a certain
+amount of polyhierarchy (where concepts have more than one broader concept) may
+be inevitable, even desirable, it seems unrealistic to expect that a complex
+polyhierarchy could be enforced and maintained in a principled way and at
 scale.  For GACS, the goal is to to keep the hierarchy simple, and as close to
-the ideal of cascading "is a" relations, as can pragmatically be achieved.
+the ideal of cascading "is a" relations, as pragmatically possible.
 
 #### Concept types
 

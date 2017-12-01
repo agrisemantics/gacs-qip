@@ -1,5 +1,10 @@
 #### Scope notes for classification scheme applied to GACS
 
+This document provides Scope Notes for each category of the classification
+scheme, with examples of concepts assigned to specific categories, for use by
+future maintainers of the GACS vocabulary.  As this work evolves, the
+documentation can be updated to reflect current opinion and guidance.
+
 _Examples of concepts assigned to the category are in italics._
 
 __CA GENERAL__.  Interdisciplinary and applicable to most branches of research.
