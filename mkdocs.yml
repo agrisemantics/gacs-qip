@@ -7,7 +7,7 @@ site_description: 'Guidelines for GACS'
 pages:
 - About these guidelines: index.md
 - About GACS: gacs.md
-- GACS concepts: concepts.md
+- Concepts: concepts.md
 - Concept relations: relations.md
 - Concept definitions: definitions.md
 - Concept labels: labels.md

@@ -89,7 +89,8 @@ struggle to ensure that the properties would be applied consistently,
 comprehensively, and maintainably.  The GACS Working Group decided that custom
 relations should only be created for use cases important enough to justify the
 effort.  Two properties qualified: _hasProduct_ and _productOf_, for relating
-fish as a product to fish as an organism.
+[fish as a product](http://id.agrisemantics.org/gacs/C2986) to [fish as an
+organism](http://id.agrisemantics.org/gacs/C1089).
 
 #### Mapping to concepts in external vocabularies
 
