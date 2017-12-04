@@ -25,9 +25,8 @@ Thesaurus](http://agclass.nal.usda.gov/), for which GACS provides a mapping
 hub.
 
 GACS is seen as an important step towards linking and integrating agricultural
-data of all types in addressing the challenge of global food security.  The
-GACS community is reaching out to new stakeholders.  Over the longer term, the
-GACS community aspires to work in collaboration with expert providers of
-concept URIs in specific areas such as species, viruses, chemicals, and
-geographic places.
+data of all types to address the long-term challenge of global food security.
+The GACS community of maintenance organizations is growing.  The GACS community
+aspires to build collaboration with expert providers of concept URIs in
+specific areas such as species, viruses, chemicals, and geographic places.
 
