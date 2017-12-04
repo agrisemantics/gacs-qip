@@ -1,8 +1,5 @@
-Explore GACS
-
-* [GACS Skosmos browser (Version 4.0, in development)](http://tester-os-kktest.lib.helsinki.fi/gacsdemo/gacs/en/)
-* [GACS Skosmos browser (Version 3.1, stable)](http://browser.agrisemantics.org/gacs/en/)
-* [GACS Guidelines](https://agrisemantics.github.io/gacs-qip/)
+* [GACS in Skosmos (Version 4.0, to be released soon)](http://tester-os-kktest.lib.helsinki.fi/gacsdemo/gacs/en/)
+* [GACS in Skosmos (Version 3.1, stable since May 2016)](http://browser.agrisemantics.org/gacs/en/)
 
 The [Global Agricultural Concept Scheme
 (GACS)](http://id.agrisemantics.org/gacs/) is a [SKOS concept
