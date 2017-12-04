@@ -1,5 +1,3 @@
-#### Scope notes
-
 ISO 25964 defines a scope note as a "note that defines or clarifies the
 semantic boundiaries of a concept as it is used in the structured vocabulary.
 ...  A term used to label a concept can have several meanings in normal usage.
