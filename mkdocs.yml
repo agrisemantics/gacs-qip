@@ -6,7 +6,7 @@ edit_uri: 'edit/master/docs/'
 site_description: 'Guidelines for GACS'
 pages:
 - About these guidelines: index.md
-- About GACS: gacs.md
+- Global Agricultural Concept Scheme: gacs.md
 - Concepts: concepts.md
 - Concept relations: relations.md
 - Concept definitions: definitions.md
