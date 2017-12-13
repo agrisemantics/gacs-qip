@@ -21,7 +21,7 @@ SPARQL ?= sparql
 JAVA_OPTS = -Xmx2G
 
 # Slices of the VocBench export that constitute GACS
-SLICES ?= $(wildcard slices/gacs-lang-*) slices/gacs-mapping.nt slices/gacs-structure.nt slices/gacs-product.nt slices/gacs-types.nt slices/gacs-group-defs.nt slices/gacs-group-members.nt slices/gacs-wikidata-links.nt
+SLICES ?= $(wildcard slices/gacs-lang-*) slices/gacs-mapping.nt slices/gacs-structure.nt slices/gacs-product.nt slices/gacs-types.nt slices/gacs-group-defs.nt slices/gacs-group-members.nt slices/gacs-wikidata-links.nt slices/gacs-ontology.nt
 
 # ** RULES **
 
