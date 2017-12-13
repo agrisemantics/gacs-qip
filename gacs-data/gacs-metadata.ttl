@@ -27,3 +27,11 @@
   beyond the initial three, and in multiple language areas."""@en ;
 
 	dc:title "Global Agricultural Concept Scheme Core" .
+
+<http://id.agrisemantics.org/gacs-noncore> a skos:ConceptScheme ;
+	dc:creator "Global Agricultural Concept Scheme working group" ;
+	dc:contributor "Food and Agriculture Organization of the UN"@en ,
+		"USDA, National Agricultural Library"@en ,
+		"CAB International"@en ;
+
+	dc:title "Global Agricultural Concept Scheme non-core concepts" .
