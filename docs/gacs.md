@@ -1,5 +1,4 @@
-* [GACS Beta 4.0 in Skosmos (to be released soon)](http://tester-os-kktest.lib.helsinki.fi/gacsdemo/gacs/en/)
-* [GACS Beta 3.1 in Skosmos (stable since May 2016)](http://browser.agrisemantics.org/gacs/en/)
+* [GACS Beta 4.0 in Skosmos](http://browser.agrisemantics.org/gacs/en/)
 
 The [Global Agricultural Concept Scheme
 (GACS)](http://id.agrisemantics.org/gacs/) is a [SKOS concept
