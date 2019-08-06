@@ -4,9 +4,9 @@ repo_url: https://github.com/agrisemantics/gacs-qip
 repo_name: 'Github'
 edit_uri: 'edit/master/docs/'
 site_description: 'Guidelines for GACS'
-pages:
+nav:
 - About these guidelines: index.md
-- Global Agricultural Concept Scheme: gacs.md
+- Global Agricultural Concept Space: gacs.md
 - Concepts: concepts.md
 - Concept relations: relations.md
 - Concept definitions: definitions.md
